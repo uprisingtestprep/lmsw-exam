@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "values_and_ethics",
+  "front": "What is informed consent?",
+  "back": "Informed consent means a client agrees to services after the social worker explains the purpose, risks, benefits, and alternatives in plain language. The client must have the capacity to choose, and they can refuse or stop at any time."
+ },
+ {
+  "id": 2,
+  "domain": "values_and_ethics",
+  "front": "When can a social worker share confidential information without permission?",
+  "back": "A social worker can share information without permission when a law requires it, such as suspected child abuse, a client who threatens to harm someone, or a court order. These limits should be explained to the client up front."
+ },
+ {
+  "id": 3,
+  "domain": "values_and_ethics",
+  "front": "What is the HIPAA minimum necessary rule?",
+  "back": "The minimum necessary rule says a worker shares only the smallest amount of protected health information needed for the task. Extra details that the receiver does not need should be left out."
+ },
+ {
+  "id": 4,
+  "domain": "values_and_ethics",
+  "front": "What is mandatory reporting for suspected child abuse?",
+  "back": "Social workers must report reasonable suspicion of child abuse or neglect to the authorities, even without proof. The report is required by law and does not need the client's permission."
+ },
+ {
+  "id": 5,
+  "domain": "values_and_ethics",
+  "front": "What is mandatory reporting for suspected elder abuse?",
+  "back": "Social workers must report suspected abuse, neglect, or exploitation of older adults in most states. The report usually goes to adult protective services or the police."
+ },
+ {
+  "id": 6,
+  "domain": "values_and_ethics",
+  "front": "What is the duty to warn?",
+  "back": "Duty to warn means a social worker must act to protect a specific person when a client makes a credible threat to harm them. This duty grew out of the Tarasoff case, and the exact rules vary by state."
+ },
+ {
+  "id": 7,
+  "domain": "values_and_ethics",
+  "front": "Who is the client in a child custody evaluation?",
+  "back": "In a child custody evaluation the client is the court, not the parents or the child. The evaluator gives neutral information to help the judge decide what is best for the child."
+ },
+ {
+  "id": 8,
+  "domain": "values_and_ethics",
+  "front": "What is a dual relationship?",
+  "back": "A dual relationship happens when a social worker has a second role with a client, such as friend, business partner, or romantic partner. These extra roles can hurt the client and cloud the worker's judgment, so they are usually avoided."
+ },
+ {
+  "id": 9,
+  "domain": "values_and_ethics",
+  "front": "What is self-determination?",
+  "back": "Self-determination is the client's right to make their own choices about their life and their services. Social workers support clients to decide, even when they personally disagree with the choice."
+ },
+ {
+  "id": 10,
+  "domain": "values_and_ethics",
+  "front": "When can a social worker limit a client's self-determination?",
+  "back": "A worker can limit self-determination only when the client's actions pose a serious, foreseeable, and imminent risk of harm to the client or others, or when specific laws require it. Agency policy alone is not a basis for limiting a client's self-determination."
+ },
+ {
+  "id": 11,
+  "domain": "values_and_ethics",
+  "front": "What are the NASW core values?",
+  "back": "The NASW names six core values: service, social justice, dignity and worth of the person, importance of human relationships, integrity, and competence. They guide how social workers make ethical choices."
+ },
+ {
+  "id": 12,
+  "domain": "values_and_ethics",
+  "front": "What is an ethical dilemma?",
+  "back": "An ethical dilemma is a situation where two or more ethical values conflict, so following one means giving up another. The worker weighs values, laws, and ethical guidance to make a thoughtful decision."
+ },
+ {
+  "id": 13,
+  "domain": "values_and_ethics",
+  "front": "What is a microaggression?",
+  "back": "A microaggression is a small, subtle comment or action that sends a demeaning message about a person's identity. It can be said on purpose or by accident."
+ },
+ {
+  "id": 14,
+  "domain": "values_and_ethics",
+  "front": "What is privilege?",
+  "back": "Privilege is unearned advantage a person has because of a group they belong to, such as race, class, or gender. People who have it often do not notice it."
+ },
+ {
+  "id": 15,
+  "domain": "values_and_ethics",
+  "front": "What is implicit bias?",
+  "back": "Implicit bias is an automatic attitude or stereotype that a person holds without knowing it. It can affect how a social worker treats a client even when the worker intends to be fair."
+ },
+ {
+  "id": 16,
+  "domain": "values_and_ethics",
+  "front": "What is cultural humility?",
+  "back": "Cultural humility is a lifelong commitment to learning about clients' cultures and reflecting on your own power and limits. It means treating the client as the expert on their own culture."
+ },
+ {
+  "id": 17,
+  "domain": "values_and_ethics",
+  "front": "What is anti-oppressive practice?",
+  "back": "Anti-oppressive practice actively looks at how systems of power and inequality affect clients. The worker partners with clients to name and challenge those barriers."
+ },
+ {
+  "id": 18,
+  "domain": "values_and_ethics",
+  "front": "How should a social worker work with an interpreter?",
+  "back": "Use a trained interpreter and speak directly to the client, not to the interpreter. Respect the client's preferred language and dialect, and avoid using family members for sensitive conversations when possible."
+ },
+ {
+  "id": 19,
+  "domain": "values_and_ethics",
+  "front": "What does accessibility mean in social services?",
+  "back": "Accessibility means removing barriers so people with disabilities can use services and spaces. It includes physical access, language, interpreters, and easy-to-read materials."
+ },
+ {
+  "id": 20,
+  "domain": "values_and_ethics",
+  "front": "What does competence mean for a social worker?",
+  "back": "Competence means a social worker only practices within their training and knowledge. Workers are expected to keep learning and to seek help or refer out when a case is beyond them."
+ },
+ {
+  "id": 21,
+  "domain": "values_and_ethics",
+  "front": "What is exploitation or human trafficking?",
+  "back": "Exploitation is using someone's labor, body, or resources for profit through force, fraud, or coercion. Trafficking can be sexual or labor, and victims may not see themselves as victims."
+ },
+ {
+  "id": 22,
+  "domain": "values_and_ethics",
+  "front": "Why is self-care a professional duty for social workers?",
+  "back": "Self-care protects workers from burnout and keeps them able to serve clients well. Looking after yourself is part of the job, not a selfish act."
+ },
+ {
+  "id": 23,
+  "domain": "values_and_ethics",
+  "front": "What is secondary (vicarious) trauma?",
+  "back": "Secondary trauma is stress a helper feels after hearing about a client's trauma. It can look like the client's own symptoms and can build over time."
+ },
+ {
+  "id": 24,
+  "domain": "values_and_ethics",
+  "front": "What is burnout?",
+  "back": "Burnout is emotional exhaustion, feeling detached from work, and losing a sense of accomplishment. It builds slowly with too much stress and too little support."
+ },
+ {
+  "id": 25,
+  "domain": "values_and_ethics",
+  "front": "What should a social worker think about when a client offers a gift?",
+  "back": "A small gift of thanks may be fine for some workers and agencies, but a large or unusual gift can create a conflict of interest. The worker should consider how the gift affects the relationship and may politely refuse."
+ },
+ {
+  "id": 26,
+  "domain": "values_and_ethics",
+  "front": "What does the NASW value of service mean?",
+  "back": "Service means helping people in need and giving time and skill to address social problems. It is the primary purpose of the social work profession."
+ },
+ {
+  "id": 27,
+  "domain": "values_and_ethics",
+  "front": "What does social justice mean in social work?",
+  "back": "Social justice means challenging unfair conditions such as poverty, discrimination, and unequal access to resources. Workers advocate for the rights of marginalized groups."
+ },
+ {
+  "id": 28,
+  "domain": "values_and_ethics",
+  "front": "What is a boundary violation?",
+  "back": "A boundary violation is a serious misuse of the professional role for the worker's benefit, such as a sexual relationship with a client. It is unethical and is not the same as a small boundary crossing."
+ },
+ {
+  "id": 29,
+  "domain": "values_and_ethics",
+  "front": "What is a mandated reporter?",
+  "back": "A mandated reporter is a professional who is required by law to report suspected abuse or neglect. Social workers are mandated reporters for children and, in many places, for vulnerable adults."
+ },
+ {
+  "id": 30,
+  "domain": "values_and_ethics",
+  "front": "What should a worker do if a client is at risk of suicide?",
+  "back": "Assess the risk and act to keep the client safe, which may mean involving emergency services or a crisis team. A clear safety plan and follow-up are part of the response."
+ },
+ {
+  "id": 31,
+  "domain": "assessment_and_planning",
+  "front": "What is Erikson's trust versus mistrust stage?",
+  "back": "It is the first stage, from birth to about 18 months. A baby learns trust when caregivers are consistent and responsive."
+ },
+ {
+  "id": 32,
+  "domain": "assessment_and_planning",
+  "front": "What is Erikson's identity versus role confusion stage?",
+  "back": "It happens during adolescence. Teens explore who they are and try on different roles, and success leads to a clearer sense of self."
+ },
+ {
+  "id": 33,
+  "domain": "assessment_and_planning",
+  "front": "What is Erikson's intimacy versus isolation stage?",
+  "back": "It happens in young adulthood. People form close, lasting relationships, or they can become isolated if they fear closeness."
+ },
+ {
+  "id": 34,
+  "domain": "assessment_and_planning",
+  "front": "What is Piaget's concrete operational stage?",
+  "back": "From about age 7 to 11, children think logically about real things and events. They can classify items and understand that amounts stay the same when they change shape."
+ },
+ {
+  "id": 35,
+  "domain": "assessment_and_planning",
+  "front": "What is Kohlberg's postconventional level of morality?",
+  "back": "At this level a person follows universal principles and their own conscience, even if a rule says otherwise. Right and wrong are based on principles, not just punishment or approval."
+ },
+ {
+  "id": 36,
+  "domain": "assessment_and_planning",
+  "front": "What is secure attachment?",
+  "back": "Secure attachment forms when a caregiver is consistently responsive to a child's needs. The child trusts the caregiver and can explore and then return for comfort."
+ },
+ {
+  "id": 37,
+  "domain": "assessment_and_planning",
+  "front": "What is anxious-ambivalent attachment?",
+  "back": "It can happen when a caregiver is sometimes available and sometimes not. The child tends to be clingy and hard to settle, fearing the caregiver will leave."
+ },
+ {
+  "id": 38,
+  "domain": "assessment_and_planning",
+  "front": "What are adverse childhood experiences (ACEs)?",
+  "back": "ACEs are stressful events before age 18, like abuse, neglect, or growing up in a disordered home. More ACEs raise the risk of later mental and physical health problems."
+ },
+ {
+  "id": 39,
+  "domain": "assessment_and_planning",
+  "front": "What is acute trauma?",
+  "back": "Acute trauma is a single, sudden event such as an assault, a car crash, or a disaster. It can still cause strong stress reactions and may need support."
+ },
+ {
+  "id": 40,
+  "domain": "assessment_and_planning",
+  "front": "What is complex trauma?",
+  "back": "Complex trauma is repeated or long-term harm, often in a family and often starting in childhood. It can affect how a person attaches, thinks about themselves, and manages emotions."
+ },
+ {
+  "id": 41,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of denial?",
+  "back": "Denial is refusing to accept a painful reality in order to avoid the feelings it brings. It can be temporary or long-lasting."
+ },
+ {
+  "id": 42,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of projection?",
+  "back": "Projection is putting one's own unacceptable feelings onto another person. For example, someone who is secretly angry accuses others of being angry."
+ },
+ {
+  "id": 43,
+  "domain": "assessment_and_planning",
+  "front": "What is the biopsychosocial-spiritual assessment?",
+  "back": "It gathers biological, psychological, social, and spiritual factors together. The social worker looks at health, emotions, relationships, culture, and beliefs to see the whole person."
+ },
+ {
+  "id": 44,
+  "domain": "assessment_and_planning",
+  "front": "What is triangulation in a family?",
+  "back": "Triangulation is when a third person gets pulled into a conflict between two people. A child may be caught in the middle of parents arguing."
+ },
+ {
+  "id": 45,
+  "domain": "assessment_and_planning",
+  "front": "What is parentification?",
+  "back": "Parentification is when a child is expected to care for a parent or siblings in an adult role too early. It can rob the child of their own childhood needs."
+ },
+ {
+  "id": 46,
+  "domain": "assessment_and_planning",
+  "front": "What is enmeshment in a family?",
+  "back": "Enmeshment is a family pattern where members are so close that personal boundaries blur. Acting independently can feel like disloyalty."
+ },
+ {
+  "id": 47,
+  "domain": "assessment_and_planning",
+  "front": "What is a genogram?",
+  "back": "A genogram is a family tree diagram that shows relationships, health, and patterns across generations. It helps the worker see how family history shapes the present."
+ },
+ {
+  "id": 48,
+  "domain": "assessment_and_planning",
+  "front": "What is an ecomap?",
+  "back": "An ecomap is a diagram of a person's ties to outside systems such as school, work, and community. Solid, broken, or stressed lines show the quality of each connection."
+ },
+ {
+  "id": 49,
+  "domain": "assessment_and_planning",
+  "front": "What is a risk assessment?",
+  "back": "A risk assessment collects information about danger to self or others, including thoughts, plans, means, and past behavior. It shapes a safety plan and treatment choices."
+ },
+ {
+  "id": 50,
+  "domain": "assessment_and_planning",
+  "front": "What is a strengths-based assessment?",
+  "back": "It focuses on what the client can do and what supports they already have, not only on problems. The worker builds on abilities, values, and resources."
+ },
+ {
+  "id": 51,
+  "domain": "assessment_and_planning",
+  "front": "What is resilience?",
+  "back": "Resilience is the ability to recover from stress, trauma, or loss. It grows from relationships, skills, and supports, not just from inner grit."
+ },
+ {
+  "id": 52,
+  "domain": "assessment_and_planning",
+  "front": "What are the stages of change?",
+  "back": "The stages are precontemplation, contemplation, preparation, action, and maintenance. People move through them as they prepare to change, and they can relapse and recycle."
+ },
+ {
+  "id": 53,
+  "domain": "assessment_and_planning",
+  "front": "What is the spirit of motivational interviewing?",
+  "back": "It is a collaborative, accepting style that draws out a person's own reasons for change. The worker avoids arguing and respects the client's freedom to choose."
+ },
+ {
+  "id": 54,
+  "domain": "assessment_and_planning",
+  "front": "What does the mental status exam (MSE) cover?",
+  "back": "The MSE covers appearance, behavior, speech, mood, affect, thought process, perception, cognition, insight, and judgment. Mood is the emotion the client reports, and affect is the emotion the worker sees in the moment."
+ },
+ {
+  "id": 55,
+  "domain": "assessment_and_planning",
+  "front": "What are common side effects of SSRI antidepressants?",
+  "back": "SSRIs are a common class of antidepressants and can cause nausea, sleep changes, sexual problems, and jitteriness when a person starts them. Many side effects fade, but the client should tell the prescriber and never stop suddenly."
+ },
+ {
+  "id": 56,
+  "domain": "assessment_and_planning",
+  "front": "What is permanency in child welfare?",
+  "back": "Permanency is a stable, safe, long-term home for a child, ideally with family. Plans can include reunification, adoption, or guardianship."
+ },
+ {
+  "id": 57,
+  "domain": "assessment_and_planning",
+  "front": "What is caregiver burden?",
+  "back": "Caregiver burden is the stress that comes from caring for a loved one who is ill or frail. It can cause exhaustion, depression, and health problems, so supporting the caregiver matters."
+ },
+ {
+  "id": 58,
+  "domain": "intervention_and_practice",
+  "front": "What is empathy in the helping relationship?",
+  "back": "Empathy means understanding and sharing a client's feelings from their point of view. It builds trust and shows the client they are truly heard."
+ },
+ {
+  "id": 59,
+  "domain": "intervention_and_practice",
+  "front": "What is rapport in the helping relationship?",
+  "back": "Rapport is the trusting, comfortable connection between social worker and client. It grows through warmth, consistency, and genuine listening."
+ },
+ {
+  "id": 60,
+  "domain": "intervention_and_practice",
+  "front": "What is unconditional positive regard?",
+  "back": "Unconditional positive regard means accepting a client as a person without judgment, even when you disagree with their behavior. It helps clients feel safe enough to be honest."
+ },
+ {
+  "id": 61,
+  "domain": "intervention_and_practice",
+  "front": "What is strengths-based practice and empowerment?",
+  "back": "Strengths-based practice builds on a client's abilities, resources, and supports instead of focusing only on problems. Empowerment is the goal of helping clients gain power over their own lives through skills, knowledge, and choices."
+ },
+ {
+  "id": 62,
+  "domain": "intervention_and_practice",
+  "front": "What are the steps of problem solving?",
+  "back": "Problem solving usually moves through defining the problem, brainstorming options, choosing one, making a plan, acting, and evaluating. The worker guides the client through each step."
+ },
+ {
+  "id": 63,
+  "domain": "intervention_and_practice",
+  "front": "What is an interdisciplinary team?",
+  "back": "An interdisciplinary team is a group of providers from different fields, such as social work, nursing, and medicine, who work together. Members share information and coordinate care for the whole person."
+ },
+ {
+  "id": 64,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between palliative and hospice care?",
+  "back": "Palliative care focuses on comfort and quality of life for anyone with a serious illness at any stage. Hospice is a type of palliative care for people near the end of life who stop curative treatment."
+ },
+ {
+  "id": 65,
+  "domain": "intervention_and_practice",
+  "front": "What is parenting support in social work?",
+  "back": "Parenting support helps caregivers build safe, warm, and consistent routines with children. Effective parenting balances structure, clear limits, and emotional responsiveness."
+ },
+ {
+  "id": 66,
+  "domain": "intervention_and_practice",
+  "front": "What is trauma-informed care?",
+  "back": "Trauma-informed care assumes that many clients have trauma histories and aims to avoid re-traumatizing them. It is guided by safety, trustworthiness, choice, collaboration, and empowerment."
+ },
+ {
+  "id": 67,
+  "domain": "intervention_and_practice",
+  "front": "What is crisis intervention?",
+  "back": "Crisis intervention is short-term help that reduces immediate danger and helps a person stabilize. It focuses on the present, on safety, and on a clear plan."
+ },
+ {
+  "id": 68,
+  "domain": "intervention_and_practice",
+  "front": "What are CBT and DBT?",
+  "back": "Cognitive behavioral therapy (CBT) works on how thoughts, feelings, and behaviors connect so clients can change unhelpful thinking. Dialectical behavior therapy (DBT) is a CBT-based approach that adds skills for emotion regulation, distress tolerance, and relationships."
+ },
+ {
+  "id": 69,
+  "domain": "intervention_and_practice",
+  "front": "What is motivational interviewing?",
+  "back": "Motivational interviewing is a client-centered style that draws out a person's own reasons to change. It uses open questions, reflection, and respect for the client's choice."
+ },
+ {
+  "id": 70,
+  "domain": "intervention_and_practice",
+  "front": "What is EMDR?",
+  "back": "EMDR stands for eye movement desensitization and reprocessing and uses guided eye movements to help the brain process traumatic memories. It can lower the distress linked to trauma."
+ },
+ {
+  "id": 71,
+  "domain": "intervention_and_practice",
+  "front": "What are mindfulness and emotional regulation?",
+  "back": "Mindfulness is paying full attention to the present moment without judgment. Emotional regulation is the skill of noticing and managing strong feelings so they do not take over."
+ },
+ {
+  "id": 72,
+  "domain": "intervention_and_practice",
+  "front": "What are the stages of grief?",
+  "back": "The stages of grief are often listed as denial, anger, bargaining, depression, and acceptance. They are not a fixed order, and people move back and forth between them."
+ },
+ {
+  "id": 73,
+  "domain": "intervention_and_practice",
+  "front": "What is case management?",
+  "back": "Case management organizes and coordinates services for a client across multiple systems. The worker links, plans, monitors, and advocates for the supports the client needs."
+ },
+ {
+  "id": 74,
+  "domain": "intervention_and_practice",
+  "front": "What are the stages of a group?",
+  "back": "Groups commonly move through forming, storming, norming, performing, and adjourning. Knowing the stage helps the worker guide the group and handle conflict."
+ },
+ {
+  "id": 75,
+  "domain": "intervention_and_practice",
+  "front": "What are structural and Bowenian family therapy?",
+  "back": "Structural family therapy looks at family rules, boundaries, and subsystems and works to reorganize them. Bowenian therapy sees the family as an emotional unit and highlights differentiation of self and triangles across generations."
+ },
+ {
+  "id": 76,
+  "domain": "intervention_and_practice",
+  "front": "What is advocacy in social work?",
+  "back": "Advocacy means speaking up and acting for a client or community to obtain rights and resources. It challenges the barriers that block access and fairness."
+ },
+ {
+  "id": 77,
+  "domain": "intervention_and_practice",
+  "front": "What is conflict resolution?",
+  "back": "Conflict resolution helps people in disagreement talk, listen, and find a workable solution. It often separates the person from the problem and focuses on shared interests."
+ },
+ {
+  "id": 78,
+  "domain": "intervention_and_practice",
+  "front": "What are goal setting and partializing?",
+  "back": "Goal setting turns a client's needs into clear, realistic, and measurable outcomes. Partializing means breaking a big problem or goal into smaller, manageable steps."
+ },
+ {
+  "id": 79,
+  "domain": "intervention_and_practice",
+  "front": "What are discharge planning and aftercare?",
+  "back": "Discharge planning prepares a client to leave a setting and continue safely in the community, with follow-up services and supports in place. Aftercare is that continued support after discharge, which reduces relapse and helps stability."
+ },
+ {
+  "id": 80,
+  "domain": "intervention_and_practice",
+  "front": "What are the functions of supervision?",
+  "back": "Supervision has three main functions: administrative, educational, and supportive. It monitors the work, builds the worker's skills, and provides emotional support."
+ },
+ {
+  "id": 81,
+  "domain": "intervention_and_practice",
+  "front": "What is parallel process?",
+  "back": "Parallel process is when what happens in the client-worker relationship shows up again in the worker-supervisor relationship. The worker may bring the same feelings or patterns to supervision without realizing it."
+ },
+ {
+  "id": 82,
+  "domain": "intervention_and_practice",
+  "front": "What are transference and countertransference?",
+  "back": "Transference is when a client projects feelings about important people in their life onto the worker. Countertransference is when the worker's own feelings and history get triggered by the client."
+ },
+ {
+  "id": 83,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between formative and summative evaluation?",
+  "back": "Formative evaluation happens during a program or treatment to guide adjustments along the way. Summative evaluation happens at the end to judge results and overall effectiveness."
+ },
+ {
+  "id": 84,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between reliability and validity?",
+  "back": "Reliability is how consistent a tool measures a thing across time and users. Validity is whether the tool actually measures what it is supposed to measure."
+ },
+ {
+  "id": 85,
+  "domain": "values_and_ethics",
+  "front": "What is informed consent in social work?",
+  "back": "Informed consent means a client agrees to services after you explain the purpose, risks, benefits, and alternatives. It must be given freely, and the client must have the capacity to understand and decide."
+ },
+ {
+  "id": 86,
+  "domain": "values_and_ethics",
+  "front": "What does confidentiality mean for a social worker?",
+  "back": "Confidentiality means you keep what a client shares private and only share it with people who need to know. You explain the limits of confidentiality, like danger or abuse, at the very start."
+ },
+ {
+  "id": 87,
+  "domain": "values_and_ethics",
+  "front": "What is HIPAA and what does it protect?",
+  "back": "HIPAA is a US law called the Health Insurance Portability and Accountability Act. It protects a person's private health information and limits who may see or share it."
+ },
+ {
+  "id": 88,
+  "domain": "values_and_ethics",
+  "front": "When can a social worker share private client information without consent?",
+  "back": "A social worker may share information without consent when the law requires it, such as suspected child abuse or a serious threat of harm. These legal openings are called the limits of confidentiality."
+ },
+ {
+  "id": 89,
+  "domain": "values_and_ethics",
+  "front": "What does a mandatory reporter have to do?",
+  "back": "A social worker is a mandatory reporter, so they must report suspected child abuse or neglect to the right authority. You only need a reasonable suspicion, not proof."
+ },
+ {
+  "id": 90,
+  "domain": "values_and_ethics",
+  "front": "What is the duty to warn or the duty to protect?",
+  "back": "When a client makes a serious, credible threat to harm someone, a social worker may have a duty to warn that person or protect others. You break confidentiality as needed to keep people safe."
+ },
+ {
+  "id": 91,
+  "domain": "values_and_ethics",
+  "front": "Why are professional boundaries important in social work?",
+  "back": "Boundaries keep the work focused on the client's needs and stop other roles like friend or family member from mixing in. They protect both the client and the social worker from harm."
+ },
+ {
+  "id": 92,
+  "domain": "values_and_ethics",
+  "front": "What is the client's right to self-determination?",
+  "back": "Self-determination means clients choose their own path and make their own decisions. The social worker helps them see options and outcomes, then respects what they decide."
+ },
+ {
+  "id": 93,
+  "domain": "values_and_ethics",
+  "front": "What is the first step in resolving an ethical dilemma?",
+  "back": "First, identify the dilemma clearly by naming the facts, the people involved, and the values in conflict. Then consult the code of ethics, consider each option, and seek supervision before acting."
+ },
+ {
+  "id": 94,
+  "domain": "values_and_ethics",
+  "front": "What does the NASW core value service mean?",
+  "back": "Service means the social worker's main goal is to help people in need and solve social problems. It puts the needs of the community above the professional's own interests."
+ },
+ {
+  "id": 95,
+  "domain": "values_and_ethics",
+  "front": "What does the NASW core value social justice mean?",
+  "back": "Social justice means social workers take action against conditions like poverty, discrimination, and unfair policies. They work toward fair access to resources for vulnerable groups."
+ },
+ {
+  "id": 96,
+  "domain": "values_and_ethics",
+  "front": "What does the NASW value dignity and worth of the person mean?",
+  "back": "It means every person has inherent worth and deserves respectful treatment. Social workers respect each client's dignity and honor their choices."
+ },
+ {
+  "id": 97,
+  "domain": "values_and_ethics",
+  "front": "Why does NASW list human relationships as a core value?",
+  "back": "Because the relationship is the main tool for change in social work. Social workers strengthen relationships between people and treat the client as a partner."
+ },
+ {
+  "id": 98,
+  "domain": "values_and_ethics",
+  "front": "What does the NASW core value integrity mean in practice?",
+  "back": "Integrity means a social worker acts honestly, responsibly, and ethically at all times. You avoid deception and practice within your own competence."
+ },
+ {
+  "id": 99,
+  "domain": "values_and_ethics",
+  "front": "What does the NASW core value competence require?",
+  "back": "Competence means a social worker practices only within their knowledge and skills and keeps learning. When a case is beyond them, they refer to someone more qualified."
+ },
+ {
+  "id": 100,
+  "domain": "values_and_ethics",
+  "front": "What is privilege in social work?",
+  "back": "Privilege is an unearned advantage that some people get from their identity, like race, class, gender, or ability. Having privilege means those barriers are easier for you, not that your life is easy."
+ },
+ {
+  "id": 101,
+  "domain": "values_and_ethics",
+  "front": "What is implicit bias and why does it matter?",
+  "back": "Implicit bias is a hidden attitude or belief you carry without knowing it. It can change how you treat clients, so you must notice and check it to give fair care."
+ },
+ {
+  "id": 102,
+  "domain": "values_and_ethics",
+  "front": "What is a microaggression in social work?",
+  "back": "A microaggression is a small, often offhand comment or act that demeans someone because of their group. Each one can seem minor, but constant slights cause real stress and harm."
+ },
+ {
+  "id": 103,
+  "domain": "values_and_ethics",
+  "front": "What is anti-oppressive and anti-racist practice?",
+  "back": "This practice names and challenges the structures that keep people down because of race, class, gender, or disability. The social worker helps the client and also works to change the unfair systems causing the problem."
+ },
+ {
+  "id": 104,
+  "domain": "values_and_ethics",
+  "front": "What is cultural humility in practice?",
+  "back": "Cultural humility is an ongoing practice of staying open and willing to learn about another person's culture. You follow the client's lead because the client is the expert on their own life."
+ },
+ {
+  "id": 105,
+  "domain": "values_and_ethics",
+  "front": "What does accessibility mean in social work services?",
+  "back": "Accessibility means services work for people with different abilities, languages, and resources. It includes physical access, interpreters, plain language, transportation, and low cost options."
+ },
+ {
+  "id": 106,
+  "domain": "values_and_ethics",
+  "front": "What is environmental justice in social work?",
+  "back": "Environmental justice means all people get fair protection from pollution and climate harm, especially poor and minority groups. Social workers link these harms to advocacy and systemic change."
+ },
+ {
+  "id": 107,
+  "domain": "values_and_ethics",
+  "front": "What is financial exploitation of an older adult?",
+  "back": "Financial exploitation is the illegal or improper use of an older adult's money, property, or assets. Signs include sudden bank changes, a new person controlling finances, and unpaid bills."
+ },
+ {
+  "id": 108,
+  "domain": "values_and_ethics",
+  "front": "What is human trafficking in social work?",
+  "back": "Human trafficking is recruiting or holding a person with force, fraud, or coercion to make them work or sell sex. Signs include being controlled, fearful, unable to leave, or having no papers."
+ },
+ {
+  "id": 109,
+  "domain": "values_and_ethics",
+  "front": "What is the difference between an immigrant and a refugee?",
+  "back": "An immigrant chooses to move to a new country for work, family, or other reasons. A refugee is forced to flee persecution based on race, religion, nationality, political opinion, or membership in a social group, and has specific legal protection needs. Displacement from a natural disaster alone does not confer refugee status."
+ },
+ {
+  "id": 110,
+  "domain": "values_and_ethics",
+  "front": "What is restorative justice and how does it work?",
+  "back": "Restorative justice works to repair the harm done instead of only punishing the person who caused it. It brings together the harmed person, the person responsible, and the community to make things right."
+ },
+ {
+  "id": 111,
+  "domain": "values_and_ethics",
+  "front": "What is the difference between burnout and compassion fatigue?",
+  "back": "Burnout is exhaustion from heavy workload, stress, and feeling ineffective, and it gets better with rest or a job change. Compassion fatigue and secondary trauma come from repeatedly absorbing a client's pain."
+ },
+ {
+  "id": 112,
+  "domain": "values_and_ethics",
+  "front": "Why do self-care and professional development matter for a social worker?",
+  "back": "Self-care keeps a social worker from burning out so they can keep helping others well. Professional development means ongoing learning, supervision, and growth so practice stays current and ethical."
+ },
+ {
+  "id": 113,
+  "domain": "assessment_and_planning",
+  "front": "What does Erikson's theory of psychosocial development say?",
+  "back": "Erikson said people grow through eight life stages, each with a crisis to resolve, like trust versus mistrust. Success at each stage builds a healthy identity, and failure can cause later problems."
+ },
+ {
+  "id": 114,
+  "domain": "assessment_and_planning",
+  "front": "What does Piaget's theory describe?",
+  "back": "Piaget described how children's thinking grows through stages, like sensorimotor, preoperational, concrete operational, and formal operational. Each stage means the child can understand the world in a more complex way."
+ },
+ {
+  "id": 115,
+  "domain": "assessment_and_planning",
+  "front": "What does Kohlberg's theory explain?",
+  "back": "Kohlberg explained moral reasoning in stages, moving from fear of punishment to following rules to using personal principles. A person moves through these stages at different rates."
+ },
+ {
+  "id": 116,
+  "domain": "assessment_and_planning",
+  "front": "What are the main attachment styles in children?",
+  "back": "Secure attachment means the child trusts the caregiver and feels safe exploring. Anxious and avoidant attachment can form when care is inconsistent or rejecting, and they show up as clingy or distant behavior."
+ },
+ {
+  "id": 117,
+  "domain": "assessment_and_planning",
+  "front": "What is complex or intergenerational trauma?",
+  "back": "Complex trauma is repeated harm over time, often by a caregiver, that affects how a person sees themselves and others. Intergenerational trauma is trauma passed down through families or whole communities across generations."
+ },
+ {
+  "id": 118,
+  "domain": "assessment_and_planning",
+  "front": "What are some signs of child abuse or neglect?",
+  "back": "Physical abuse signs include unusual bruises, burns, or injuries that do not match the story. Neglect shows as poor hygiene, hunger, untreated medical needs, or being left unsupervised, and emotional abuse shows as extreme fear or withdrawal."
+ },
+ {
+  "id": 119,
+  "domain": "assessment_and_planning",
+  "front": "What is a biopsychosocial-spiritual assessment?",
+  "back": "It is a full assessment that looks at the biological, psychological, social, and spiritual parts of a client's life. It gives a whole picture instead of focusing on only one problem."
+ },
+ {
+  "id": 120,
+  "domain": "assessment_and_planning",
+  "front": "What does a good suicide risk assessment include?",
+  "back": "You ask directly about suicidal thoughts, intent, plan, and means, plus past attempts and supports. You also weigh warning signs like hopelessness, isolation, and recent loss."
+ },
+ {
+  "id": 121,
+  "domain": "assessment_and_planning",
+  "front": "What are strengths, resources, resilience, and coping?",
+  "back": "Strengths are a client's own abilities and knowledge, and resources are outside supports like family, jobs, and services. Resilience is the ability to recover after hardship, and coping is how a person manages stress."
+ },
+ {
+  "id": 122,
+  "domain": "assessment_and_planning",
+  "front": "What is motivational interviewing in practice?",
+  "back": "Motivational interviewing is a conversation style that helps a client find their own reasons to change. It uses open questions, affirmation, reflection, and summarizing, and avoids arguing or pushing."
+ },
+ {
+  "id": 123,
+  "domain": "assessment_and_planning",
+  "front": "What does a mental status exam assess?",
+  "back": "The MSE checks appearance, mood and affect, speech, thought process and content, cognition, and insight and judgment. It is a snapshot of how a person is thinking and behaving at that moment."
+ },
+ {
+  "id": 124,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of displacement?",
+  "back": "Displacement is aiming an emotion at a safer person or object because the real target feels too risky. A worker who is frustrated with a supervisor may go home and snap at a family member."
+ },
+ {
+  "id": 125,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of sublimation?",
+  "back": "Sublimation turns an unacceptable urge into a socially accepted activity. Someone with strong anger might take up boxing or painting to express it safely."
+ },
+ {
+  "id": 126,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of rationalization?",
+  "back": "Rationalization is inventing a reasonable explanation for a behavior to hide the real reason. Someone who fails a test may blame a bad night of sleep rather than admit they did not study."
+ },
+ {
+  "id": 127,
+  "domain": "assessment_and_planning",
+  "front": "What is parentification in a family?",
+  "back": "Parentification is a child taking on adult responsibilities too early, like caring for siblings or a sick parent. It takes away childhood and can lead to stress and anger later."
+ },
+ {
+  "id": 128,
+  "domain": "assessment_and_planning",
+  "front": "What is a genogram and how is it used?",
+  "back": "A genogram is a family tree covering at least three generations with details about relationships and important events. It can reveal patterns like repeated conflict, divorce, or mental illness."
+ },
+ {
+  "id": 129,
+  "domain": "assessment_and_planning",
+  "front": "What is an ecomap and what does it show?",
+  "back": "An ecomap shows how a person or family connects to outside systems like work, school, and services. Solid lines show strong support, and broken lines show stress or a lack of connection."
+ },
+ {
+  "id": 130,
+  "domain": "assessment_and_planning",
+  "front": "What is an SSRI and what is it used for?",
+  "back": "An SSRI is a type of antidepressant that raises serotonin in the brain. It is used for depression and anxiety, and side effects can include nausea, sleep problems, and sexual side effects."
+ },
+ {
+  "id": 131,
+  "domain": "assessment_and_planning",
+  "front": "What are antipsychotic medications used for?",
+  "back": "Antipsychotics treat symptoms like hallucinations and delusions in conditions such as schizophrenia and bipolar disorder. They change how the brain uses dopamine and can have serious side effects."
+ },
+ {
+  "id": 132,
+  "domain": "assessment_and_planning",
+  "front": "What are mood stabilizers used for?",
+  "back": "Mood stabilizers, like lithium, help even out the highs and lows of bipolar disorder. They are taken every day and often need blood level checks to stay safe."
+ },
+ {
+  "id": 133,
+  "domain": "assessment_and_planning",
+  "front": "What are benzodiazepines and stimulants used for?",
+  "back": "Benzodiazepines are sedatives used short term for severe anxiety or panic, and they carry a risk of dependence. Stimulants, like those for ADHD, increase focus but can raise heart rate and cause insomnia."
+ },
+ {
+  "id": 134,
+  "domain": "intervention_and_practice",
+  "front": "What are the core conditions of a helping relationship?",
+  "back": "The core conditions that build a helping relationship are empathy, unconditional positive regard, and genuineness. These Carl Rogers conditions let the client feel understood and safe, which makes change more likely."
+ },
+ {
+  "id": 135,
+  "domain": "intervention_and_practice",
+  "front": "What is a strengths-based and empowerment approach?",
+  "back": "This approach starts with what the client can do and has, not with their deficits. The worker shares power and helps the client gain skills and confidence to act on their own behalf."
+ },
+ {
+  "id": 136,
+  "domain": "intervention_and_practice",
+  "front": "What are the steps in a problem-solving process?",
+  "back": "Common steps are to define the problem, brainstorm options, weigh the pros and cons, pick one, and try it. Then you evaluate the result and adjust if it does not work."
+ },
+ {
+  "id": 137,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between palliative care and hospice?",
+  "back": "Palliative care improves comfort and quality of life at any stage of a serious illness. Hospice is palliative care for people near the end of life, usually when they stop curative treatment."
+ },
+ {
+  "id": 138,
+  "domain": "intervention_and_practice",
+  "front": "What does assessing parenting capacity cover?",
+  "back": "You look at the parent's ability to protect, feed, and nurture the child and to provide a safe home. The goal is to judge if the child's basic needs are being met."
+ },
+ {
+  "id": 139,
+  "domain": "intervention_and_practice",
+  "front": "What are the principles of trauma-informed care?",
+  "back": "Key principles of trauma-informed care include safety, trustworthiness, choice, collaboration, and empowerment, along with peer support and attention to cultural, historical, and gender issues. The work also aims to avoid re-traumatizing the client in the helping process."
+ },
+ {
+  "id": 140,
+  "domain": "intervention_and_practice",
+  "front": "What is the goal of crisis intervention?",
+  "back": "Crisis intervention gives immediate, short term help to lower distress and keep a person safe. The worker stays calm, keeps the person in the present, and connects them to supports."
+ },
+ {
+  "id": 141,
+  "domain": "intervention_and_practice",
+  "front": "What does cognitive behavioral therapy (CBT) focus on?",
+  "back": "CBT works on the idea that thoughts, feelings, and behaviors are linked. The client learns to notice and change unhelpful thoughts to feel better and change behavior."
+ },
+ {
+  "id": 142,
+  "domain": "intervention_and_practice",
+  "front": "What is dialectical behavior therapy (DBT) for?",
+  "back": "DBT is a type of therapy built for strong emotions and self-harm. It teaches mindfulness, distress tolerance, emotion regulation, and interpersonal skills."
+ },
+ {
+  "id": 143,
+  "domain": "intervention_and_practice",
+  "front": "What is EMDR and what is it used for?",
+  "back": "EMDR is a therapy for trauma. The client holds a traumatic memory while moving their eyes back and forth, which helps reprocess the memory so it causes less distress."
+ },
+ {
+  "id": 144,
+  "domain": "intervention_and_practice",
+  "front": "What is mindfulness and how does it help with emotions?",
+  "back": "Mindfulness is paying attention to the present moment without judging it. It helps a person notice an emotion early and respond calmly instead of reacting."
+ },
+ {
+  "id": 145,
+  "domain": "intervention_and_practice",
+  "front": "What are the Kubler-Ross stages of grief?",
+  "back": "The stages are denial, anger, bargaining, depression, and acceptance. They are not a fixed order, and a person may move back and forth or skip stages."
+ },
+ {
+  "id": 146,
+  "domain": "intervention_and_practice",
+  "front": "What is case management and what does it involve?",
+  "back": "Case management is coordinating all the services a client needs into one plan. The worker links the client to resources, tracks progress, and advocates so nothing falls through the cracks."
+ },
+ {
+  "id": 147,
+  "domain": "intervention_and_practice",
+  "front": "What are the stages of group development?",
+  "back": "A common model is forming, storming, norming, performing, and adjourning. Groups start politely, then have conflict, then set rules, then work well, and finally end."
+ },
+ {
+  "id": 148,
+  "domain": "intervention_and_practice",
+  "front": "What does structural family therapy look at?",
+  "back": "Structural therapy looks at family boundaries, roles, and power and how they are organized. The worker helps the family reorganize so all members can get their needs met."
+ },
+ {
+  "id": 149,
+  "domain": "intervention_and_practice",
+  "front": "What does Bowenian family therapy focus on?",
+  "back": "Bowenian therapy looks at how family patterns pass between generations and how anxiety spreads in a system. It helps each person separate from family worry and define themselves."
+ },
+ {
+  "id": 150,
+  "domain": "intervention_and_practice",
+  "front": "What is a good approach to conflict resolution?",
+  "back": "Help each side say what they need, listen to the other, and find common ground. The goal is a fair, workable solution, not one side winning."
+ },
+ {
+  "id": 151,
+  "domain": "intervention_and_practice",
+  "front": "What is macro social work practice?",
+  "back": "Macro practice works on change at the community, agency, or policy level instead of with one person. It includes organizing, policy work, and programs that help many people."
+ },
+ {
+  "id": 152,
+  "domain": "intervention_and_practice",
+  "front": "What does partializing a goal mean?",
+  "back": "Partializing means breaking a big goal into smaller, doable steps. It makes the objective feel possible and gives the client wins along the way."
+ },
+ {
+  "id": 153,
+  "domain": "intervention_and_practice",
+  "front": "What is discharge planning and wrap-around care?",
+  "back": "Discharge planning arranges the services and supports a client needs when they leave a program. Wrap-around care coordinates the community team around the whole family so the client is not left alone."
+ },
+ {
+  "id": 154,
+  "domain": "intervention_and_practice",
+  "front": "What are the functions of supervision and what is parallel process?",
+  "back": "Supervision has three functions: administrative, which manages work and policy; educational, which builds skill; and supportive, which helps with stress. Parallel process is when how the client acts shows up in how the supervisee acts with the supervisor."
+ },
+ {
+  "id": 155,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between experimental, quasi, and correlational research?",
+  "back": "Experimental research randomizes who gets a treatment, so cause can be shown. Quasi-experimental research uses groups without random assignment, so cause is weaker. Correlational research only shows whether two things move together, not which causes which."
+ },
+ {
+  "id": 156,
+  "domain": "values_and_ethics",
+  "front": "What is a boundary crossing in social work?",
+  "back": "A boundary crossing is a small, short-term departure from a standard professional boundary that is not exploitative. It can be harmless or even helpful, but the worker must check it for risk. A boundary violation is different because it uses the relationship to exploit or harm the client."
+ },
+ {
+  "id": 157,
+  "domain": "values_and_ethics",
+  "front": "What must be covered in informed consent?",
+  "back": "Informed consent covers the purpose of services, the risks and benefits, the limits of confidentiality, and the right to refuse or stop. The worker also explains fees and the nature of the services. Consent must be given freely by a client who can understand the information."
+ },
+ {
+  "id": 158,
+  "domain": "values_and_ethics",
+  "front": "A client cannot make their own treatment decisions. How is consent handled?",
+  "back": "When a client lacks capacity, the worker seeks consent from a legal guardian or the person with authority to decide. The client still gets clear, simple information and is asked for agreement when possible. The worker uses the least restrictive option that respects the client's wishes."
+ },
+ {
+  "id": 159,
+  "domain": "values_and_ethics",
+  "front": "When may confidentiality be broken to prevent self-harm?",
+  "back": "Confidentiality may be broken when the client has a serious and imminent risk of harming themselves. The worker shares only the minimum information needed to keep the person safe. A vague worry does not justify disclosure, but an active and specific threat does."
+ },
+ {
+  "id": 160,
+  "domain": "values_and_ethics",
+  "front": "What is a social worker's duty to warn?",
+  "back": "The duty to warn requires the worker to protect a specific person who is under a serious and imminent threat from a client. This can mean warning the intended target or notifying law enforcement. The idea grew from a court case and is now part of many state laws."
+ },
+ {
+  "id": 161,
+  "domain": "values_and_ethics",
+  "front": "A client tells you about child abuse. What must you do?",
+  "back": "Social workers are mandated reporters and must report reasonable suspicion of child abuse or neglect to the right agency. The report is required even if the client asks you to keep it secret. You need reasonable suspicion, not proof."
+ },
+ {
+  "id": 162,
+  "domain": "values_and_ethics",
+  "front": "How does reporting duty apply to older or dependent adults?",
+  "back": "Most states require workers to report abuse, neglect, or exploitation of older and dependent adults. The report goes to Adult Protective Services or law enforcement. Because state rules differ, workers must know the law where they practice."
+ },
+ {
+  "id": 163,
+  "domain": "values_and_ethics",
+  "front": "How is privileged communication different from confidentiality?",
+  "back": "Confidentiality is an ethical duty to keep client information private. Privileged communication is a legal protection that keeps certain exchanges out of court. Privilege belongs to the client, so only the client can waive it."
+ },
+ {
+  "id": 164,
+  "domain": "values_and_ethics",
+  "front": "When is client self-determination limited?",
+  "back": "Self-determination is limited when a client is at serious risk of harming self or others, when they lack the capacity to decide, or when they ask for help with something illegal. The worker honors autonomy as far as safety and law allow. Any limit is explained to the client openly."
+ },
+ {
+  "id": 165,
+  "domain": "values_and_ethics",
+  "front": "How does self-determination work with a minor client?",
+  "back": "A minor's right to decide is balanced with the consent of a parent or guardian and with the minor's maturity. The worker asks the minor for agreement while also getting the guardian's permission. Safety and legal requirements come first."
+ },
+ {
+  "id": 166,
+  "domain": "values_and_ethics",
+  "front": "What should a social worker discuss before providing telehealth?",
+  "back": "Before telehealth, the worker gets informed consent about privacy risks of the platform, how to reach help in an emergency, and what to do if the connection fails. They use a secure, encrypted service and verify the client's identity and location. They also check whether they may practice where the client is."
+ },
+ {
+  "id": 167,
+  "domain": "values_and_ethics",
+  "front": "How should a social worker respond to a client's social media friend request?",
+  "back": "Accepting a friend request can blur the professional boundary and create risk. The worker declines politely and restates the boundary. Keeping personal accounts private and maintaining separate professional pages lowers the risk."
+ },
+ {
+  "id": 168,
+  "domain": "values_and_ethics",
+  "front": "Who answers for a supervisee's clinical mistake?",
+  "back": "The supervisor holds responsibility for overseeing practice and making sure the supervisee works within their ability. Even when the supervisee makes an error, the supervisor cannot deny all accountability. The supervisor is responsible for the quality of services in their unit."
+ },
+ {
+  "id": 169,
+  "domain": "values_and_ethics",
+  "front": "What does competent supervision include?",
+  "back": "Competent supervision includes regular meetings, a clear agreement on roles and duties, and training in ethics and cultural humility. The supervisor gives honest feedback and watches for burnout or impairment. They also keep developing their own clinical and supervisory skills."
+ },
+ {
+  "id": 170,
+  "domain": "values_and_ethics",
+  "front": "How should a worker document and bill for services?",
+  "back": "Records must describe the service actually provided, and billing must match with honest dates and codes. A worker must not bill for sessions that did not happen or inflate the length of a session. Fees are explained and agreed to up front."
+ },
+ {
+  "id": 171,
+  "domain": "values_and_ethics",
+  "front": "What should a social worker do after making a mistake?",
+  "back": "The worker acknowledges the error honestly, corrects it where possible, and tells the client the truth if harm occurred. They document what happened and seek supervision, consultation, or an ethics review. Hiding a mistake is itself a serious breach."
+ },
+ {
+  "id": 172,
+  "domain": "values_and_ethics",
+  "front": "What is an ethics consultation?",
+  "back": "An ethics consultation is help from a neutral third party, such as an ethics committee or a seasoned colleague, to work through a hard ethical question. It gives an organized way to look at duties, standards, and choices. It helps when a problem is complex, high stakes, or unclear."
+ },
+ {
+  "id": 173,
+  "domain": "values_and_ethics",
+  "front": "A client needs help you are not trained to give. What do you do?",
+  "back": "The worker should refer the client to someone with the right expertise, or get more training and consultation first. Working outside your training or experience can cause harm and is unethical. The client's need matters more than keeping the case."
+ },
+ {
+  "id": 174,
+  "domain": "values_and_ethics",
+  "front": "You suspect a colleague is impaired at work. What do you do?",
+  "back": "The worker should raise the concern privately with the colleague and then report to a supervisor or ethics body if needed. The goal is to protect clients while helping the colleague get support. Doing nothing when a client is at risk is itself a problem."
+ },
+ {
+  "id": 175,
+  "domain": "values_and_ethics",
+  "front": "What is a conflict of interest in social work?",
+  "back": "A conflict of interest happens when a worker's personal, financial, or organizational interest could cloud their judgment. The worker reveals the conflict, avoids it when possible, and gets informed consent if it cannot be avoided. It is a boundary issue that needs careful handling."
+ },
+ {
+  "id": 176,
+  "domain": "values_and_ethics",
+  "front": "What does cultural humility mean in practice?",
+  "back": "Cultural humility is an ongoing practice of self-reflection and of reducing power gaps between the worker and people of different backgrounds. The worker stays curious about the client's culture instead of assuming they already understand it. The client stays the expert on their own identity and experience."
+ },
+ {
+  "id": 177,
+  "domain": "values_and_ethics",
+  "front": "What does the social justice value require from a worker?",
+  "back": "Social justice is the commitment to challenge problems such as poverty, discrimination, and unfair access to resources. Workers push for policies and systems that protect the rights of marginalized people. They balance a client's immediate needs with larger structural change."
+ },
+ {
+  "id": 178,
+  "domain": "values_and_ethics",
+  "front": "What does the ethical principle nonmaleficence mean?",
+  "back": "Nonmaleficence is the duty to avoid causing harm to clients. The worker must not act in ways that hurt a client through incompetence, exploitation, or broken trust. When harm is possible, the worker picks the safest, least harmful route."
+ },
+ {
+  "id": 179,
+  "domain": "values_and_ethics",
+  "front": "What does the ethical principle beneficence require?",
+  "back": "Beneficence is the duty to actively promote the client's welfare, not merely to avoid harm. The worker gives competent, helpful service in the client's best interest. It is weighed against the client's right to decide for themselves."
+ },
+ {
+  "id": 180,
+  "domain": "values_and_ethics",
+  "front": "What is fidelity in practice?",
+  "back": "Fidelity is the duty to be honest, keep promises, and honor the commitments made to clients. It includes staying loyal to the trust of the relationship and following through on agreements. It is the basis of informed consent and confidentiality."
+ },
+ {
+  "id": 181,
+  "domain": "values_and_ethics",
+  "front": "How is a client's best interest weighed against self-determination?",
+  "back": "When a client's choice could bring serious harm, the worker weighs best interest against self-determination. The worker looks for the option that protects the client while honoring choice as much as possible. In a true conflict, safety can take priority, and the reason is explained to the client."
+ },
+ {
+  "id": 182,
+  "domain": "values_and_ethics",
+  "front": "When confidentiality is broken, how much should you share?",
+  "back": "The worker must disclose only the minimum information required to meet the legal or safety need. This is the least restrictive approach that still protects the person. Sharing more than necessary without cause is an ethical breach."
+ },
+ {
+  "id": 183,
+  "domain": "values_and_ethics",
+  "front": "Can a client stop services at any time?",
+  "back": "A client has the right to withdraw consent and to end services at any time without pressure or punishment. The worker explains this right up front and responds to a request to stop with a respectful review of options. If the client leaves, the worker provides a safe referral or transfer."
+ },
+ {
+  "id": 184,
+  "domain": "values_and_ethics",
+  "front": "What is informed consent for releasing client information?",
+  "back": "A release of information is valid when the client, or a legally authorized representative, signs and dates it after understanding what is shared, who receives it, why, and for how long. The client's signature authorizes the disclosure, and a new release is needed when the authorization runs out. Sharing without valid consent is a breach."
+ },
+ {
+  "id": 185,
+  "domain": "assessment_and_planning",
+  "front": "What does a biopsychosocial assessment cover?",
+  "back": "It gathers information across the biological, psychological, social, and spiritual parts of a person's life. The worker looks at health, mental health, relationships, housing, work, and culture. It shapes a full understanding of the client so the plan fits the whole person."
+ },
+ {
+  "id": 186,
+  "domain": "assessment_and_planning",
+  "front": "When should a worker use open instead of closed questions?",
+  "back": "Open questions invite the client to describe in their own words and are useful early in an interview. Closed questions ask for a short, specific answer and are useful to confirm details. The worker blends them to get full information without making the client feel interrogated."
+ },
+ {
+  "id": 187,
+  "domain": "assessment_and_planning",
+  "front": "What is collateral information in an assessment?",
+  "back": "Collateral information is data gathered from people or records around the client, such as family, a doctor, or old treatment records. It helps verify what the client said and can fill in gaps. The client should generally give consent before the worker contacts others."
+ },
+ {
+  "id": 188,
+  "domain": "assessment_and_planning",
+  "front": "What domains does a mental status exam cover?",
+  "back": "The mental status exam describes how the client looks and thinks in the moment. It covers appearance and behavior, speech, mood and affect, thought process and content, cognition, insight, and judgment. It adds a clinical snapshot to the interview."
+ },
+ {
+  "id": 189,
+  "domain": "assessment_and_planning",
+  "front": "In the mental status exam, what is the difference between mood and affect?",
+  "back": "Mood is the client's own description of how they feel over time, such as depressed or anxious. Affect is the outward expression the worker observes in the session, such as flat, blunted, or labile. Mood is what the client reports, and affect is what you see."
+ },
+ {
+  "id": 190,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between thought content and thought process?",
+  "back": "Thought content is what the client is thinking about, such as delusions, obsessions, or suicidal ideas. Thought process is how the thoughts connect and flow, such as a logical, tangential, or disorganized style. Content is the subject, and process is the route."
+ },
+ {
+  "id": 191,
+  "domain": "assessment_and_planning",
+  "front": "What do insight and judgment mean in a mental status exam?",
+  "back": "Insight is the client's awareness that they have a problem and that they may need help. Judgment is the ability to make sound decisions and to understand the consequences of actions. Poor insight or judgment raises the level of concern for safety."
+ },
+ {
+  "id": 192,
+  "domain": "assessment_and_planning",
+  "front": "What should a social worker ask when screening for suicide risk?",
+  "back": "The worker asks directly about suicidal thoughts, plans, means, intent, and past attempts. They also ask about protective factors such as supports and reasons to live. Asking directly does not plant the idea and is a required part of a full risk assessment."
+ },
+ {
+  "id": 193,
+  "domain": "assessment_and_planning",
+  "front": "How is risk of harming another person assessed?",
+  "back": "The worker asks about thoughts of harming others, a specific target, a plan, and access to means. They also ask about past violence, substance use, and threats that are current and specific. A serious, imminent, and specific threat triggers the duty to protect."
+ },
+ {
+  "id": 194,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between risk factors and protective factors?",
+  "back": "Risk factors are things that raise the chance of harm, such as isolation, substance use, or past attempts. Protective factors lower that chance, such as a support network, engagement in treatment, and reasons to live. The worker weighs both sides to judge the level of risk."
+ },
+ {
+  "id": 195,
+  "domain": "assessment_and_planning",
+  "front": "What is a safety plan?",
+  "back": "A safety plan is a written, step-by-step plan the client uses when a crisis starts. It lists warning signs, coping strategies, people to contact, and emergency numbers. It is made with the client and made easy to follow."
+ },
+ {
+  "id": 196,
+  "domain": "assessment_and_planning",
+  "front": "What is a genogram and what is it for?",
+  "back": "A genogram is a family tree that shows relationships, health, and patterns across at least three generations. Workers use it to spot repeating patterns such as conflict, addiction, or estrangement. It helps the assessment go beyond the person to the family system."
+ },
+ {
+  "id": 197,
+  "domain": "assessment_and_planning",
+  "front": "What is an ecomap used for in assessment?",
+  "back": "An ecomap is a diagram of the client's links to outside people and systems, such as family, work, school, health care, and social services. Strong, weak, or stressful connections are drawn differently to show the quality of each link. It shows where support and strain sit in the client's environment."
+ },
+ {
+  "id": 198,
+  "domain": "assessment_and_planning",
+  "front": "How can culture change how distress is expressed?",
+  "back": "Culture shapes whether distress appears as emotional, physical, or spiritual symptoms and which symptoms a person feels safe to report. A worker who ignores culture may misread a normal expression as pathology or miss a real issue. The worker asks how the client understands their own problem and what they want from help."
+ },
+ {
+  "id": 199,
+  "domain": "assessment_and_planning",
+  "front": "What should a worker consider when assessing across a language barrier?",
+  "back": "The worker should use a trained interpreter rather than a family member when possible, and explain the interpreter's role to the client. They check that the assessment tool is valid for the client's language and culture. Gathering the client's own story in their own words is central to a fair assessment."
+ },
+ {
+  "id": 200,
+  "domain": "assessment_and_planning",
+  "front": "Why is assessing readiness for change important?",
+  "back": "Readiness tells the worker what kind of help is a fit for the client right now. Pushing for action too early can create resistance or drop out. The worker matches the approach to the stage, such as raising awareness first and skill building later."
+ },
+ {
+  "id": 201,
+  "domain": "assessment_and_planning",
+  "front": "What is a crisis assessment?",
+  "back": "A crisis assessment looks at an immediate threat and the client's ability to cope with it right now. The worker checks for danger to self or others, access to means, support, and what the client has already tried. The goal is to judge urgency and decide the quickest safe response."
+ },
+ {
+  "id": 202,
+  "domain": "assessment_and_planning",
+  "front": "What is the ABC model of crisis intervention?",
+  "back": "The ABC model has three steps: build rapport, identify the problem, and then cope. The worker first connects with the client, then names the problem and the feelings, then helps the client take action. The focus is short and on the here and now."
+ },
+ {
+  "id": 203,
+  "domain": "assessment_and_planning",
+  "front": "What is a trauma-informed assessment?",
+  "back": "A trauma-informed assessment asks about history of trauma, is aware of triggers, and aims to avoid re-traumatizing the client. The worker explains the process, offers choice, and watches for signs of distress. Safety and trust are treated as part of the assessment itself."
+ },
+ {
+  "id": 204,
+  "domain": "assessment_and_planning",
+  "front": "Why are standardized screening tools used?",
+  "back": "Standardized tools give a consistent way to measure symptoms and track change over time. They are most useful when they are reliable and valid for the client's population and language. A score is a guide and is always used with the clinical interview."
+ },
+ {
+  "id": 205,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between a presenting problem and an underlying problem?",
+  "back": "The presenting problem is the reason the client asks for help, such as anxiety at work. The underlying problem is the deeper cause, such as trauma, a health issue, or a lack of support. The worker addresses the surface need while looking for the root cause."
+ },
+ {
+  "id": 206,
+  "domain": "assessment_and_planning",
+  "front": "Why is differential assessment important?",
+  "back": "Differential assessment means ruling out other explanations for a client's symptoms before settling on a diagnosis. For example, a worker checks whether a medical condition, a drug, or side effects are causing the symptoms. It prevents a wrong label and gets the client the right help."
+ },
+ {
+  "id": 207,
+  "domain": "assessment_and_planning",
+  "front": "Why assess a client's social support and environment?",
+  "back": "A client's supports, housing, work, and safety strongly shape how well they do and whether a plan will work. The worker maps who can help, what resources exist, and what barriers are in the way. The plan is more realistic when it uses the client's real environment."
+ },
+ {
+  "id": 208,
+  "domain": "assessment_and_planning",
+  "front": "What are ADLs and IADLs?",
+  "back": "Activities of daily living are the basics such as bathing, dressing, eating, and getting around. Instrumental activities of daily living are the higher tasks such as managing money, using the phone, preparing meals, and taking medicine. Asking about them shows how independent a client is in day-to-day life."
+ },
+ {
+  "id": 209,
+  "domain": "assessment_and_planning",
+  "front": "What makes a treatment goal a SMART goal?",
+  "back": "A SMART goal is specific, measurable, achievable, relevant, and time-bound. It names who does what, how it will be measured, and by when. Clear goals let the worker and the client track progress and show whether the plan is working."
+ },
+ {
+  "id": 210,
+  "domain": "intervention_and_practice",
+  "front": "What are the skills of active listening in practice?",
+  "back": "Active listening means giving full attention and showing it through eye contact, open body language, and small prompts. The worker reflects what they heard so the client feels understood. It builds trust and gathers accurate information."
+ },
+ {
+  "id": 211,
+  "domain": "intervention_and_practice",
+  "front": "How are paraphrasing and summarizing different?",
+  "back": "Paraphrasing restates what the client just said in the worker's own words, usually in a few sentences. Summarizing pulls together larger pieces of a session or brings the focus back to the key theme. Both show the client that the worker is following and help organize the work."
+ },
+ {
+  "id": 212,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between reflecting feeling and reflecting content?",
+  "back": "Reflecting content repeats the facts and meaning of what the client said. Reflecting feeling names the emotion behind the words, such as sadness, anger, or fear. Reflecting feeling helps the client feel understood at a deeper level."
+ },
+ {
+  "id": 213,
+  "domain": "intervention_and_practice",
+  "front": "How is empathy different from sympathy?",
+  "back": "Empathy is the ability to understand and share the client's experience while staying separate enough to help. Sympathy is feeling sorry for the client, which can be less helpful. Empathy builds a working alliance, while too much sympathy can make the client feel pitied."
+ },
+ {
+  "id": 214,
+  "domain": "intervention_and_practice",
+  "front": "What is limit setting in practice?",
+  "back": "Limit setting is calmly and clearly stating a rule or boundary when a client's behavior becomes unsafe or disruptive, such as threats in a group. The worker names the limit, the reason, and the result, then offers an acceptable choice. It protects the client, others, and the worker without being punishing."
+ },
+ {
+  "id": 215,
+  "domain": "intervention_and_practice",
+  "front": "What is psychoeducation and why is it used?",
+  "back": "Psychoeducation means teaching the client facts about their condition, the treatment, and ways to manage symptoms. It gives the client understanding and skills so they can take part in their own care. Good education is clear, practical, and matched to the client's level."
+ },
+ {
+  "id": 216,
+  "domain": "intervention_and_practice",
+  "front": "What is evidence-based practice in social work?",
+  "back": "Evidence-based practice means choosing intervention methods supported by the best available research. The worker then adds their clinical judgment and the client's values and preferences to the decision. The three parts work together, so the evidence is never used without the client's voice."
+ },
+ {
+  "id": 217,
+  "domain": "intervention_and_practice",
+  "front": "How are case advocacy and cause advocacy different?",
+  "back": "Case advocacy means acting on behalf of one client or family to get a needed service or right. Cause advocacy works to change a policy or system that affects many people in the same situation. Case work is individual, and cause work is structural."
+ },
+ {
+  "id": 218,
+  "domain": "intervention_and_practice",
+  "front": "What is an empowerment approach?",
+  "back": "An empowerment approach helps clients build on their strengths, gain information, and take a lead role in solving their own problems. The worker shares power, teaches skills, and supports the client's choices. The aim is that the client becomes more able to act for themselves."
+ },
+ {
+  "id": 219,
+  "domain": "intervention_and_practice",
+  "front": "What are the basic steps of conflict resolution?",
+  "back": "Conflict resolution usually means naming the conflict, hearing each side without interruption, and finding the interests behind each position. The parties then look for shared ground and agree on a solution or next step. The worker stays neutral and keeps the focus on problems, not on blaming people."
+ },
+ {
+  "id": 220,
+  "domain": "intervention_and_practice",
+  "front": "What are de-escalation techniques in practice?",
+  "back": "De-escalation techniques lower the intensity of an angry or escalating person, such as a calm tone, moving slowly, and giving the person space and time. The worker focuses on one issue, avoids threats and loaded words, and offers choices. The goal is dialogue and safety, not a show of power."
+ },
+ {
+  "id": 221,
+  "domain": "intervention_and_practice",
+  "front": "What is mediation in a conflict?",
+  "back": "Mediation is a structured process where a neutral third person helps two or more people reach their own agreement. The mediator guides the talk but does not decide the outcome. It works best when both sides take an active part in building a solution."
+ },
+ {
+  "id": 222,
+  "domain": "intervention_and_practice",
+  "front": "What are I and you statements in communication?",
+  "back": "An I statement describes a person's own feeling and need, such as I feel worried when plans change at the last minute. A you statement blames the other person and tends to raise defensiveness, such as you are unreliable. I statements lower conflict and open the door to problem solving."
+ },
+ {
+  "id": 223,
+  "domain": "intervention_and_practice",
+  "front": "What are group norms and cohesion?",
+  "back": "Norms are the unwritten rules a group develops about acceptable behavior. Cohesion is the feeling of trust and belonging that holds members together. Cohesion helps members open up, and the worker builds it through a safe and structured environment."
+ },
+ {
+  "id": 224,
+  "domain": "intervention_and_practice",
+  "front": "What is a structural family intervention?",
+  "back": "Structural family therapy works on the organization of the family, such as who holds power and where the boundaries sit. The worker might join the family, map its patterns, and help realign roles such as parents acting as leaders. The goal is a healthier structure so the family works better."
+ },
+ {
+  "id": 225,
+  "domain": "intervention_and_practice",
+  "front": "What is reframing in family work?",
+  "back": "Reframing offers a new, more useful meaning for a behavior that the family sees as the problem. For example, a teenager's acting out is reframed as a bid for attention or worry in the family. This shifts blame and opens room for a different response."
+ },
+ {
+  "id": 226,
+  "domain": "intervention_and_practice",
+  "front": "What is reinforcement in behavioral work?",
+  "back": "Positive reinforcement adds something pleasant after a behavior to make it more likely to happen again, such as praise. Negative reinforcement removes something unpleasant, which also increases a behavior. Reinforcement strengthens target behaviors, while decreasing unwanted behavior is the role of punishment or extinction."
+ },
+ {
+  "id": 227,
+  "domain": "intervention_and_practice",
+  "front": "What is cognitive-behavioral therapy based on?",
+  "back": "Cognitive-behavioral therapy says that thoughts, feelings, and behaviors are linked. When a person changes a distorted thought, the feeling and the behavior tend to change too. It is a practical, present-focused approach that teaches skills the client can use on their own."
+ },
+ {
+  "id": 228,
+  "domain": "intervention_and_practice",
+  "front": "What are the steps of a problem-solving approach?",
+  "back": "The steps are to define the problem, brainstorm options, weigh the good and bad of each, and pick one to try. Then the client acts and later reviews how the choice worked. This builds a skill that lasts past the session."
+ },
+ {
+  "id": 229,
+  "domain": "intervention_and_practice",
+  "front": "What is the miracle question used for?",
+  "back": "The miracle question asks the client what their life would look like if the problem were solved overnight. The answer describes the client's own goals and the first small signs that things are better. It is a solution-focused tool that moves attention from problems to a workable goal."
+ },
+ {
+  "id": 230,
+  "domain": "intervention_and_practice",
+  "front": "What does rolling with resistance mean in motivational interviewing?",
+  "back": "Rolling with resistance accepts that a client may not want to change and avoids arguing when they push back. The worker reflects the resistance and explores the client's own reasons, instead of fighting it. This keeps the relationship strong and lets the client weigh their own motivation."
+ },
+ {
+  "id": 231,
+  "domain": "intervention_and_practice",
+  "front": "How should a social worker handle planned termination?",
+  "back": "Planned termination starts early and reviews the work done, progress made, and skills the client now has. The worker names the feelings that can come up and arranges follow-up from allies or a new provider. Ending well helps the change hold after the services stop."
+ },
+ {
+  "id": 232,
+  "domain": "intervention_and_practice",
+  "front": "A client stops coming to sessions. How should a worker respond?",
+  "back": "The worker reaches out to see what happened, invites the client back, and handles any lost sessions without shame. They ask about barriers such as cost, scheduling, or a poor fit and help remove them. The goal is to keep the door open and find the service the client can use."
+ },
+ {
+  "id": 233,
+  "domain": "intervention_and_practice",
+  "front": "What is the purpose of clinical documentation?",
+  "back": "Documentation keeps a clear record of the services provided, the client's progress, and the reasons for decisions. It supports continuity of care, billing, and quality review, and it can protect the worker in a legal or ethical dispute. A good note lets another provider understand the case quickly."
+ },
+ {
+  "id": 234,
+  "domain": "intervention_and_practice",
+  "front": "What should a record include and what should it avoid?",
+  "back": "A record should include the facts of the session, the client's statements, the worker's observations, the plan, and any safety concerns. It should avoid labels, guesses, and personal opinions about the client. Keeping to facts keeps the note accurate, useful, and defensible."
+ },
+ {
+  "id": 235,
+  "domain": "intervention_and_practice",
+  "front": "What is discharge and transition planning?",
+  "back": "Discharge planning prepares the client for the move out of services by reviewing progress and setting up what comes next. The worker coordinates with other providers and links the client to community resources they will need. A smooth transition lowers the chance of a relapse or a gap in care."
+ },
+ {
+  "id": 236,
+  "domain": "values_and_ethics",
+  "front": "What is informed consent in social work practice?",
+  "back": "Informed consent means the client agrees to services after hearing clear facts about the work, the limits, and the risks. The worker gets it freely and in language the client understands, before starting any service."
+ },
+ {
+  "id": 237,
+  "domain": "values_and_ethics",
+  "front": "What does client self-determination mean?",
+  "back": "Self-determination is the client's right to make their own choices about treatment and life. The worker supports that choice even when the client decides something the worker disagrees with."
+ },
+ {
+  "id": 238,
+  "domain": "values_and_ethics",
+  "front": "What is confidentiality in social work?",
+  "back": "Confidentiality means the worker keeps what a client shares private. It has limits, such as when someone may be hurt or a court orders release of the records."
+ },
+ {
+  "id": 239,
+  "domain": "values_and_ethics",
+  "front": "What is a dual relationship in social work?",
+  "back": "A dual relationship happens when the worker fills two roles with the same person, such as therapist and friend. It can blur judgment and harm the client, so it is avoided unless it is truly unavoidable."
+ },
+ {
+  "id": 240,
+  "domain": "values_and_ethics",
+  "front": "What does professional competence mean?",
+  "back": "Competence means practicing only inside the skills and knowledge you have. The worker keeps learning and gets training before taking on new kinds of work."
+ },
+ {
+  "id": 241,
+  "domain": "values_and_ethics",
+  "front": "What does dignity and worth of the person mean?",
+  "back": "It means every client is valued and respected as a person in their own right. The worker treats people with care and honors their strengths and choices."
+ },
+ {
+  "id": 242,
+  "domain": "values_and_ethics",
+  "front": "What is the NASW core value of service?",
+  "back": "Service means putting the act of helping clients and the community first. The worker brings professional skill to others before thinking of personal gain."
+ },
+ {
+  "id": 243,
+  "domain": "values_and_ethics",
+  "front": "What is the NASW core value of social justice?",
+  "back": "Social justice means working to change unfair systems that harm people, such as poverty and discrimination. The worker advocates for policies that give everyone a real chance."
+ },
+ {
+  "id": 244,
+  "domain": "values_and_ethics",
+  "front": "What is the NASW core value of integrity?",
+  "back": "Integrity means acting honestly and responsibly in professional work. The worker keeps promises and follows the Code of Ethics."
+ },
+ {
+  "id": 245,
+  "domain": "values_and_ethics",
+  "front": "What is the NASW core value of human relationships?",
+  "back": "This value says the bond between people is the main engine of change. The worker builds and uses relationships as the path to helping."
+ },
+ {
+  "id": 246,
+  "domain": "values_and_ethics",
+  "front": "What is mandated reporting in social work?",
+  "back": "Mandated reporting is a legal duty to tell officials about suspected child abuse or neglect. The worker reports on reasonable suspicion, not on proof."
+ },
+ {
+  "id": 247,
+  "domain": "values_and_ethics",
+  "front": "What is the duty to protect, also called Tarasoff?",
+  "back": "The duty to protect means the worker must act when a client makes a serious threat to harm another person. The worker may warn the target, alert police, or arrange a safer setting."
+ },
+ {
+  "id": 248,
+  "domain": "values_and_ethics",
+  "front": "What is a professional boundary in practice?",
+  "back": "A boundary is the line that keeps the helping relationship safe and focused on the client. Keeping it intact protects the client's trust and the worker's judgment."
+ },
+ {
+  "id": 249,
+  "domain": "values_and_ethics",
+  "front": "What is privileged communication in practice?",
+  "back": "Privileged communication shields certain client talks from being forced into court. It belongs to the client, who may choose to give it up."
+ },
+ {
+  "id": 250,
+  "domain": "values_and_ethics",
+  "front": "What is cultural competence in social work?",
+  "back": "Cultural competence means understanding and respecting a client's culture, identity, and background. The worker adapts the work to fit that culture rather than judging it."
+ },
+ {
+  "id": 251,
+  "domain": "values_and_ethics",
+  "front": "What is a conflict of interest?",
+  "back": "A conflict of interest arises when the worker's own money, needs, or ties could bias the work. The worker names it and gets help to keep the client's interests first."
+ },
+ {
+  "id": 252,
+  "domain": "values_and_ethics",
+  "front": "What rule guides a social worker's self-disclosure?",
+  "back": "Self-disclosure of personal details is allowed only when it clearly helps the client. Sharing too much puts the focus back on the worker instead of the client."
+ },
+ {
+  "id": 253,
+  "domain": "values_and_ethics",
+  "front": "What is the ethical rule about gifts from clients?",
+  "back": "The worker avoids gifts that could feel like payment or create a conflict. A small, culturally expected gift may be accepted when refusing would harm the relationship."
+ },
+ {
+  "id": 254,
+  "domain": "values_and_ethics",
+  "front": "What is a social worker's record-keeping responsibility?",
+  "back": "The worker keeps records that are accurate, timely, and secure. Records protect the client and stand as the official account of the service."
+ },
+ {
+  "id": 255,
+  "domain": "values_and_ethics",
+  "front": "What is the right to privacy in the helping relationship?",
+  "back": "Privacy means the client controls who sees their personal information. The worker collects only what is needed and shares it only with permission."
+ },
+ {
+  "id": 256,
+  "domain": "values_and_ethics",
+  "front": "What is the difference between values, ethics, and laws?",
+  "back": "Values are beliefs, ethics are professional rules of conduct, and laws are binding rules from government. The worker follows both the Code of Ethics and the law."
+ },
+ {
+  "id": 257,
+  "domain": "values_and_ethics",
+  "front": "What is the ethical rule on intimate relationships with clients?",
+  "back": "The worker never has an intimate relationship with a current client. NASW prohibits sexual activity or contact with former clients, and the worker bears the full burden of proving no exploitation in any claimed extraordinary exception."
+ },
+ {
+  "id": 258,
+  "domain": "values_and_ethics",
+  "front": "How is informed consent handled with minors?",
+  "back": "A parent or guardian usually consents before services start with a minor. The worker also seeks the young person's own agreement and weighs their ability to decide."
+ },
+ {
+  "id": 259,
+  "domain": "values_and_ethics",
+  "front": "A client says they plan to harm someone. What is your first duty?",
+  "back": "Your first duty is to protect the person who may be harmed. That means warning the target where possible, alerting police, and documenting every step, even though it breaks confidentiality."
+ },
+ {
+  "id": 260,
+  "domain": "values_and_ethics",
+  "front": "What is nonmaleficence in social work practice?",
+  "back": "Nonmaleficence means acting to avoid harm. When a choice carries risk, the worker picks the path that protects the client most."
+ },
+ {
+  "id": 261,
+  "domain": "values_and_ethics",
+  "front": "What is client abandonment, and how is it avoided?",
+  "back": "Abandonment is stopping help while a client still needs it, without a plan. The worker avoids it by giving notice, closing well, and arranging a good transfer."
+ },
+ {
+  "id": 262,
+  "domain": "values_and_ethics",
+  "front": "What does competent practice look like with telehealth?",
+  "back": "The worker knows the technology and confirms it protects the client's privacy. Telehealth is used only when it serves the client and fits state rules."
+ },
+ {
+  "id": 263,
+  "domain": "values_and_ethics",
+  "front": "Your supervisor asks you to release records without consent. What do you do?",
+  "back": "You should not release private records without a lawful reason or client consent. Raise the concern with the supervisor and check the Code of Ethics and the law."
+ },
+ {
+  "id": 264,
+  "domain": "values_and_ethics",
+  "front": "What do you do when a colleague is impaired or unethical?",
+  "back": "First you protect the client from any risk. Then you address the issue directly with the colleague and, if needed, report it to the proper authority."
+ },
+ {
+  "id": 265,
+  "domain": "values_and_ethics",
+  "front": "What does it mean to practice without discrimination?",
+  "back": "The worker serves clients of every race, gender, age, religion, and orientation. The worker also works to end the unfair conditions that fuel bias."
+ },
+ {
+  "id": 266,
+  "domain": "assessment_and_planning",
+  "front": "What is a biopsychosocial assessment used for?",
+  "back": "It gathers information about the client's body, mind, and social world. The result shows health, emotions, family, work, and supports so the worker can see the whole person."
+ },
+ {
+  "id": 267,
+  "domain": "assessment_and_planning",
+  "front": "What does a mental status exam (MSE) cover?",
+  "back": "The MSE is a snapshot of how the client is acting while you talk. It covers appearance, mood, speech, and thinking at that moment."
+ },
+ {
+  "id": 268,
+  "domain": "assessment_and_planning",
+  "front": "What is the purpose of a treatment plan?",
+  "back": "A treatment plan lays out the goals, steps, and responsibilities of the work. It gives a clear path and a way to check whether the client is improving."
+ },
+ {
+  "id": 269,
+  "domain": "assessment_and_planning",
+  "front": "What does the SMART goal format mean?",
+  "back": "SMART stands for specific, measurable, achievable, relevant, and time-bound. Goals written this way are easy to track and review."
+ },
+ {
+  "id": 270,
+  "domain": "assessment_and_planning",
+  "front": "What does a strengths-based assessment do?",
+  "back": "It studies the client's abilities, skills, and supports rather than only the problems. The plan then builds on what the person already does well."
+ },
+ {
+  "id": 271,
+  "domain": "assessment_and_planning",
+  "front": "What is a genogram in family assessment?",
+  "back": "A genogram is a family tree that maps relationships and patterns across generations. It shows who is close, who fights, and what events repeat."
+ },
+ {
+  "id": 272,
+  "domain": "assessment_and_planning",
+  "front": "What does an ecomap show about a client?",
+  "back": "An ecomap pictures the client's links to outside groups such as school, work, and faith. It shows which ties are strong, weak, or stressful."
+ },
+ {
+  "id": 273,
+  "domain": "assessment_and_planning",
+  "front": "What is a suicide risk assessment?",
+  "back": "It asks directly about suicidal thoughts, plans, and means. The worker weighs the risk, then builds a safety plan and connects the client to support."
+ },
+ {
+  "id": 274,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between diagnosis and assessment?",
+  "back": "An assessment is the full picture of the client and their life. A diagnosis is a named condition taken from the DSM."
+ },
+ {
+  "id": 275,
+  "domain": "assessment_and_planning",
+  "front": "What does reliability mean in a tool?",
+  "back": "Reliability means the tool gives steady results each time it is used. A reliable measure checks the same thing in the same way."
+ },
+ {
+  "id": 276,
+  "domain": "assessment_and_planning",
+  "front": "What does validity mean in a tool?",
+  "back": "Validity means the tool measures what it is claimed to measure. A valid test truly captures the thing it was built to capture."
+ },
+ {
+  "id": 277,
+  "domain": "assessment_and_planning",
+  "front": "What is the ecological systems perspective?",
+  "back": "It sees the client inside layers such as family, school, and community. Change means working on people, settings, and the links between them."
+ },
+ {
+  "id": 278,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between clinical and actuarial judgment?",
+  "back": "Clinical judgment is the trained opinion of a worker. Actuarial judgment uses numbers and statistics to predict, and it tends to be more accurate for some decisions."
+ },
+ {
+  "id": 279,
+  "domain": "assessment_and_planning",
+  "front": "What is a baseline in assessment?",
+  "back": "A baseline is the starting level of a symptom or behavior before treatment. Later results are compared to it to judge if the work helped."
+ },
+ {
+  "id": 280,
+  "domain": "assessment_and_planning",
+  "front": "What is the person-in-environment perspective?",
+  "back": "It holds that a person's behavior cannot be separated from the setting they live in. The worker assesses both the person and their context."
+ },
+ {
+  "id": 281,
+  "domain": "assessment_and_planning",
+  "front": "What is ongoing or formative assessment?",
+  "back": "Formative assessment gathers information all through the work to guide it. It shows what is helping so the worker can adjust course."
+ },
+ {
+  "id": 282,
+  "domain": "assessment_and_planning",
+  "front": "What does a readiness to change measure?",
+  "back": "Readiness shows how willing and able a client is to change right now. It tells the worker which intervention fits the moment."
+ },
+ {
+  "id": 283,
+  "domain": "assessment_and_planning",
+  "front": "What does a differential diagnosis do?",
+  "back": "It compares possible conditions to find the one that best fits the symptoms. The worker rules out other explanations along the way."
+ },
+ {
+  "id": 284,
+  "domain": "assessment_and_planning",
+  "front": "What does a developmental history capture?",
+  "back": "It records the milestones and big events of a person's early years. It helps the worker see patterns in growth and attachment."
+ },
+ {
+  "id": 285,
+  "domain": "assessment_and_planning",
+  "front": "What does a functional assessment examine?",
+  "back": "It looks at how the client handles daily tasks like eating, dressing, and working. Gaps in these areas show what support the client needs."
+ },
+ {
+  "id": 286,
+  "domain": "assessment_and_planning",
+  "front": "What does a social history include?",
+  "back": "A social history holds the client's life story, work, education, and key relationships. It gives the context that shapes both assessment and plan."
+ },
+ {
+  "id": 287,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between objective and subjective data?",
+  "back": "Objective data can be seen or measured, such as restlessness or a test score. Subjective data is what the client reports, such as feeling worthless."
+ },
+ {
+  "id": 288,
+  "domain": "assessment_and_planning",
+  "front": "What is the purpose of a screening tool?",
+  "back": "A screening tool quickly flags possible signs, such as depression or trauma. A positive screen leads into a fuller assessment."
+ },
+ {
+  "id": 289,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between assessment and evaluation?",
+  "back": "Assessment gathers facts to understand and plan. Evaluation judges whether the service or program actually worked."
+ },
+ {
+  "id": 290,
+  "domain": "assessment_and_planning",
+  "front": "What happens during an initial intake assessment?",
+  "back": "The intake gathers basic facts and screens for immediate risk and needs. It decides whether this service fits and where the client should be referred."
+ },
+ {
+  "id": 291,
+  "domain": "intervention_and_practice",
+  "front": "What is cognitive-behavioral therapy (CBT)?",
+  "back": "CBT connects a person's thoughts, feelings, and actions. The client learns to spot unhelpful thoughts and change them so feelings and behavior follow."
+ },
+ {
+  "id": 292,
+  "domain": "intervention_and_practice",
+  "front": "What is motivational interviewing used for?",
+  "back": "It is a guiding style that finds the client's own reason to change. Instead of arguing, the worker listens and reflects to build the client's motivation."
+ },
+ {
+  "id": 293,
+  "domain": "intervention_and_practice",
+  "front": "What does OARS stand for in practice?",
+  "back": "OARS stands for open questions, affirmations, reflections, and summaries. These four skills move a client toward change without pressure."
+ },
+ {
+  "id": 294,
+  "domain": "intervention_and_practice",
+  "front": "What is a therapeutic alliance in social work?",
+  "back": "The alliance is the trusting bond between worker and client. It is one of the strongest signs of a good outcome."
+ },
+ {
+  "id": 295,
+  "domain": "intervention_and_practice",
+  "front": "What is transference in therapy?",
+  "back": "Transference happens when a client copies old feelings from an earlier relationship onto the worker. These reactions can reveal patterns from the client's past."
+ },
+ {
+  "id": 296,
+  "domain": "intervention_and_practice",
+  "front": "What is countertransference in therapy?",
+  "back": "Countertransference is the worker's own emotional response to the client. The worker notices it and keeps it from harming the work."
+ },
+ {
+  "id": 297,
+  "domain": "intervention_and_practice",
+  "front": "What is solution-focused brief therapy?",
+  "back": "It builds on the client's successes and hopes rather than the problem. The worker asks what is working and what would be different once the problem is gone."
+ },
+ {
+  "id": 298,
+  "domain": "intervention_and_practice",
+  "front": "What is the engagement phase of the helping process?",
+  "back": "Engagement is the opening phase where trust and a working bond are formed. A strong start here sets up everything that follows."
+ },
+ {
+  "id": 299,
+  "domain": "intervention_and_practice",
+  "front": "What happens in the termination phase?",
+  "back": "Termination closes the work in a planned way. The client reviews gains, processes feelings about leaving, and gets a clear follow-up plan."
+ },
+ {
+  "id": 300,
+  "domain": "intervention_and_practice",
+  "front": "What is a defense mechanism in social work?",
+  "back": "A defense mechanism is an automatic way the mind shields a person from hard feelings. Denial, projection, and rationalization are common examples."
+ },
+ {
+  "id": 301,
+  "domain": "intervention_and_practice",
+  "front": "What does a case manager do?",
+  "back": "A case manager coordinates services and connects the client to needed resources. They plan, refer, follow up, and advocate across systems."
+ },
+ {
+  "id": 302,
+  "domain": "intervention_and_practice",
+  "front": "What is the broker role in case management?",
+  "back": "The broker links the client to community services and programs. It is a referral role aimed at filling a concrete need."
+ },
+ {
+  "id": 303,
+  "domain": "intervention_and_practice",
+  "front": "What are the usual phases of group development?",
+  "back": "Groups usually move through forming, storming, norming, performing, and adjourning. In the storming phase members test roles and may clash, and adjourning is the final stage of closure."
+ },
+ {
+  "id": 304,
+  "domain": "intervention_and_practice",
+  "front": "What does evidence-based practice combine?",
+  "back": "Evidence-based practice blends the best research, the worker's skill, and the client's values. The worker chooses methods shown to work for that issue."
+ },
+ {
+  "id": 305,
+  "domain": "intervention_and_practice",
+  "front": "What is the focus of a psychoeducational group?",
+  "back": "It teaches members facts and skills about a shared concern. The goal is learning rather than deep personal change."
+ },
+ {
+  "id": 306,
+  "domain": "intervention_and_practice",
+  "front": "Why is self-care important for a social worker?",
+  "back": "Self-care protects the worker's own wellbeing so the demands of the job do not take over. It prevents burnout and keeps the worker able to help others."
+ },
+ {
+  "id": 307,
+  "domain": "intervention_and_practice",
+  "front": "What is a behavioral intervention plan?",
+  "back": "It identifies what triggers a behavior and how to respond the same way each time. The worker tracks patterns and sets rewards or steps to reduce problem behavior."
+ },
+ {
+  "id": 308,
+  "domain": "intervention_and_practice",
+  "front": "What is change talk in motivational interviewing?",
+  "back": "Change talk is when the client speaks in favor of making a change. The worker listens for it and uses reflection to build commitment."
+ },
+ {
+  "id": 309,
+  "domain": "intervention_and_practice",
+  "front": "What is supervision in social work?",
+  "back": "Supervision is a more experienced worker guiding another worker's practice. It builds skills, checks quality, and gives support."
+ },
+ {
+  "id": 310,
+  "domain": "intervention_and_practice",
+  "front": "What does the empowerment approach do?",
+  "back": "It helps clients gain skills, confidence, and control over their lives. The worker shares knowledge and backs the client's own decisions."
+ },
+ {
+  "id": 311,
+  "domain": "intervention_and_practice",
+  "front": "What is the function of a referral?",
+  "back": "A referral sends a client to another service that fits a need the worker cannot meet. A strong referral includes a warm link and a follow-up check."
+ },
+ {
+  "id": 312,
+  "domain": "values_and_ethics",
+  "front": "What is client self-determination in social work?",
+  "back": "Self-determination is the client's right to make their own decisions about their life and treatment. The social worker supports informed choices and only steps in when the client is at serious risk of harming self or others. It is the client's life and the client's call."
+ },
+ {
+  "id": 313,
+  "domain": "values_and_ethics",
+  "front": "What are the main parts of informed consent?",
+  "back": "Informed consent means the client agrees to services after understanding them. The social worker explains the nature of services, risks and benefits, alternatives, limits of confidentiality, and the right to refuse. Consent must be given freely in language the client understands."
+ },
+ {
+  "id": 314,
+  "domain": "values_and_ethics",
+  "front": "When can a social worker break confidentiality?",
+  "back": "Confidentiality protects what a client shares, but it has limits. A worker must break it to prevent serious and imminent harm to a person, to report suspected abuse, or when a court orders disclosure. These limits should be explained to the client up front."
+ },
+ {
+  "id": 315,
+  "domain": "values_and_ethics",
+  "front": "What is the difference between privacy and confidentiality?",
+  "back": "Privacy is a person's right to control access to their own information and body. Confidentiality is the ethical and legal duty of the professional to keep shared information protected. Social workers honor both and must know their legal duties."
+ },
+ {
+  "id": 316,
+  "domain": "values_and_ethics",
+  "front": "Define dual or multiple relationships.",
+  "back": "A dual relationship happens when a worker has a second role with a client, such as friend, business partner, or romantic partner. Some are harmless boundary crossings, but workers avoid any role that could impair judgment or exploit the client. When one is unavoidable, it must be documented and managed."
+ },
+ {
+  "id": 317,
+  "domain": "values_and_ethics",
+  "front": "What are boundaries in a helping relationship?",
+  "back": "Boundaries are the limits that keep the helping relationship professional and focused on the client's needs. A boundary crossing is a small slip, like a brief self-disclosure, that can be repaired. A boundary violation exploits or harms the client."
+ },
+ {
+  "id": 318,
+  "domain": "values_and_ethics",
+  "front": "Should a social worker accept gifts from clients?",
+  "back": "A small token of gratitude may be fine, but a large or meaningful gift can create a conflict of interest. The worker should consider the cost, the meaning, and the client's situation. When in doubt, the worker talks it through with the client and documents it."
+ },
+ {
+  "id": 319,
+  "domain": "values_and_ethics",
+  "front": "Why must a worker report suspected child abuse even if a client objects?",
+  "back": "Reporting suspected child abuse and neglect is a legal mandate that overrides client confidentiality. The worker tells the client about this limit up front, then makes the report. The safety of the child comes first."
+ },
+ {
+  "id": 320,
+  "domain": "values_and_ethics",
+  "front": "What is the legal duty called mandated reporting?",
+  "back": "Mandated reporting is a legal duty that requires certain professionals to report suspected abuse or neglect of children, and often of vulnerable adults, to authorities. It is not optional and it overrides confidentiality. Reports are made on reasonable suspicion, not proof."
+ },
+ {
+  "id": 321,
+  "domain": "values_and_ethics",
+  "front": "When does a worker have a duty to protect someone?",
+  "back": "When a client makes a credible and specific threat of serious harm to an identifiable person, the worker has a duty to act. Actions can include warning the person, notifying police, and increasing safety measures. The worker balances the client's privacy against someone's right to live."
+ },
+ {
+  "id": 322,
+  "domain": "values_and_ethics",
+  "front": "What is social justice in the social work code of ethics?",
+  "back": "Social justice is the value that pushes social workers to address social problems and unfair conditions. Workers advocate for and with vulnerable and oppressed groups. The goal is a fairer society for everyone."
+ },
+ {
+  "id": 323,
+  "domain": "values_and_ethics",
+  "front": "What does cultural competence mean in practice?",
+  "back": "Cultural competence is the ability to work effectively with people of different backgrounds and beliefs. It means learning about a client's culture, examining your own biases, and adapting your approach. It is an ongoing practice, not a box you check."
+ },
+ {
+  "id": 324,
+  "domain": "values_and_ethics",
+  "front": "What does cultural humility add beyond competence?",
+  "back": "Cultural humility is a lifelong, self-reflective stance that says you never fully know a person's culture. The worker stays open, curious, and willing to be corrected by the client. It avoids overgeneralizing from group labels."
+ },
+ {
+  "id": 325,
+  "domain": "values_and_ethics",
+  "front": "What does practicing within your competence mean?",
+  "back": "Workers only provide services they are trained and competent to give. When a client's need falls outside that range, the worker gets consultation, more training, or refers out. Practicing beyond competence can harm clients and is unethical."
+ },
+ {
+  "id": 326,
+  "domain": "values_and_ethics",
+  "front": "Why is self-care an ethical responsibility for a social worker?",
+  "back": "Burnout and impairment reduce the quality of care and can harm clients. The code expects workers to manage their own wellness and to seek help when stress affects practice. A healthy worker protects the people they serve."
+ },
+ {
+  "id": 327,
+  "domain": "values_and_ethics",
+  "front": "What is the right to refuse treatment?",
+  "back": "A client with capacity can refuse or stop services at any time, except in an emergency or as law allows. The worker respects the refusal and explains the risks and alternatives. It is based on the client's right to self-determination."
+ },
+ {
+  "id": 328,
+  "domain": "values_and_ethics",
+  "front": "How does a worker handle informed consent with a minor?",
+  "back": "A minor's consent depends on state law and on the minor's age, maturity, and type of service. Workers should try to get the minor's agreement as well as a guardian's consent. In some cases a minor can consent to certain care on their own."
+ },
+ {
+  "id": 329,
+  "domain": "values_and_ethics",
+  "front": "How is a client's information shared within a treatment team?",
+  "back": "Within a team, the worker shares only what is needed for the client's care. The worker explains who can see the information and follows record and privacy rules. This keeps the client's trust while still providing good care."
+ },
+ {
+  "id": 330,
+  "domain": "values_and_ethics",
+  "front": "What should a worker consider before delivering services online?",
+  "back": "Before online services, the worker should get informed consent that covers privacy, limits of confidentiality, and an emergency plan. Being on a platform does not automatically protect the client's information. The worker follows professional and privacy rules."
+ },
+ {
+  "id": 331,
+  "domain": "values_and_ethics",
+  "front": "Can a worker impose personal values on a client?",
+  "back": "A worker must not force personal, moral, or religious views onto a client. The worker stays neutral and supports the client's own choices within ethical and legal limits. When values clash, the worker uses self-awareness and may refer the client."
+ },
+ {
+  "id": 332,
+  "domain": "values_and_ethics",
+  "front": "What forms of discrimination are forbidden in social work?",
+  "back": "Social workers may not discriminate or refuse service based on race, ethnicity, sex, sexual orientation, age, disability, religion, or other protected status. The worker serves everyone fairly. Discrimination goes against the core values of the profession."
+ },
+ {
+  "id": 333,
+  "domain": "values_and_ethics",
+  "front": "What are reasonable accommodations for a client with a disability?",
+  "back": "Workers must make services accessible, such as sign language, plain language, or a space that works. Refusing to accommodate or treating someone differently because of disability is discrimination. Access is a matter of justice, not a favor."
+ },
+ {
+  "id": 334,
+  "domain": "values_and_ethics",
+  "front": "What does non-abandonment mean in social work?",
+  "back": "Non-abandonment means a worker does not leave a client without care once services begin. Services end when they are no longer needed or no longer help. If termination is needed, the worker prepares the client and arranges a safe handoff."
+ },
+ {
+  "id": 335,
+  "domain": "values_and_ethics",
+  "front": "What should a worker do if a colleague is impaired or unethical?",
+  "back": "If a worker sees a colleague who is impaired, incompetent, or unethical, the worker should first address it directly and seek to get help. If the problem continues and could harm clients, the worker must report it to the proper body. Protecting clients comes before loyalty to a colleague."
+ },
+ {
+  "id": 336,
+  "domain": "values_and_ethics",
+  "front": "Why is self-awareness of your own identity important?",
+  "back": "A worker should know how their own race, class, gender, and history shape their beliefs and reactions. This reduces imposed bias and helps the worker see how power shows up in a session. It is a core part of responsible practice."
+ },
+ {
+  "id": 337,
+  "domain": "values_and_ethics",
+  "front": "What are the general steps of an ethical decision making model?",
+  "back": "Most models say to identify the problem, know the relevant codes and laws, consider the people involved, weigh the options and their risks, decide, act, and review. The worker also consults a supervisor or peers when uncertain. It is a thinking process, not a fixed checklist."
+ },
+ {
+  "id": 338,
+  "domain": "values_and_ethics",
+  "front": "What are the rules about romantic or sexual contact with clients?",
+  "back": "A worker must not have a romantic or sexual relationship with a current client in any circumstance. NASW also prohibits sexual contact with former clients with no time limit, and the worker bears the burden of proving no exploitation in any claimed extraordinary exception."
+ },
+ {
+  "id": 339,
+  "domain": "values_and_ethics",
+  "front": "Why does the worker keep accurate and honest records?",
+  "back": "Records are the basis of care, continuity, and legal proof, so they must be accurate, timely, and honest. The worker documents only what is relevant to services and notes what really happened. Falsifying records is both unethical and dangerous."
+ },
+ {
+  "id": 340,
+  "domain": "assessment_and_planning",
+  "front": "What does a biopsychosocial assessment gather?",
+  "back": "It looks at a person's biological, psychological, and social side together. The worker gathers history about health, emotions, relationships, housing, and money. That full picture guides the problem and the plan."
+ },
+ {
+  "id": 341,
+  "domain": "assessment_and_planning",
+  "front": "What is the mental status exam (MSE)?",
+  "back": "The MSE is a structured snapshot of how a person looks and thinks right now. It covers appearance, behavior, speech, mood and affect, thought process and content, cognition, and insight. It helps spot things like psychosis or confusion."
+ },
+ {
+  "id": 342,
+  "domain": "assessment_and_planning",
+  "front": "How do mood and affect differ?",
+  "back": "Mood is the internal feeling the client reports, like depressed or anxious. Affect is what the worker observes in facial expression and tone. A flat affect can appear in a person who says they feel very sad."
+ },
+ {
+  "id": 343,
+  "domain": "assessment_and_planning",
+  "front": "What does a genogram map out?",
+  "back": "A genogram is a family tree that shows family members, relationships, and health or behavior patterns across generations. It helps the worker see patterns like conflict or addiction. It is drawn as a chart, not a chronological story."
+ },
+ {
+  "id": 344,
+  "domain": "assessment_and_planning",
+  "front": "What is an ecomap used to show?",
+  "back": "An ecomap is a visual chart of the client's links to outside systems such as school, work, family, or community. Different lines show whether each link is supportive or stressful. It reveals the client's resources and gaps."
+ },
+ {
+  "id": 345,
+  "domain": "assessment_and_planning",
+  "front": "What are the key ideas of attachment theory?",
+  "back": "Attachment theory says early bonds with caregivers shape how a person relates later. Bowlby and Ainsworth described secure, anxious, and avoidant attachment styles. These patterns help a social worker understand relationships and behavior."
+ },
+ {
+  "id": 346,
+  "domain": "assessment_and_planning",
+  "front": "What are Erikson's main psychosocial stages?",
+  "back": "Erikson's stages span the whole life and each has a challenge, such as trust versus mistrust in infancy and identity versus role confusion in youth. Success in each stage builds a healthy self. People can revisit earlier struggles when life demands it."
+ },
+ {
+  "id": 347,
+  "domain": "assessment_and_planning",
+  "front": "What are Piaget's four stages of cognitive development?",
+  "back": "Piaget described sensorimotor, preoperational, concrete operational, and formal operational stages. Children move from learning through senses to using logic and abstract ideas. A social worker uses this to match expectations to a child's age."
+ },
+ {
+  "id": 348,
+  "domain": "assessment_and_planning",
+  "front": "What does object permanence mean in infancy?",
+  "back": "Object permanence is knowing an object still exists when it is out of sight. It develops in the first sensorimotor stage, usually by about age two. Before that, a baby may act like a hidden toy no longer exists."
+ },
+ {
+  "id": 349,
+  "domain": "assessment_and_planning",
+  "front": "How does delirium differ from dementia?",
+  "back": "Delirium is a sudden, changeable confusion that often has a treatable medical cause. Dementia is a slowly declining loss of memory and thinking. A sudden change in an older adult is treated as an emergency until proven otherwise."
+ },
+ {
+  "id": 350,
+  "domain": "assessment_and_planning",
+  "front": "What is the ecological or systems perspective?",
+  "back": "This view sees a person inside many connected systems like family, school, work, and community. Problems come from the fit between person and environment, not only from within the person. Change can happen at any point in the system."
+ },
+ {
+  "id": 351,
+  "domain": "assessment_and_planning",
+  "front": "What are the main parts of a treatment plan?",
+  "back": "A treatment plan starts with the problems and strengths, then sets goals, objectives, and the services and people responsible. Goals are broad and objectives are specific and measurable. The plan is a map that gets reviewed and updated."
+ },
+ {
+  "id": 352,
+  "domain": "assessment_and_planning",
+  "front": "What makes a treatment objective SMART?",
+  "back": "SMART objectives are specific, measurable, achievable, relevant, and time bound. Instead of get better at coping, a worker might write practice breathing for ten minutes three times a week for a month. That way progress can be checked."
+ },
+ {
+  "id": 353,
+  "domain": "assessment_and_planning",
+  "front": "What does a strengths based assessment focus on?",
+  "back": "It looks for a client's strengths and resources, not only problems. The worker asks what the person is good at and what has helped before. This builds hope and uses the client's own power in the plan."
+ },
+ {
+  "id": 354,
+  "domain": "assessment_and_planning",
+  "front": "What are common risk factors for suicide?",
+  "back": "Risk goes up with past attempts, family history, substance use, chronic pain, isolation, access to means, and major losses. Hopelessness and a specific plan are especially serious. More risk factors together mean a higher level of concern."
+ },
+ {
+  "id": 355,
+  "domain": "assessment_and_planning",
+  "front": "How is screening different from assessment?",
+  "back": "Screening is a short tool that finds who may have a problem and needs a closer look. Assessment is the deeper process that names the problem and its causes. A positive screen leads to a real assessment."
+ },
+ {
+  "id": 356,
+  "domain": "assessment_and_planning",
+  "front": "What is the PHQ-9 used to screen for?",
+  "back": "The PHQ-9 is a short, evidence based questionnaire for screening depression. It asks about symptoms and how often they happen. It gives a score that suggests severity, but a worker still does a full assessment."
+ },
+ {
+  "id": 357,
+  "domain": "assessment_and_planning",
+  "front": "What does person in environment focus on?",
+  "back": "Person in environment looks at how the person, family, and community affect one another. The worker asks how the environment helps or hurts the client. It is the social work lens that centers context, not only diagnosis."
+ },
+ {
+  "id": 358,
+  "domain": "assessment_and_planning",
+  "front": "What are the main parenting styles Baumrind described?",
+  "back": "Baumrind described authoritative, authoritarian, and permissive styles, and later neglectful style was added. Authoritative parenting sets firm limits with warmth and generally relates to the healthiest outcomes. A social worker looks at style when parenting is part of the problem."
+ },
+ {
+  "id": 359,
+  "domain": "assessment_and_planning",
+  "front": "What are the symptom groups of PTSD?",
+  "back": "After trauma, a person may have re-experiencing, avoidance, negative mood or thoughts, and hyperarousal. These are responses to danger, not signs of weakness. A trauma history shapes how the worker builds safety and trust."
+ },
+ {
+  "id": 360,
+  "domain": "assessment_and_planning",
+  "front": "How does acute stress disorder differ from PTSD?",
+  "back": "Both follow a trauma, but acute stress disorder starts within days and lasts from three days to one month. If symptoms last longer than a month, the diagnosis may become PTSD. The worker watches the time frame and the link to the event."
+ },
+ {
+  "id": 361,
+  "domain": "assessment_and_planning",
+  "front": "What is a collateral contact in assessment?",
+  "back": "A collateral contact is information from someone else who knows the client, like a family member, doctor, or teacher. It adds context and checks facts with the client's permission where possible. It is one source, never the whole picture."
+ },
+ {
+  "id": 362,
+  "domain": "assessment_and_planning",
+  "front": "What does the CAGE questionnaire screen for?",
+  "back": "The CAGE is a short, four question screen for problem drinking. It asks about cutting down, annoyance at criticism, guilt, and using alcohol as an eye opener. It is a screen, not a diagnosis of dependence."
+ },
+ {
+  "id": 363,
+  "domain": "assessment_and_planning",
+  "front": "How does a diagnosis differ from a social work assessment?",
+  "back": "A diagnosis names a condition using the DSM or another classification. A social work assessment is broader and looks at the person, systems, strengths, and the problem. The worker uses both but centers the whole person and environment."
+ },
+ {
+  "id": 364,
+  "domain": "assessment_and_planning",
+  "front": "Why assess both strengths and needs together?",
+  "back": "The worker names both what the client needs and what they bring. This avoids labeling a person only by their deficits. An assessment that lists only problems hides the resources that make change possible."
+ },
+ {
+  "id": 365,
+  "domain": "intervention_and_practice",
+  "front": "What is the strengths perspective?",
+  "back": "The strengths perspective builds on what a client can do, not only what is wrong. The worker highlights skills, resources, and past wins. This raises hope and makes help feel possible."
+ },
+ {
+  "id": 366,
+  "domain": "intervention_and_practice",
+  "front": "What makes a strong therapeutic alliance?",
+  "back": "The therapeutic alliance is the trust and agreement between worker and client on goals and tasks. It is built through empathy, warmth, and genuineness. Research says it is one of the strongest predictors of good outcomes."
+ },
+ {
+  "id": 367,
+  "domain": "intervention_and_practice",
+  "front": "What is empathetic understanding in practice?",
+  "back": "Empathy is the ability to feel with and understand a client's world from their point of view. It is different from sympathy, which is feeling for someone from outside. The worker shows they get it without taking over or fixing."
+ },
+ {
+  "id": 368,
+  "domain": "intervention_and_practice",
+  "front": "What is person centered therapy?",
+  "back": "Carl Rogers described person centered therapy, which holds that clients grow when the worker offers empathy, unconditional positive regard, and genuineness. The client leads, and the worker creates a safe space. It is non directive and client driven."
+ },
+ {
+  "id": 369,
+  "domain": "intervention_and_practice",
+  "front": "What is the main idea of cognitive behavioral therapy?",
+  "back": "CBT says thoughts, feelings, and behaviors are connected. The worker helps the client notice and change unhelpful thoughts and actions. It is a short, goal based, evidence based approach for many problems."
+ },
+ {
+  "id": 370,
+  "domain": "intervention_and_practice",
+  "front": "What are the steps of crisis intervention?",
+  "back": "Crisis intervention starts by defining the problem and making sure the person is safe. Then the worker listens, lowers strong feelings, and helps the person use their own coping. Finally, the worker helps plan next steps and link to support."
+ },
+ {
+  "id": 371,
+  "domain": "intervention_and_practice",
+  "front": "What is a safety plan after a suicidal crisis?",
+  "back": "A safety plan is a written set of steps for when the crisis returns. It lists warning signs, calming things the person can do, people to call, and how to reach help. It turns a vague promise into a real plan."
+ },
+ {
+  "id": 372,
+  "domain": "intervention_and_practice",
+  "front": "What are the five stages of change?",
+  "back": "Prochaska and DiClemente described precontemplation, contemplation, preparation, action, and maintenance. In precontemplation a person is not ready, and in later stages they start and keep the change. The worker matches the approach to the stage."
+ },
+ {
+  "id": 373,
+  "domain": "intervention_and_practice",
+  "front": "What does harm reduction focus on?",
+  "back": "Harm reduction lowers harm from drug use or risky behavior without demanding immediate abstinence. It meets people where they are and values small steps like using a clean needle. It uses workable and respectful goals."
+ },
+ {
+  "id": 374,
+  "domain": "intervention_and_practice",
+  "front": "What are the three main purposes of supervision?",
+  "back": "Administrative supervision handles policy, workload, and accountability, while educational supervision builds the worker's skills and knowledge. Supportive supervision gives emotional support and lowers burnout. A good supervisor balances all three."
+ },
+ {
+  "id": 375,
+  "domain": "intervention_and_practice",
+  "front": "What is transference in practice?",
+  "back": "Transference is when a client projects feelings from past relationships onto the worker. The client may treat the worker as they once treated a parent or partner. The worker uses this as information while keeping their own reactions separate."
+ },
+ {
+  "id": 376,
+  "domain": "intervention_and_practice",
+  "front": "What is countertransference and how is it managed?",
+  "back": "Countertransference is when the worker's own feelings and history get stirred by a client. It can show up as overprotecting, avoiding, or feeling angry. The worker uses supervision to notice and manage it so it does not hurt the client."
+ },
+ {
+  "id": 377,
+  "domain": "intervention_and_practice",
+  "front": "What are the typical stages of group development?",
+  "back": "Groups often move through forming, storming, norming, performing, and adjourning. At first there is politeness, then conflict, then rules and trust, then productive work, then ending. The worker leads differently in each stage."
+ },
+ {
+  "id": 378,
+  "domain": "intervention_and_practice",
+  "front": "What is the purpose of a mutual aid group?",
+  "back": "A mutual aid group brings together people who share a problem or identity to help each other. The worker helps members build connection and share coping strategies. Much of the healing comes from the members, not only the leader."
+ },
+ {
+  "id": 379,
+  "domain": "intervention_and_practice",
+  "front": "What does structural family therapy focus on?",
+  "back": "Structural family therapy looks at family rules, roles, and boundaries as a system. The worker joins the family and helps rearrange the structure, such as putting a parent back in charge. Changing the family pattern changes the individual."
+ },
+ {
+  "id": 380,
+  "domain": "intervention_and_practice",
+  "front": "What is evidence based practice?",
+  "back": "Evidence based practice merges the best research, the worker's expertise, and the client's values and situation. The worker does not just pick any method and does not ignore client preference. The final choice fits the person, not only the research."
+ },
+ {
+  "id": 381,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between process and outcome evaluation?",
+  "back": "Process evaluation checks how the service is delivered, such as who comes and what they receive. Outcome evaluation checks the results, such as whether symptoms or problems change. They answer different questions and often go together."
+ },
+ {
+  "id": 382,
+  "domain": "intervention_and_practice",
+  "front": "What is a single subject design?",
+  "back": "A single subject design follows one client across phases, usually a baseline then treatment, like an A-B-A-B pattern. It lets a worker see whether change happens with an intervention. It is a small scale and useful way to test an approach."
+ },
+ {
+  "id": 383,
+  "domain": "intervention_and_practice",
+  "front": "What is the independent variable in research?",
+  "back": "The independent variable is the thing the helper changes or the presumed cause, such as a new therapy. The dependent variable is the outcome you measure, like anxiety level. If the result changes, the cause is a likely influence."
+ },
+ {
+  "id": 384,
+  "domain": "intervention_and_practice",
+  "front": "What is a needs assessment used for?",
+  "back": "A needs assessment finds out what a community or group actually needs and who is affected. The worker gathers data from surveys, interviews, and records. It grounds a service in evidence instead of guesswork."
+ },
+ {
+  "id": 385,
+  "domain": "intervention_and_practice",
+  "front": "What is case management in social work?",
+  "back": "Case management helps a client get and coordinate the services they need across many systems. The worker links, advocates, plans, and checks that care is working. The social worker is the bridge, not the only helper."
+ },
+ {
+  "id": 386,
+  "domain": "intervention_and_practice",
+  "front": "Why is termination a planned stage of practice?",
+  "back": "Termination is the planned ending of services and should be handled early and clearly. The worker reviews progress, names feelings about ending, and links the client to next steps. A good ending helps the client keep the gains."
+ },
+ {
+  "id": 387,
+  "domain": "intervention_and_practice",
+  "front": "What does client centered goal setting mean?",
+  "back": "The worker builds goals with the client instead of for them. The client says what matters most, and the worker helps shape it. When the client sets the goal, they are more likely to work toward it."
+ },
+ {
+  "id": 388,
+  "domain": "intervention_and_practice",
+  "front": "Why does rapport building come first?",
+  "back": "Rapport is the early sense of trust and connection between worker and client. It is built with warmth, respect, active listening, and honesty. Without it, even a good method is less likely to work."
+ },
+ {
+  "id": 389,
+  "domain": "values_and_ethics",
+  "front": "Name the six core values of the NASW Code of Ethics.",
+  "back": "They are service, social justice, dignity and worth of the person, importance of human relationships, integrity, and competence. Knowing them helps you spot what an ethics question is really testing."
+ },
+ {
+  "id": 390,
+  "domain": "values_and_ethics",
+  "front": "What is a client's right to self-determination?",
+  "back": "It is the right of a capable client to make their own choices about their own life, even choices the social worker disagrees with. The social worker informs and supports but does not decide for the client. Safety is the main limit to this right."
+ },
+ {
+  "id": 391,
+  "domain": "values_and_ethics",
+  "front": "What does informed consent mean in social work?",
+  "back": "It means the client agrees to a service after understanding its purpose, risks, benefits, limits of confidentiality, and right to refuse. It is a conversation, not just a signed form. Valid consent needs capacity, voluntariness, and enough information."
+ },
+ {
+  "id": 392,
+  "domain": "values_and_ethics",
+  "front": "What are the three conditions for valid consent?",
+  "back": "The client must have capacity, the consent must be voluntary and free of pressure, and it must be sufficiently informed. If any one is missing, the consent is not truly valid."
+ },
+ {
+  "id": 393,
+  "domain": "values_and_ethics",
+  "front": "How is capacity different from competence?",
+  "back": "Capacity is a clinical judgment a social worker makes about one specific decision at one time. Competence is a legal finding made by a court. A client can have capacity for one decision and not another."
+ },
+ {
+  "id": 394,
+  "domain": "values_and_ethics",
+  "front": "What are two recognized limits to confidentiality?",
+  "back": "Confidentiality can be broken when there is a serious risk of the client harming self or others, and when abuse or neglect of a child, older adult, or vulnerable person is suspected. It also ends when the client consents, or when a court or law requires disclosure."
+ },
+ {
+  "id": 395,
+  "domain": "values_and_ethics",
+  "front": "What triggers a social worker's duty to report?",
+  "back": "Mandatory reporting is triggered by reasonable suspicion, not by proof. You do not need evidence and you do not need the victim's permission. You report to the designated state agency such as child protective or adult protective services."
+ },
+ {
+  "id": 396,
+  "domain": "values_and_ethics",
+  "front": "A worker suspects child abuse but is not sure. What is the first step?",
+  "back": "Report the suspicion to the proper authority, because reasonable suspicion is enough. Do not confront the family first and do not investigate the matter yourself, as that can add risk."
+ },
+ {
+  "id": 397,
+  "domain": "values_and_ethics",
+  "front": "Is a romantic relationship with a client ever acceptable?",
+  "back": "No. Romantic or sexual relationships with clients are never acceptable, and most codes and laws prohibit them. Many rules also extend to former clients for a period after services end."
+ },
+ {
+  "id": 398,
+  "domain": "values_and_ethics",
+  "front": "How is a boundary crossing different from a boundary violation?",
+  "back": "A boundary crossing is a small, possibly harmless deviation that can be purposeful, such as brief self-disclosure that helps the client. A boundary violation exploits or harms the client and damages the relationship. The test is what effect it has on the client and the work."
+ },
+ {
+  "id": 399,
+  "domain": "values_and_ethics",
+  "front": "When may a social worker share personal information with a client?",
+  "back": "Self-disclosure should happen only when it serves a clear therapeutic purpose and is unlikely to harm the client. A small personal example can build rapport, while sharing your own problems is a boundary problem."
+ },
+ {
+  "id": 400,
+  "domain": "values_and_ethics",
+  "front": "What is a conflict of interest for a social worker?",
+  "back": "A conflict of interest is when the social worker's own interest, such as money or a personal bond, could affect judgment about a client. The worker must name it, disclose it, and protect the client, often by stepping back or bringing in another professional."
+ },
+ {
+  "id": 401,
+  "domain": "values_and_ethics",
+  "front": "A capable older adult refuses a service the worker thinks is needed. What is the response?",
+  "back": "Respect the client's right to self-determination and honor the choice. The social worker informs the client, addresses any safety concern, and supports the decision rather than forcing the service."
+ },
+ {
+  "id": 402,
+  "domain": "values_and_ethics",
+  "front": "What does a guardian do?",
+  "back": "A guardian is appointed by a court for a person who lacks capacity and has the authority to give consent on that person's behalf. This is the exception to the general rule that clients give their own consent."
+ },
+ {
+  "id": 403,
+  "domain": "values_and_ethics",
+  "front": "What is PHI under HIPAA?",
+  "back": "PHI, or protected health information, is any information that can identify a client, such as a name, birthdate, diagnostic code, or record number. HIPAA limits who can see PHI without permission."
+ },
+ {
+  "id": 404,
+  "domain": "values_and_ethics",
+  "front": "What is required before sharing client information with a third party?",
+  "back": "You need a specific, dated, signed release of information that says exactly what can be shared and with whom. Giving information over the phone without verifying consent is a common wrong answer."
+ },
+ {
+  "id": 405,
+  "domain": "values_and_ethics",
+  "front": "What should a worker do when served a subpoena?",
+ "back": "Consult the agency, your supervisor, and legal counsel before releasing anything. A subpoena is a legal demand, not an automatic release of the whole file, and you release only what is required."
+ },
+ {
+  "id": 406,
+  "domain": "values_and_ethics",
+  "front": "A worker shows exhaustion and cynicism from a heavy caseload. What does this show?",
+  "back": "This describes burnout, which is physical and emotional exhaustion from long-term work stress. It brings cynicism and detachment. The response is supervision, boundaries, and self-care, not just working harder."
+ },
+ {
+  "id": 407,
+  "domain": "values_and_ethics",
+  "front": "What is secondary trauma in social work?",
+  "back": "Secondary trauma, or vicarious trauma, happens when a worker absorbs the trauma that clients describe and develops symptoms like intrusive thoughts or numbness. It comes from exposure to traumatic material, unlike burnout, which is about chronic work stress."
+ },
+ {
+  "id": 408,
+  "domain": "values_and_ethics",
+  "front": "What is self-care in social work and why does it matter?",
+  "back": "Self-care includes balance, boundaries, breaks, supervision, peer support, exercise, and rest. It matters because burnout and secondary trauma can harm the quality of care and the worker's own health."
+ },
+ {
+  "id": 409,
+  "domain": "values_and_ethics",
+  "front": "What is the ethical duty behind professional development?",
+  "back": "Competence is an ongoing ethical duty, not a one-time achievement. A social worker must pursue current knowledge and training, and must seek consultation or refer when a client's needs fall outside their skills."
+ },
+ {
+  "id": 410,
+  "domain": "values_and_ethics",
+  "front": "What is the principle of the least restrictive alternative?",
+  "back": "The worker should use the least restrictive option that still keeps the person safe. It balances protection with a client's freedom and self-determination."
+ },
+ {
+  "id": 411,
+  "domain": "values_and_ethics",
+  "front": "What does the value of dignity and worth of the person require?",
+  "back": "It means treating every client with respect and honoring their right to self-determination. Even when you disagree with a client, you respect their personhood and their voice."
+ },
+ {
+  "id": 412,
+  "domain": "values_and_ethics",
+  "front": "What does the value of social justice mean in practice?",
+  "back": "It means working to challenge social injustice, especially for oppressed or marginalized people. On the exam this shows up as advocating to change an unfair policy rather than accepting it."
+ },
+ {
+  "id": 413,
+  "domain": "values_and_ethics",
+  "front": "What is a microaggression toward a client?",
+  "back": "A microaggression is a brief, everyday comment or action that sends a demeaning message to a member of a marginalized group. It can be subtle and unintended, but it still causes harm. A good response validates the experience and works to repair it."
+ },
+ {
+  "id": 414,
+  "domain": "values_and_ethics",
+  "front": "A client from a marginalized group describes an experience of discrimination. Best response?",
+  "back": "Validate the experience, show curiosity, and ask how it affects the client. Do not dismiss, minimize, or argue that it did not happen."
+ },
+ {
+  "id": 415,
+  "domain": "values_and_ethics",
+  "front": "What does abandonment mean in social work?",
+  "back": "Abandonment is ending services abruptly and without adequate notice, leaving a client without support. A social worker should not drop a client out of frustration; instead, plan the ending and give a referral and resources."
+ },
+ {
+  "id": 416,
+  "domain": "assessment_and_planning",
+  "front": "What does the person-in-environment framework do?",
+  "back": "Person-in-environment views the client within their family, community, and systems. It broadens assessment beyond the individual to the context that shapes them."
+ },
+ {
+  "id": 417,
+  "domain": "assessment_and_planning",
+  "front": "What does a mental status examination assess?",
+  "back": "It observes appearance, behavior, speech, mood, affect, thought process, thought content, cognition, insight, and judgment. It is a snapshot of current mental state, not a diagnosis."
+ },
+ {
+  "id": 418,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between mood and affect?",
+  "back": "Mood is the client's self-reported feeling, such as saying I feel sad. Affect is the outward expression you observe, such as flat or bright. They can be mismatched."
+ },
+ {
+  "id": 419,
+  "domain": "assessment_and_planning",
+  "front": "What is a delusion in mental status assessment?",
+  "back": "A delusion is a false, fixed belief that is not based in reality and that a person holds even against evidence. It is part of thought content."
+ },
+ {
+  "id": 420,
+  "domain": "assessment_and_planning",
+  "front": "What is a hallucination in a mental status exam?",
+  "back": "A hallucination is a sensory experience that happens without a real external stimulus, such as hearing voices. It is different from a delusion, which is a false belief."
+ },
+ {
+  "id": 421,
+  "domain": "assessment_and_planning",
+  "front": "What is orientation in a mental status exam?",
+  "back": "Orientation is knowing who you are, where you are, and what time it is. Confusion about these can point to an acute problem and is part of cognition."
+ },
+ {
+  "id": 422,
+  "domain": "assessment_and_planning",
+  "front": "A client says they just want to end it all. What should the worker do first?",
+  "back": "Assess the risk directly with specific questions about thoughts, plan, means, and timeframe. Direct questioning does not plant the idea; it is responsible, standard practice."
+ },
+ {
+  "id": 423,
+  "domain": "assessment_and_planning",
+  "front": "What factors raise the level of suicide or violence risk?",
+  "back": "Risk rises with a specific threat, a clear plan, available means, a history of attempts or violence, and factors like substance use, impulsivity, isolation, and access to weapons. The more specific and the greater the means, the higher the risk."
+ },
+ {
+  "id": 424,
+  "domain": "assessment_and_planning",
+  "front": "How should a worker interview a client who uses a different language?",
+  "back": "Speak directly to the client through a qualified interpreter rather than using a family member. Keep the conversation between you and the client, with the interpreter relaying it."
+ },
+ {
+  "id": 425,
+  "domain": "assessment_and_planning",
+  "front": "What are open-ended questions and when are they used?",
+  "back": "Open-ended questions invite a fuller answer, like telling me about that. They help a client open up. Closed questions get a specific fact but can shut down exploration."
+ },
+ {
+  "id": 426,
+  "domain": "assessment_and_planning",
+  "front": "What is the transtheoretical model of change?",
+  "back": "It describes five stages of change: precontemplation, contemplation, preparation, action, and maintenance. Relapse is a normal return to an earlier stage, not a stage itself, and you match your intervention to the client's current stage."
+ },
+ {
+  "id": 427,
+  "domain": "assessment_and_planning",
+  "front": "A client does not see a problem at all. What stage and what should the worker do?",
+  "back": "That is precontemplation. The social worker builds awareness and the relationship rather than pushing for change, because direct pressure usually fails at this stage."
+ },
+ {
+  "id": 428,
+  "domain": "assessment_and_planning",
+  "front": "What is a SMART goal?",
+  "back": "A SMART goal is Specific, Measurable, Achievable, Relevant, and Time-bound. It names who does what, by when, and how you will know it happened."
+ },
+ {
+  "id": 429,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between a goal and an objective?",
+  "back": "A goal is a broad statement of what the client is working toward. An objective is a specific, measurable step that shows progress toward the goal."
+ },
+ {
+  "id": 430,
+  "domain": "assessment_and_planning",
+  "front": "What is triage in social services?",
+  "back": "Triage is sorting needs by urgency so the most critical get attention first. You weigh severity, risk of harm, and immediacy, and you handle safety and urgent needs before routine ones."
+ },
+ {
+  "id": 431,
+  "domain": "assessment_and_planning",
+  "front": "What does resilience mean for a client?",
+  "back": "Resilience is the ability to bounce back from adversity. It is not a fixed trait and it can be supported by building coping skills and support."
+ },
+ {
+  "id": 432,
+  "domain": "assessment_and_planning",
+  "front": "What does an assessment of coping look at?",
+  "back": "It looks at how the client has coped in the past, what helped, and what did not. The worker distinguishes active coping like problem solving from avoidant coping like denial or withdrawal."
+ },
+ {
+  "id": 433,
+  "domain": "assessment_and_planning",
+  "front": "How is active coping different from avoidant coping?",
+  "back": "Active coping means problem solving, seeking support, and reframing. Avoidant coping means withdrawal, denial, or substance use. Active coping tends to be healthier, and the worker helps a client build it."
+ },
+ {
+  "id": 434,
+  "domain": "assessment_and_planning",
+  "front": "Why is the mental status exam a snapshot and not a diagnosis?",
+  "back": "The MSE is a snapshot of the client's current mental state, used as one piece of the whole assessment. It is not a diagnosis and should not be used to label the client."
+ },
+ {
+  "id": 435,
+  "domain": "assessment_and_planning",
+  "front": "A client seems calm but reports deep sadness. What should the worker notice?",
+  "back": "The worker notices the mismatch between mood and affect, which can be a clue to something more. Respond with curiosity rather than accusation."
+ },
+ {
+  "id": 436,
+  "domain": "assessment_and_planning",
+  "front": "What is a service plan?",
+  "back": "A service plan is a clear written agreement about who is responsible, what will be done, when, and how progress is measured. It should be concrete, understood, and agreed to by the client."
+ },
+ {
+  "id": 437,
+  "domain": "assessment_and_planning",
+  "front": "What does it mean to involve the client in planning?",
+  "back": "Problem identification and goal setting happen with the client, not for them. The client names their concerns and helps choose goals, which makes the plan more likely to be followed."
+ },
+ {
+  "id": 438,
+  "domain": "assessment_and_planning",
+  "front": "What does a risk assessment on harm to others look at?",
+  "back": "The worker assesses whether there is a specific person threatened, whether there is a plan, and whether there is a history of violence. This connects to the duty to warn."
+ },
+ {
+  "id": 439,
+  "domain": "assessment_and_planning",
+  "front": "What parenting capacities does an assessment consider?",
+  "back": "It looks at whether the parent provides a safe, nurturing environment, meets basic needs, gives structure and discipline, and responds to emotional needs. The worker observes the parent and child and weighs the child's safety."
+ },
+ {
+  "id": 440,
+  "domain": "intervention_and_practice",
+  "front": "What is active listening in a session?",
+  "back": "Active listening means giving full attention, reflecting content and feeling, summarizing, and asking clarifying questions. It is not just waiting for your turn to speak."
+ },
+ {
+  "id": 441,
+  "domain": "intervention_and_practice",
+  "front": "What is reflecting in a helping interview?",
+  "back": "Reflecting is mirroring back what the client said, often the feeling behind the words, to show understanding. It does not add new information; it tells the client you heard them."
+ },
+ {
+  "id": 442,
+  "domain": "intervention_and_practice",
+  "front": "What is empathy and how is it different from sympathy?",
+  "back": "Empathy is understanding and sharing the client's feelings. Sympathy is feeling sorry for a client. Empathy, unconditional positive regard, and genuineness form the conditions for a helping relationship."
+ },
+ {
+  "id": 443,
+  "domain": "intervention_and_practice",
+  "front": "A client discloses something hard to hear. What is the best response?",
+  "back": "Respond with empathy, acceptance, and a nonjudgmental attitude. Avoid lecturing, judging, or showing a strong personal reaction."
+ },
+ {
+  "id": 444,
+  "domain": "intervention_and_practice",
+  "front": "What is motivational interviewing about?",
+  "back": "It is a collaborative, person-centered method that builds a client's own reasons for change. Its core processes are engaging, focusing, evoking, and planning, built on empathy, discrepancy, rolling with resistance, and supporting self-efficacy."
+ },
+ {
+  "id": 445,
+  "domain": "intervention_and_practice",
+  "front": "What are the four core processes of motivational interviewing?",
+  "back": "They are engaging, focusing, evoking, and planning. The worker helps the client find their own motivation rather than arguing them into change."
+ },
+ {
+  "id": 446,
+  "domain": "intervention_and_practice",
+  "front": "What is trauma-informed care in practice?",
+  "back": "Trauma-informed care recognizes the impact of trauma and works to avoid re-traumatizing a client. It is built on safety, trustworthiness, choice, collaboration, and empowerment. Do not push for trauma details before the client is ready."
+ },
+ {
+  "id": 447,
+  "domain": "intervention_and_practice",
+  "front": "What is crisis intervention used for?",
+  "back": "It is a short-term, focused approach to help a person through an acute event. The goal is to stabilize and return the person to a baseline, not to solve every long-term problem. Safety comes first."
+ },
+ {
+  "id": 448,
+  "domain": "intervention_and_practice",
+  "front": "What should a worker do first in a crisis?",
+  "back": "Ensure safety and meet immediate needs, then stabilize. Do not start long-term therapy or make a permanent plan before the crisis is resolved."
+ },
+ {
+  "id": 449,
+  "domain": "intervention_and_practice",
+  "front": "What is dialectical behavior therapy (DBT)?",
+  "back": "DBT is a form of CBT that balances acceptance and change. It teaches mindfulness, distress tolerance, emotional regulation, and interpersonal effectiveness, and it is used for intense emotion, self-harm, and borderline traits."
+ },
+ {
+  "id": 450,
+  "domain": "intervention_and_practice",
+  "front": "What is EMDR used to treat?",
+  "back": "EMDR is a structured trauma therapy that uses bilateral stimulation while the client processes a memory. It is used for trauma work."
+ },
+ {
+  "id": 451,
+  "domain": "intervention_and_practice",
+  "front": "A client has intense emotional dysregulation. Which approach is a good fit?",
+  "back": "DBT is a strong fit because it teaches distress tolerance and emotional regulation skills. A client with distorted thinking and depression is a better fit for CBT."
+ },
+ {
+  "id": 452,
+  "domain": "intervention_and_practice",
+  "front": "What is a defense mechanism?",
+  "back": "A defense mechanism is an unconscious way a person protects themselves from painful feelings. Some are mature and helpful, and the exam asks you to recognize them in a scenario."
+ },
+ {
+  "id": 453,
+  "domain": "intervention_and_practice",
+  "front": "A client blames a coworker for their own anger. What defense mechanism is this?",
+  "back": "This is projection, attributing your own unacceptable feelings to someone else. Denial is refusing a painful reality, and displacement is redirecting a feeling at a safer target."
+ },
+ {
+  "id": 454,
+  "domain": "intervention_and_practice",
+  "front": "A client explains a harmful act as everyone does it. What defense mechanism?",
+  "back": "This is rationalization, creating a logical explanation for an unreasonable action. Sublimation is channeling an impulse into a socially acceptable activity."
+ },
+ {
+  "id": 455,
+  "domain": "intervention_and_practice",
+  "front": "What is partializing in goal setting?",
+  "back": "Partializing is breaking a large, overwhelming goal into smaller, achievable steps. It helps a client who is overwhelmed by a big problem take the first concrete action."
+ },
+ {
+  "id": 456,
+  "domain": "intervention_and_practice",
+  "front": "What does case management involve?",
+  "back": "Case management is coordinating services for a client: assessing needs, planning, linking to services, monitoring, advocating, and coordinating with others. The worker holds the whole picture so nothing falls through the cracks."
+ },
+ {
+  "id": 457,
+  "domain": "intervention_and_practice",
+  "front": "What is contracting in social work?",
+  "back": "Contracting is the agreement between the worker and client about what will happen, including goals, mutual responsibilities, and the terms of the work. It gives the work a clear frame."
+ },
+ {
+  "id": 458,
+  "domain": "intervention_and_practice",
+  "front": "A client is overwhelmed by a huge goal. What is the best approach?",
+  "back": "Use partializing to break it into smaller steps. Do not tell the client to just handle the whole thing at once."
+ },
+ {
+  "id": 459,
+  "domain": "intervention_and_practice",
+  "front": "A group is in the stage where members test boundaries. How should the leader respond?",
+  "back": "This is the conflict stage. The group leader addresses the process directly and helps the group move through it, while respecting all members, rather than letting one person dominate."
+ },
+ {
+  "id": 460,
+  "domain": "intervention_and_practice",
+  "front": "What is cohesion in a group?",
+  "back": "Cohesion is the sense of belonging and trust in a group. It builds through stages and helps members work well together."
+ },
+ {
+  "id": 461,
+  "domain": "intervention_and_practice",
+  "front": "A family is in conflict. What should the social worker do?",
+  "back": "Work with the family as a system and avoid taking a side. Help the family change interaction patterns rather than solving only one member's problem."
+ },
+ {
+  "id": 462,
+  "domain": "intervention_and_practice",
+  "front": "A client is being denied a service they are entitled to. What is the ethical action?",
+  "back": "Advocate for the client, including through appeal or the client's rights. Do not silently accept the denial or give up."
+ },
+ {
+  "id": 463,
+  "domain": "intervention_and_practice",
+  "front": "What does termination of services require of a social worker?",
+  "back": "Termination should be planned and address the client's feelings, review progress, and prepare for the future. Never abandon a client; provide a referral and resources if the work is ending."
+ },
+ {
+  "id": 464,
+  "domain": "values_and_ethics",
+  "front": "What is the difference between the HIPAA privacy rule and the security rule?",
+  "back": "The privacy rule controls who can see and share a client's protected health information. The security rule sets technical, physical, and administrative safeguards for keeping electronic records safe. Together they decide who may look at a record and how that record is protected."
+ },
+ {
+  "id": 465,
+  "domain": "values_and_ethics",
+  "front": "What are psychotherapy notes and how are they protected?",
+  "back": "Psychotherapy notes are a worker's private session notes that are kept separate from the official medical record. They capture the worker's own thoughts and the content of therapy conversations. Under HIPAA they need a separate signed authorization before they can be shared, beyond a few narrow exceptions."
+ },
+ {
+  "id": 466,
+  "domain": "values_and_ethics",
+  "front": "What is a client's right to access their own records?",
+  "back": "Clients generally have the right to see and obtain a copy of their own record from the agency that holds it. A worker may deny access in rare cases, such as when the record would create a serious safety risk. The client can usually ask for a review of that denial."
+ },
+ {
+  "id": 467,
+  "domain": "values_and_ethics",
+  "front": "What is testimonial privilege, and who holds it?",
+  "back": "Testimonial privilege is a legal protection that lets a social worker refuse to testify about a client's disclosures in court. The privilege belongs to the client, so the client is the one who decides whether to waive it. A judge can set it aside when the client puts their own mental state at issue."
+ },
+ {
+  "id": 468,
+  "domain": "values_and_ethics",
+  "front": "What is the difference between a subpoena and a court order for records?",
+  "back": "A subpoena is a demand for records or testimony that can be issued by a lawyer, so a worker should check that it is valid and whether client consent is still needed. A court order is a judge's direct instruction and normally must be obeyed. In either case the worker releases only the minimum necessary information."
+ },
+ {
+  "id": 469,
+  "domain": "values_and_ethics",
+  "front": "What is elder self-neglect, and is it reportable?",
+  "back": "Self-neglect is when an older adult cannot meet their own basic needs for food, shelter, or medical care, with no other person causing the harm. Many states include serious self-neglect in their adult protective services reporting laws. The exact rules differ by state, so a worker should know their own state's definition."
+ },
+ {
+  "id": 470,
+  "domain": "values_and_ethics",
+  "front": "What is informed consent in research, and how is it different from clinical consent?",
+  "back": "Research consent explains a study's purpose, procedures, risks, and the fact that the client can withdraw at any time. The main difference is that research is done to create general knowledge, not to provide treatment to the client. A worker should also get a legal representative for a person with limited capacity and, when possible, the person's own agreement."
+ },
+ {
+  "id": 471,
+  "domain": "values_and_ethics",
+  "front": "What is assent, and when does a worker get it from a minor?",
+  "back": "Assent is a younger client's own agreement to take part after the worker explains things at the child's level. It is sought when a parent or guardian gives legal consent but the child is old enough to understand. The child's refusal should be respected unless treatment is needed to avoid serious harm."
+ },
+ {
+  "id": 472,
+  "domain": "values_and_ethics",
+  "front": "What is a nonjudgmental attitude in practice?",
+  "back": "A nonjudgmental attitude means a worker accepts the client as a person and holds back personal judgment about their choices. The worker still sets agreed limits and can name risks, but does not shame the client. This helps the client feel safe enough to be honest."
+ },
+ {
+  "id": 473,
+  "domain": "values_and_ethics",
+  "front": "What is an advance directive, and how does it protect client self-determination?",
+  "back": "An advance directive is a written record of a person's wishes for future medical care if they become unable to decide for themselves. It may name a decision maker or list specific treatments the person wants or refuses to have. Honoring it protects the client's self-determination even when they cannot speak for themselves."
+ },
+ {
+  "id": 474,
+  "domain": "values_and_ethics",
+  "front": "What is fee-splitting or a kickback, and why is it unethical?",
+  "back": "Fee-splitting is when a worker pays or receives a share of a fee just for sending a client, which is often called a kickback. It can push referrals based on money rather than on what the client needs. This is against most codes of ethics and is illegal in many settings."
+ },
+ {
+  "id": 475,
+  "domain": "values_and_ethics",
+  "front": "What is the ethical rule about a personal relationship with a former client?",
+  "back": "A social worker should not start a close or intimate relationship with a former client and should avoid any personal relationship that could harm the client. If such a relationship is being considered, the worker must review it carefully. This protects against exploiting the trust and power built during treatment."
+ },
+ {
+  "id": 476,
+  "domain": "values_and_ethics",
+  "front": "How should a social worker handle confidentiality after a client dies?",
+  "back": "Confidentiality usually continues after a client dies, and a worker should not release records without proper authorization. The legal personal representative or the executor may have rights to the record under state law. The worker should follow both HIPAA and the state rules that apply."
+ },
+ {
+  "id": 477,
+  "domain": "values_and_ethics",
+  "front": "What happens when a state confidentiality law and HIPAA disagree?",
+  "back": "A worker must follow the rule that gives the client more privacy and protection. When a state law is stricter than HIPAA, the state law is followed. When federal HIPAA is stricter, it takes over, and the stricter protection wins in either direction."
+ },
+ {
+  "id": 478,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between a psychosocial assessment and a psychiatric evaluation?",
+  "back": "A psychosocial assessment looks at the client's life story, relationships, strengths, and the social and environmental factors around them. A psychiatric evaluation focuses on signs, symptoms, and a mental health diagnosis, often by a medical provider. The social worker's part is the psychosocial picture, which informs but is not the same as a diagnosis."
+ },
+ {
+  "id": 479,
+  "domain": "assessment_and_planning",
+  "front": "What is the difference between a lapse and a relapse?",
+  "back": "A lapse is a single return to the old behavior, such as one drink after a period of sobriety. A relapse is the return of the full pattern of the problem behavior. In the stages of change, a lapse does not undo progress and should be treated as a learning event, not a failure."
+ },
+ {
+  "id": 480,
+  "domain": "assessment_and_planning",
+  "front": "When a client is in the preparation stage, what should the worker do?",
+  "back": "The client has decided to act within the near future, so the worker helps them turn that decision into a clear plan. Together they set small steps, talk about barriers, and line up support. The worker supports the client's commitment rather than pushing for more motivation."
+ },
+ {
+  "id": 481,
+  "domain": "assessment_and_planning",
+  "front": "What does it mean to ask what happened to you instead of what is wrong with you?",
+  "back": "This is a trauma-informed shift that looks for the experiences behind a client's struggles instead of labeling the person. It recognizes that many reactions are understandable responses to hard events. This reduces shame and keeps the focus on support rather than blame."
+ },
+ {
+  "id": 482,
+  "domain": "assessment_and_planning",
+  "front": "What is grounding, and how does it help a client in distress?",
+  "back": "Grounding is a set of simple techniques that pull a person's attention back to the present, such as naming what they see and touch. It is used when a client feels flooded, dissociates, or is overwhelmed by a memory. Grounding helps them feel calm and safe enough to stay in the moment."
+ },
+ {
+  "id": 483,
+  "domain": "assessment_and_planning",
+  "front": "What is the scapegoat role in a family?",
+  "back": "The scapegoat is a family member who receives the blame for problems that belong to the whole family. This role can protect the family's image and the more fragile members. The labeled member often feels rejected, but is also carrying the family's unspoken pain."
+ },
+ {
+  "id": 484,
+  "domain": "assessment_and_planning",
+  "front": "What is differentiation of self in family systems work?",
+  "back": "Differentiation of self is a person's ability to hold their own thoughts and feelings while staying close to others. A person with low differentiation gets pulled into family emotion and reacts automatically. A person with higher differentiation can stay calm and choose a thoughtful response."
+ },
+ {
+  "id": 485,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of reaction formation?",
+  "back": "Reaction formation is when a person deals with an unacceptable feeling by behaving in the opposite way. For example, a worker who is annoyed by a colleague becomes overly warm to them. The person is often unaware that the opposite behavior is covering the real feeling."
+ },
+ {
+  "id": 486,
+  "domain": "assessment_and_planning",
+  "front": "What is the defense mechanism of regression?",
+  "back": "Regression is a return to childlike behavior when a person is under stress. An adult might throw a tantrum, withdraw, or ask for excessive reassurance under pressure. It is an unconscious way of seeking safety and comfort."
+ },
+ {
+  "id": 487,
+  "domain": "assessment_and_planning",
+  "front": "What is splitting as a defense mechanism?",
+  "back": "Splitting is seeing people and situations as all good or all bad, with little in between. A client might view the worker as perfect one day and cruel the next. It protects the person from complex mixed feelings, but it strains relationships."
+ },
+ {
+  "id": 488,
+  "domain": "assessment_and_planning",
+  "front": "What is anticipatory grief?",
+  "back": "Anticipatory grief is grief a person begins to feel before an expected loss, such as before a loved one dies. It lets the family start to adjust and to say goodbye. It can also bring feelings of guilt or exhaustion before the death even happens."
+ },
+ {
+  "id": 489,
+  "domain": "assessment_and_planning",
+  "front": "What is disenfranchised grief?",
+  "back": "Disenfranchised grief is a loss that a person is not allowed to grieve openly because it is not socially recognized or supported. Examples include the loss of a pet, a miscarriage, or the end of a secret relationship. The griever may feel alone or ashamed about the depth of their pain."
+ },
+ {
+  "id": 490,
+  "domain": "assessment_and_planning",
+  "front": "What is complicated grief, also called prolonged grief disorder?",
+  "back": "Complicated grief is grief that stays intensely painful and does not settle into a more manageable place over time. The person may be stuck in longing, avoidance, or searching for the lost person well past the expected period. It is treated as its own condition that may need targeted support."
+ },
+ {
+  "id": 491,
+  "domain": "intervention_and_practice",
+  "front": "What is the discrimination model of supervision?",
+  "back": "The discrimination model describes how a supervisor picks a focus for a session based on the supervisee's needs. The supervisor helps through one of three roles: teacher, counselor, or consultant. The supervisor gives more direction when the worker is less experienced and helps the worker think more independently as they grow."
+ },
+ {
+  "id": 492,
+  "domain": "intervention_and_practice",
+  "front": "What is relapse prevention planning?",
+  "back": "Relapse prevention planning helps a client spot the high-risk situations, triggers, and warning signs that lead back to the old behavior. The client builds a clear plan of coping steps and people to contact. It reframes slips as problems to solve rather than reasons to give up."
+ },
+ {
+  "id": 493,
+  "domain": "intervention_and_practice",
+  "front": "What is a logic model in program planning?",
+  "back": "A logic model is a simple diagram that links a program's inputs, activities, outputs, and outcomes. It shows how the program is supposed to work and what it is meant to change. It is a planning and evaluation tool that keeps staff focused on the results they claim."
+ },
+ {
+  "id": 494,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between cost-benefit and cost-effectiveness analysis?",
+  "back": "Cost-benefit analysis puts both the costs and the benefits into money so a program can be judged by its dollar return. Cost-effectiveness analysis compares cost to a specific result, such as dollars per student who graduates. Both are used to decide whether a program is worth the money it costs."
+ },
+ {
+  "id": 495,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between random selection and random assignment?",
+  "back": "Random selection is how a researcher picks participants from a larger group so the sample can stand for that group. Random assignment is how those chosen participants are sorted into a treatment group or a control group. Selection affects who is in the study, while assignment affects who gets the treatment."
+ },
+ {
+  "id": 496,
+  "domain": "intervention_and_practice",
+  "front": "What is a stratified random sample?",
+  "back": "A stratified random sample divides the population into important groups, such as by age or region, and then randomly picks from each group. This makes sure each subgroup is represented in the sample. It helps the results reflect a varied population."
+ },
+ {
+  "id": 497,
+  "domain": "intervention_and_practice",
+  "front": "What are the three goals of crisis intervention?",
+  "back": "The first goal is to make sure the client and others are physically safe. The second is to stabilize the client and return them to a baseline after the shock. The third is to build coping so the client can handle the next steps, which keeps the helper focused on what is most urgent."
+ },
+ {
+  "id": 498,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between a crisis and a psychiatric emergency?",
+  "back": "A crisis is a time of overwhelming stress when a person's usual coping is not enough, but they are not necessarily in physical danger. A psychiatric emergency is a more urgent situation with an immediate threat of harm or a severe break from reality. Both need a quick response, but an emergency calls for a medical or safety response first."
+ },
+ {
+  "id": 499,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between a deficit model and a strengths model?",
+  "back": "A deficit model starts by listing what the client lacks or does wrong. A strengths model starts by finding what the client already has to work with. The strengths model does not ignore problems, but it builds the plan around the client's assets and skills."
+ },
+ {
+  "id": 500,
+  "domain": "intervention_and_practice",
+  "front": "What is the difference between micro, mezzo, and macro practice?",
+  "back": "Micro practice works with a single client, family, or small group. Mezzo practice works with larger groups, organizations, or communities. Macro practice works on policies and systems that affect many people at once, and social workers often move across all three levels."
+ }
+]

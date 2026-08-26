@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 11,
+    "domain": "values_and_ethics",
+    "question": "Which concept is defined as the unearned advantages that come with certain social positions or identities?",
+    "options": {
+      "A": "Intersectionality.",
+      "B": "Privilege.",
+      "C": "Empathy.",
+      "D": "Microaggression."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Privilege.): Privilege is the unearned advantage that comes with certain social positions or identities. It reflects how a society is structured, not a personal choice. Intersectionality is the way multiple identities combine. Empathy is the ability to understand and share a client's feelings."
+  },
+  {
+    "id": 20,
+    "domain": "values_and_ethics",
+    "question": "Which is a potential indicator of human trafficking in a client?",
+    "options": {
+      "A": "The client has control over their own documents and finances at the time.",
+      "B": "The client has a stable address and a steady, regular source of income.",
+      "C": "A controlling companion who answers questions for the client.",
+      "D": "The client recently moved to the area for a new job opportunity."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (A controlling companion who answers questions for the client.): A person with trafficking may have a companion who controls their movements, documents, and communication, and who answers for them. Signs include not controlling their documents, being fearful, or being unable to speak about their own life. A client with control of their own documents and a stable address would be less indicative. The social worker recognizes the signs and works to help the person reach safety."
+  },
+  {
+    "id": 26,
+    "domain": "values_and_ethics",
+    "question": "Which action supports a social worker's ethical responsibility for self-care?",
+    "options": {
+      "A": "Use supervision, set boundaries, and maintain balance in work and personal life.",
+      "B": "Carry all of a client's pain alone and without any support from coworkers or others.",
+      "C": "Work many longer hours over time.",
+      "D": "Discuss personal stress openly with clients to build mutual trust and rapport."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Use supervision, set boundaries, and maintain balance in work and personal life.): Self-care is an ethical and professional responsibility. It includes using supervision, setting healthy boundaries, and maintaining balance. Carrying a client's pain alone or working longer hours without support increases the risk of harm to the social worker and, in turn, to clients. The exam rewards help-seeking and self-awareness."
+  },
+  {
+    "id": 27,
+    "domain": "values_and_ethics",
+    "question": "A social worker has been practicing for years and refuses to learn about a new evidence-based treatment. This is primarily a violation of which value?",
+    "options": {
+      "A": "Dignity.",
+      "B": "Competence.",
+      "C": "Service.",
+      "D": "Integrity."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Competence.): Competence means practicing within your training and continuing to develop your skills. Refusing to learn about a current, evidence-based treatment means the social worker is no longer maintaining competence. Dignity and worth of the person is about respect for the client. Service is about putting clients' needs first, which does not excuse a failure to stay current."
+  },
+  {
+    "id": 35,
+    "domain": "values_and_ethics",
+    "question": "A social worker is a mandated reporter. Which statement about the reporting duty is accurate?",
+    "options": {
+      "A": "It requires conclusive proof to be gathered first before a report can be made.",
+      "B": "It applies only after the victim gives permission to the social worker first.",
+      "C": "It is triggered by reasonable suspicion and required even without proof.",
+      "D": "It applies only in cases involving a child, not an older or vulnerable adult."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (It is triggered by reasonable suspicion and required even without proof.): Mandatory reporting requires action on reasonable suspicion, not conclusive proof. The duty protects vulnerable people and overrides confidentiality. Requiring proof or the victim's permission delays protection and is not the standard. Failure to report is itself a violation."
+  },
+  {
+    "id": 38,
+    "domain": "values_and_ethics",
+    "question": "A social worker is considering telling a client about a past loss of their own. When is self-disclosure most acceptable?",
+    "options": {
+      "A": "Only when it serves a clear, purposeful therapeutic goal and is unlikely to harm the client.",
+      "B": "When the client asks a personal question and the worker chooses to answer it during session.",
+      "C": "When the social worker wants to talk about their own personal problems within the therapy session.",
+      "D": "Whenever the worker feels a personal connection with the client during the session."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Only when it serves a clear, purposeful therapeutic goal and is unlikely to harm the client.): Self-disclosure is acceptable when it has a clear purpose for the client's benefit and is unlikely to cause harm. A small, purposeful disclosure can build rapport. Disclosing whenever asked, or to talk about the social worker's own problems, is not appropriate. The client's needs come first."
+  },
+  {
+    "id": 39,
+    "domain": "values_and_ethics",
+    "question": "Which is a core value of the social work profession according to the NASW Code of Ethics?",
+    "options": {
+      "A": "Agency profitability.",
+      "B": "Social justice.",
+      "C": "Market competition.",
+      "D": "Client retention, since keeping clients engaged supports program funding and outcomes."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Social justice.): The NASW Code of Ethics names six core values, including service, social justice, dignity and worth of the person, importance of human relationships, integrity, and competence. Profitability and competition are not professional values of social work. Social justice is a central commitment of the profession."
+  },
+  {
+    "id": 67,
+    "domain": "assessment_and_planning",
+    "question": "A 68 year old man is brought in by his daughter, who worries he is forgetting things, but he becomes irritable when asked about memory and refuses to discuss it. He lives alone and lost his wife recently. Which action is the most appropriate first step?",
+    "options": {
+      "A": "Arrange a competency evaluation to judge his capacity to make his own decisions.",
+      "B": "Set a thorough appointment and gather history with help from his daughter.",
+      "C": "Explain that he must accept outside help because his personal safety is at risk.",
+      "D": "Contact adult protective services immediately based only on the daughter's stated concerns."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Set a thorough appointment and gather history with help from his daughter.): A full assessment that combines the client's views with collateral information respects his dignity while building a complete picture. Grief, isolation, and possible cognitive decline all need to be weighed together. Starting with a capacity evaluation or insisting he accept help would bypass the assessment and harm rapport."
+  },
+  {
+    "id": 72,
+    "domain": "assessment_and_planning",
+    "question": "A school counselor consults a social worker about a refugee child who witnessed violence in her home country and is now withdrawn, easily startled, and struggling in class. The child's parents explain the behavior as shyness. Which assessment response is most appropriate?",
+    "options": {
+      "A": "Gather a trauma history and screen for trauma related symptoms.",
+      "B": "Reassure the family that shyness is common and watch the child's progress.",
+      "C": "Focus on academic supports so the child can catch up in school.",
+      "D": "Move the child to a different classroom and monitor her progress informally over time."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Gather a trauma history and screen for trauma related symptoms.): The child has experienced violence and shows classic signs of a trauma response, so a direct assessment is needed. A trauma history and symptom screen tell the worker whether the child needs trauma focused care. Treating the behavior as shyness or focusing on academics would miss the underlying cause."
+  },
+  {
+    "id": 78,
+    "domain": "assessment_and_planning",
+    "question": "A 16-year-old explains that he would return a wallet he found because he wants to follow the law and keep order in the community, even though nobody would catch him if he kept it. According to Kohlberg, this reasoning reflects which level of moral development?",
+    "options": {
+      "A": "The preconventional level, where choices are driven by punishment and reward outcomes.",
+      "B": "The postconventional level, where ethics are rooted in abstract universal principles.",
+      "C": "Moral relativism, where the teen believes right and wrong depend entirely on personal preference.",
+      "D": "The conventional level, where morality is based on meeting social expectations."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (The conventional level, where morality is based on meeting social expectations.): Kohlberg's conventional level describes people who make moral choices to follow rules and maintain social order. The teen is thinking about the law and the community rather than about punishment or reward. This is different from preconventional reasoning, which centers on personal consequences. Postconventional reasoning would appeal to abstract principles that may conflict with the law."
+  },
+  {
+    "id": 85,
+    "domain": "assessment_and_planning",
+    "question": "A client in an outpatient program for alcohol use reports feeling low, having trouble sleeping, and losing interest in things. She says these problems began before she started drinking heavily. A thorough assessment should consider that the client may also have",
+    "options": {
+      "A": "a temporary reaction to alcohol that will fade with sobriety alone at home.",
+      "B": "a separate but minor condition that will likely resolve once the substance use itself is addressed.",
+      "C": "a co-occurring mental health disorder that needs integrated treatment.",
+      "D": "a normal grief reaction that does not need any further clinical assessment."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (a co-occurring mental health disorder that needs integrated treatment.): Because the mood and sleep problems began before the heavy drinking, the client may have a separate condition that sits alongside her substance use. Co-occurring disorders need treatment that addresses both together. Treating only the alcohol use would leave the other symptoms unresolved. The worker should assess both parts of the picture."
+  },
+  {
+    "id": 87,
+    "domain": "assessment_and_planning",
+    "question": "A family seeks help because the parents argue every time the teen acts out, and the teen's behavior often interrupts a fight between the parents. The parents also admit they rarely spend time alone together. A family systems view would identify this pattern as",
+    "options": {
+      "A": "a triangulated cycle where the child's behavior stabilizes the marriage.",
+      "B": "a clear sign that only the teenager requires individual treatment for now.",
+      "C": "proof that the parents' disagreements stem from the child alone in the family.",
+      "D": "a sign that the parents are united and need no further support right now."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (a triangulated cycle where the child's behavior stabilizes the marriage.): In family systems terms, triangulation happens when a third person is pulled into a conflict between two others. The teen's acting out distracts the parents from their own dispute and seems to bring them together. This does not mean the child is the cause or that the parents are united. The worker can help the parents address their conflict directly."
+  },
+  {
+    "id": 101,
+    "domain": "assessment_and_planning",
+    "question": "During an intake, a client mentions that he has had thoughts of harming himself over the past few days, though he has no plan and no means. He says he feels a little better just talking about it. The social worker's first responsibility is to",
+    "options": {
+      "A": "complete a thorough risk assessment and decide on the needed safety steps.",
+      "B": "ignore the statement as routine and wait until a later session to address it.",
+      "C": "assume the client is safe because no weapon or plan was mentioned.",
+      "D": "ask a friend to watch the client closely and regularly overnight."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (complete a thorough risk assessment and decide on the needed safety steps.): Any mention of self harm calls for a full risk assessment, even when there is no plan or means yet. The worker's first duty is to determine the level of risk and what the client needs to stay safe. Ignoring the comment or assuming safety from the absence of a weapon would be unsafe. The worker should assess and then plan for the client's safety."
+  },
+  {
+    "id": 102,
+    "domain": "assessment_and_planning",
+    "question": "A client reports a past suicide attempt, living alone, and feeling cut off from friends. He says he skipped two therapy appointments last month and does not want his family worried. These factors should inform the social worker's assessment and planning work.",
+    "options": {
+      "A": "Decision to avoid the topic.",
+      "B": "Risk assessment and the level of care and safety planning needed.",
+      "C": "Judgment that the client is low risk because no plan was stated clearly.",
+      "D": "A decision to notify his family right away without discussing it with him first."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Risk assessment and the level of care and safety planning needed.): A past suicide attempt, living alone, and missed appointments are risk factors that raise concern. These factors should inform a careful risk assessment and a safety plan. The worker should not avoid the topic just because it is hard for the client to talk about. These factors point away from assuming the client is at low risk."
+  },
+  {
+    "id": 122,
+    "domain": "assessment_and_planning",
+    "question": "A client on a newly prescribed medication tells the social worker she feels very drowsy all day and has struggled to stay awake at work. The social worker should document this and plan with the client to review the reaction with the prescribing clinician.",
+    "options": {
+      "A": "Tell the client to push through the daytime sleepiness without any real concern.",
+      "B": "Assume the drowsiness is not closely related to the medicine and not worth reporting.",
+      "C": "Suggest the client switch to a different pharmacy for a faster refill.",
+      "D": "Reassess with the client and consult the prescriber about the reaction."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Reassess with the client and consult the prescriber about the reaction.): Daytime drowsiness from a new medication is a real side effect worth recording. The worker should plan with the client to have the prescriber review it, since the dose or the medicine may need adjusting. Telling the client to push through could put them at risk. Drowsiness that affects work is not something to ignore."
+  },
+  {
+    "id": 129,
+    "domain": "assessment_and_planning",
+    "question": "A social worker writes an assessment that lists only the client's problems and describes several recent risky behaviors during the meeting. The client also has a steady job and a supportive cousin who visits weekly. A more balanced record should also include",
+    "options": {
+      "A": "personal judgments about the client's character and the choices they make.",
+      "B": "only the worker's conclusions with no supporting observations to back them.",
+      "C": "a detailed diagnosis with no mention of the client's current functioning.",
+      "D": "the client's strengths and resources alongside the presenting concerns."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (the client's strengths and resources alongside the presenting concerns.): A good assessment balances problems with the client's abilities and supports. The steady job and supportive cousin are resources the plan can build on. A record with only risks and labels is incomplete and can make the client look more hopeless than they are. Writing strengths alongside concerns gives a fuller picture."
+  },
+  {
+    "id": 136,
+    "domain": "assessment_and_planning",
+    "question": "A social worker is beginning a developmental assessment with a 16 year old who keeps switching friend groups and is weighing different career options. The worker wants to place these behaviors in a lifespan framework. Which developmental crisis best captures what this young person is working through?",
+    "options": {
+      "A": "Trust versus mistrust, where the core task is developing a basic sense of security.",
+      "B": "Generativity versus stagnation, where the focus is on giving back to society.",
+      "C": "Intimacy versus isolation, where the focus is on forming close bonds.",
+      "D": "Identity versus role confusion, where the focus is on defining a stable self."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Identity versus role confusion, where the focus is on defining a stable self.): Erikson places identity versus role confusion at the center of adolescence, when young people test roles and beliefs to form a coherent self. This client is actively sampling friend groups and career paths, which matches that stage. Trust versus mistrust belongs to infancy, while intimacy and generativity arrive in later stages."
+  },
+  {
+    "id": 148,
+    "domain": "assessment_and_planning",
+    "question": "During the first intake with a reluctant 15 year old who barely speaks, the social worker asks broad open questions, allows comfortable silence, and reflects back the feelings the teen does mention. Which approach is most effective for gathering information from a hesitant adolescent?",
+    "options": {
+      "A": "Reading a long list of questions aloud with no breaks in between.",
+      "B": "Challenging the teen's excuses directly.",
+      "C": "Asking open questions and reflecting the teen's stated feelings.",
+      "D": "Sharing the worker's own similar experience to build a quick connection."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Asking open questions and reflecting the teen's stated feelings.): Open questions and reflection invite a reluctant teen to share at his own pace and show that the worker is listening without judging. A rapid list feels like an interrogation, and challenges tend to make an adolescent defensive. Building rapport this way yields richer, more honest information over time."
+  },
+  {
+    "id": 155,
+    "domain": "assessment_and_planning",
+    "question": "A single father of a seven year old needs after school care for his son while he works a night shift at a warehouse, and he worries about paying for it because he has no family nearby. Which referral best matches his stated need?",
+    "options": {
+      "A": "An inpatient hospital program for the father's serious health needs.",
+      "B": "A grief support group for adults who have lost a loved one recently.",
+      "C": "A subsidized after school program with sliding scale fees.",
+      "D": "A parenting class offered during the weekday daytime hour slots."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (A subsidized after school program with sliding scale fees.): The father's need is structured care for his son at a cost he can manage while he works evenings. A subsidized after school program with adjustable fees fits that directly. Hospital, grief, and daytime parent resources do not address child care in the evening."
+  },
+  {
+    "id": 168,
+    "domain": "assessment_and_planning",
+    "question": "A client with chest pain linked to heavy drinking tells the social worker he has no real drinking problem and that other patients on the unit are far worse off. Which defense mechanism best fits what the client is doing?",
+    "options": {
+      "A": "Reaction formation, which shows the opposite of the true feeling.",
+      "B": "Isolation of the emotion from the painful memory.",
+      "C": "Rationalization, giving a logical excuse to justify his drinking.",
+      "D": "Denial of the seriousness of his own drinking."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Denial of the seriousness of his own drinking.): Denial means not accepting a painful fact, and comparing himself to worse cases helps this client avoid his own risk. Reaction formation is acting the opposite of an inner feeling, and isolation separates the feeling from the thought. The worker can gently reflect the facts without arguing, and build motivation over time."
+  },
+  {
+    "id": 170,
+    "domain": "assessment_and_planning",
+    "question": "A social worker reviews the permanency case of a 12 year old who has lived with a sibling group foster family for two years and is doing well in school. Which factor should carry the most weight in the decision?",
+    "options": {
+      "A": "The child's attachment and adjustment in the current home.",
+      "B": "The child's birth order within the sibling home.",
+      "C": "The money saved by keeping the current placement.",
+      "D": "The distance between the current foster home and the birth parents' address."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (The child's attachment and adjustment in the current home.): A child's emotional ties and how well he has settled into a home are the central factors in a permanency decision, because a secure bond matters most for stability. Birth order and any cost savings are minor compared with the child's wellbeing. The worker should weigh the quality and safety of the relationship above administrative points."
+  },
+  {
+    "id": 177,
+    "domain": "assessment_and_planning",
+    "question": "A client is crying during a session and tells the social worker she feels so alone, so the worker replies in a gentle tone, 'It sounds like you feel very alone right now.' Which listening skill is the worker using in that moment?",
+    "options": {
+      "A": "Giving advice about how she can make new friends.",
+      "B": "Reflecting back the feeling the client has expressed.",
+      "C": "Interrupting to move the session along to a new topic.",
+      "D": "Asking a clarifying question about how long she has felt this way."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Reflecting back the feeling the client has expressed.): Reflection means naming back the emotion the client just shared, which shows she was heard and lets her confirm or correct the worker. Giving advice changes the topic to solutions, and interrupting cuts off the feeling. This simple mirroring helps a client feel understood and safe to say more."
+  },
+  {
+    "id": 181,
+    "domain": "assessment_and_planning",
+    "question": "A client with limited English needs an interpreter for her counseling session but declines the one offered because that person belongs to her own small immigrant community. Which action best respects her privacy and her need to communicate in the session?",
+    "options": {
+      "A": "Require her to use the community interpreter for every visit.",
+      "B": "Offer a neutral interpreter from outside her community.",
+      "C": "Let a family member translate in the room.",
+      "D": "Proceed without an interpreter if she nods along."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Offer a neutral interpreter from outside her community.): A client may fear a community interpreter will share private details, so a neutral one protects confidentiality and still lets her be understood. Forcing the offered interpreter or relying on a family member can expose private matters, and nodding does not mean real understanding. Finding a neutral interpreter honors both language and privacy."
+  },
+  {
+    "id": 188,
+    "domain": "assessment_and_planning",
+    "question": "During an intake at a community center, a client describes an abusive partner who hurt her last night, and she has a few minor bruises. She looks frightened and asks what to do. Which service should the social worker offer first?",
+    "options": {
+      "A": "A career coaching session to help her plan a new job.",
+      "B": "A safety plan and a referral to a shelter if needed.",
+      "C": "A reading list about conflict resolution in relationships.",
+      "D": "A referral to couples counseling to help resolve the conflict together."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (A safety plan and a referral to a shelter if needed.): When someone is in an abusive relationship with injuries, an immediate safety plan and possible shelter come before anything else. Career coaching and reading material do not address the danger she faces. The worker should help her plan for safety, support, and any legal steps, while letting her decide next moves."
+  },
+  {
+    "id": 192,
+    "domain": "assessment_and_planning",
+    "question": "A client tells the social worker that her faith is central to her recovery but that a previous counselor ignored it and focused only on medication in the past year. To build a useful plan, what should the worker do?",
+    "options": {
+      "A": "Leave faith out of planning to keep services neutral.",
+      "B": "Require her to set religion aside during all treatment.",
+      "C": "Ask how she would like her faith reflected in her plan.",
+      "D": "Refer her to a religious counselor instead of continuing to work with her."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Ask how she would like her faith reflected in her plan.): Asking how a client wants her spirituality used in care honors it as a real resource and gives her control over the plan. Ignoring it would repeat the problem she described, and forcing it aside would dismiss something that helps her. The worker should ask about her faith and its role in recovery."
+  },
+  {
+    "id": 203,
+    "domain": "intervention_and_practice",
+    "question": "A child in foster care has been with the same family for eighteen months and is strongly attached, while the birth parent has not finished the court ordered plan. The child welfare social worker is planning for permanency. What is the BEST next step?",
+    "options": {
+      "A": "Pursue a permanent placement with the current foster family.",
+      "B": "Move the child immediately to a new relative in another town.",
+      "C": "Leave the placement open while the birth parent keeps trying indefinitely.",
+      "D": "Close the case because the child is currently safe and settled."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Pursue a permanent placement with the current foster family.): Permanency planning weighs the child's attachment and need for a stable, lifelong home against the parent's progress. A strong bond with the current family grows more important as time passes without reunification. Moving the child, leaving the plan open forever, or closing the case avoids the decision that the child's well-being requires."
+  },
+  {
+    "id": 217,
+    "domain": "intervention_and_practice",
+    "question": "A group member talks at length each session and takes every pause to speak again. Other members are looking away and growing quiet. As the group leader, what is the social worker's BEST action?",
+    "options": {
+      "A": "Ask the talkative member to leave the group for a few weeks and come back later.",
+      "B": "Let the member continue talking so the group can set its own pace over time.",
+      "C": "Gently redirect and invite other members to share their own views.",
+      "D": "Speak privately with the member after group about limiting their talking time."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Gently redirect and invite other members to share their own views.): Group leaders protect the balance of participation so every member gets value from the work, especially when one voice is crowding out the rest. A gentle redirect keeps the group intact while spreading the air time. Excluding a member, letting the imbalance grow, or shutting the session down avoids the real job of managing the group."
+  },
+  {
+    "id": 225,
+    "domain": "intervention_and_practice",
+    "question": "A client is working through the problem-solving process and lists several possible ways to pay an overdue bill. What should the social worker encourage the client to do next?",
+    "options": {
+      "A": "Assume the first option listed is the one the client should take and go with it.",
+      "B": "Set the list aside and move on to a different, easier problem for now.",
+      "C": "Weigh the options and choose the one that fits the client's situation.",
+      "D": "Ask a family member to choose the best option for the bill."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Weigh the options and choose the one that fits the client's situation.): The problem-solving process moves from generating choices to evaluating and selecting the most workable one, with the client making the call. That decision step is what turns ideas into action. Grabbing the first idea, dropping the problem, or adding endless options keeps the client from committing to a workable path."
+  },
+  {
+    "id": 227,
+    "domain": "intervention_and_practice",
+    "question": "A social worker in a medical setting learns that a client does not speak the same language as the provider and has been nodding through an appointment he did not understand. What is the social worker's BEST action?",
+    "options": {
+      "A": "Ask the provider to speak more slowly using shorter words and clearer terms.",
+      "B": "Arrange for an interpreter and confirm the plan was actually understood.",
+      "C": "Have the client bring a family member to translate future visits with the doctor.",
+      "D": "Write down the instructions in simple writing for the client to read at home later on."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Arrange for an interpreter and confirm the plan was actually understood.): Access to care depends on communication, and a trained interpreter ensures the client genuinely understands the plan and can ask questions. That protects informed consent and safety. Slowing speech, using an untrained family member, or handing over written instructions blurs the meaning and can still leave the client unclear about his care."
+  },
+  {
+    "id": 231,
+    "domain": "intervention_and_practice",
+    "question": "A social worker is meeting a client for the first time and needs to gather the client's own view of the problem and past attempts at a solution. Which opening is the BEST use of an open-ended question?",
+    "options": {
+      "A": "What have you already tried, and what was that like for you?",
+      "B": "Did you try counseling before, or was this your first time?",
+      "C": "Have you spoken to anyone else about this problem yet or not?",
+      "D": "Can you tell me whether you would prefer to change it now?"
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (What have you already tried, and what was that like for you?): An open-ended question invites a full answer rather than a yes or no, which draws out the client's own account and meaning. Asking what was already tried and how it felt gives rich detail. The other options each suggest a narrow answer or push the client toward a short response."
+  },
+  {
+    "id": 232,
+    "domain": "intervention_and_practice",
+    "question": "A client in therapy repeatedly arrives late and cancels the last few appointments. The social worker is aware the work is not progressing. What should the social worker do?",
+    "options": {
+      "A": "Note the lateness silently and wait for the client to bring it up.",
+      "B": "Lengthen the sessions so the late arrival does not matter as much.",
+      "C": "Discharge the client from services since the pattern shows a lack of interest.",
+      "D": "Bring up the pattern and explore what it may be communicating."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Bring up the pattern and explore what it may be communicating.): Repeated lateness and cancellations are meaningful, and naming them openly is part of understanding what blocks the work. It is information about the helping relationship, not a rejection. Staying silent, extending time, or referring out lets the pattern continue without being examined."
+  },
+  {
+    "id": 234,
+    "domain": "intervention_and_practice",
+    "question": "A client would like to use a prayer practice that is central to her life as part of her treatment, while a social worker follows a different faith. How should the social worker respond?",
+    "options": {
+      "A": "Ask the client to set the practice aside during the sessions until the work is done.",
+      "B": "Offer to join the prayer so the client does not feel alone in the ritual practice.",
+      "C": "Refer the client to a religious counselor who shares her specific faith.",
+      "D": "Work with the client to include the practice in a culturally responsive way."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Work with the client to include the practice in a culturally responsive way.): Culturally responsive practice honors the client's values and brings them into treatment as a source of strength and meaning, even when the worker does not share the faith. That respect supports engagement and self-determination. Asking the client to set it aside, joining the practice in a way that blurs roles, or making it the whole focus all distort the client's own goal."
+  },
+  {
+    "id": 235,
+    "domain": "intervention_and_practice",
+    "question": "A social worker is deciding whether to agree with a client that the present problem is not the one that matters most. The social worker notices the client is worried about a separate issue. What should the social worker do?",
+    "options": {
+      "A": "Agree fully and not mention the worry the client did not bring up on their own.",
+      "B": "Gently bring up the other concern and ask whether it should come first.",
+      "C": "Insist the client stay on the stated problem until it is fully resolved and closed.",
+      "D": "Pick the other concern and set the stated problem aside for a time from the work."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Gently bring up the other concern and ask whether it should come first.): When the client presents one problem but seems focused on another, it is best to name the discrepancy and let the client decide where to start. That keeps the client leading the work. Ignoring the concern, forcing the original topic, or unilaterally switching the focus each remove the client's say in what gets addressed."
+  },
+  {
+    "id": 236,
+    "domain": "intervention_and_practice",
+    "question": "A social worker leads a session in which a member begins to cry and says she feels ashamed of her situation. Other members look uncomfortable. What is the social worker's BEST response?",
+    "options": {
+      "A": "Acknowledge her courage and let the group hold the moment with care.",
+      "B": "Compliment a different member to shift the attention away from her and her tears.",
+      "C": "Tell her that crying will make the other members feel uneasy about the group.",
+      "D": "Suggest the group take a short break so she can compose herself."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Acknowledge her courage and let the group hold the moment with care.): A group leader supports a member who has shown vulnerability and helps the whole group respond with compassion, which builds cohesion. Naming the courage turns a raw moment into the group's shared strength. Shifting subjects, scolding her for crying, or rushing to an activity all steer away from the very moment the group needs."
+  },
+  {
+    "id": 242,
+    "domain": "intervention_and_practice",
+    "question": "A social worker wants to know whether an agency program actually reduced homelessness for the people it served. Which kind of measure should the worker look at?",
+    "options": {
+      "A": "Outcome data showing how the clients' housing situation changed.",
+      "B": "Process counts showing how many referrals the agency made in the year.",
+      "C": "Input figures showing how much money the program spent on the services.",
+      "D": "Satisfaction surveys asking clients to rate their experience with staff members."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Outcome data showing how the clients' housing situation changed.): Outcome measures ask whether the people served actually got better, which is the point of the program. Housing change is the direct result the agency is trying to produce. Referrals, spending, and staff hours all describe effort, not whether clients were helped."
+  },
+  {
+    "id": 279,
+    "domain": "intervention_and_practice",
+    "question": "A family is brought in because their teenage daughter refuses to go to school. During the first meeting the worker sees that the parents argue about rules and then let the daughter decide what she will do. Which structural family therapy goal BEST addresses this pattern in the family?",
+    "options": {
+      "A": "Create more distance between every member to reduce the family's tension at home.",
+      "B": "Focus only on the teen's behavior without involving the parents in the therapy work.",
+      "C": "Add a rule that the teen must accept the parents' decisions about school and daily life.",
+      "D": "Strengthen the executive subsystem so the parents can guide the child together."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Strengthen the executive subsystem so the parents can guide the child together.): Structural family therapy works to reestablish a clear parental subsystem that can set rules and lead the family, which is exactly what is missing here. Pushing members apart, ignoring the parents, or mandating the teen's agreement does not address the leadership gap. A working executive subsystem restores order and safety."
+  },
+  {
+    "id": 282,
+    "domain": "intervention_and_practice",
+    "question": "A client became overwhelmed by a long list of goals written into the treatment plan and has stopped working on any of them at all. The client says each goal feels too big to start. Which step BEST applies the principle of partializing to help the client move forward?",
+    "options": {
+      "A": "Break the goals into smaller steps and take them on in a sensible order.",
+      "B": "Combine every goal into one large action the client can complete at once.",
+      "C": "Set a single ambitious goal and commit to finishing it this week.",
+      "D": "Prioritize the goal the worker believes is most urgent and address it first."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Break the goals into smaller steps and take them on in a sensible order.): Partializing means dividing a large task into workable pieces so it no longer feels impossible, which lowers anxiety and builds success. Combining goals or focusing on one giant goal keeps the client stuck in the same overwhelm. Small ordered steps make action feel realistic."
+  },
+  {
+    "id": 286,
+    "domain": "intervention_and_practice",
+    "question": "A social worker in a nursing home repeatedly sees staff raise their voices at residents who resist help with bathing or dressing. The residents are not physically hurt but seem afraid and upset. Which action BEST addresses the need for a safe environment and policy change in this setting?",
+    "options": {
+      "A": "Ignore the behavior because the residents are not physically injured in any visible way.",
+      "B": "Tell each resident to speak up when the staff treats them harshly during their daily care.",
+      "C": "Report the concern and work with leadership to strengthen oversight and training.",
+      "D": "Document the incidents but wait until a resident files a formal complaint first."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Report the concern and work with leadership to strengthen oversight and training.): Addressing a safety concern means reporting it through the proper channel and then changing the practices that allow it, through policy, training, and oversight. Putting the burden on residents to defend themselves is unfair and ineffective. Ignoring it allows an unsafe pattern to continue even without physical injury."
+  },
+  {
+    "id": 289,
+    "domain": "intervention_and_practice",
+    "question": "A researcher wants to understand how the experience of caring for a parent with dementia affects family members over several years and how the meaning of that experience changes. Which design BEST fits the researcher's goal of capturing change across time in people's own words?",
+    "options": {
+      "A": "A cross sectional survey asking families one question at a single point in time.",
+      "B": "A randomized controlled trial that compares two fixed treatments to each other.",
+      "C": "A cross sectional qualitative study interviewing many different families at one time.",
+      "D": "A longitudinal qualitative study following the same families across time."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (A longitudinal qualitative study following the same families across time.): A longitudinal design that tracks the same families over time and uses qualitative methods captures how an experience unfolds in people's own words. A one time survey gives only a snapshot and cannot show change. A trial compares treatments, which is not what a lived experience question is asking."
+  },
+  {
+    "id": 304,
+    "domain": "intervention_and_practice",
+    "question": "A client is ambivalent about coming to sessions and has cancelled the last three appointments, saying that talking about things does not usually help. The worker wants to find a way to re-engage the client. Which engagement strategy BEST matches a client who is not fully voluntary?",
+    "options": {
+      "A": "Require attendance at every session to prove the client is committed to the work.",
+      "B": "Assume the client is ready and move quickly into a full treatment plan for them.",
+      "C": "Explore what, if anything, the client wants to change and build motivation.",
+      "D": "Explain to the client the risks of not attending sessions regularly."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Explore what, if anything, the client wants to change and build motivation.): With an ambivalent client the worker first finds what the client is willing to work toward and strengthens that motivation rather than forcing attendance. Demanding full attendance creates a power struggle, and assuming readiness is unrealistic. Starting where the client is invites the client back into the work."
+  },
+  {
+    "id": 309,
+    "domain": "intervention_and_practice",
+    "question": "A client needs help with housing, medical care, and income benefits, and these services are spread across three separate agencies that do not talk to each other. A social worker is assigned to help the client navigate the system. Which role BEST captures the case manager's job in this situation?",
+    "options": {
+      "A": "Deliver direct one on one therapy to the client in each weekly session.",
+      "B": "Refer the client to one agency and then close the client's file without any follow up.",
+      "C": "Coordinate the services and advocate so the client's needs are met.",
+      "D": "Complete the client's benefit applications personally on their behalf each month."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Coordinate the services and advocate so the client's needs are met.): Case management coordinates multiple providers, tracks progress, and advocates when gaps appear so the client is not lost between agencies. Direct therapy is a separate service, and a single referral followed by closing the file leaves the client without support. The coordinating and advocacy role is what holds the pieces together."
+  },
+  {
+    "id": 339,
+    "domain": "values_and_ethics",
+    "question": "At a team meeting, a supervisor comments that a client's family is probably disorganized because of their ethnicity. The comment is delivered as a joke, and the worker is concerned it may shape how the team views the case. What is the most appropriate response?",
+    "options": {
+      "A": "Laugh along to keep the team comfortable and address the comment privately later on.",
+      "B": "Ask the supervisor to refrain from making such comments in front of the whole team.",
+      "C": "Name the stereotype as a concerning microaggression and link it to the case facts.",
+      "D": "Say nothing in the moment but document the comment for a future performance review."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Name the stereotype as a concerning microaggression and link it to the case facts.): Responding to a biased remark means naming the stereotype and bringing the discussion back to the facts of the case. Laughing along reinforces the bias, and asking for a simple change without addressing the assumption may leave it in place. A direct, respectful challenge protects the client and the team's practice."
+  },
+  {
+    "id": 357,
+    "domain": "values_and_ethics",
+    "question": "A social worker has worked with several clients for a year and is leaving the agency next month. The worker wants to end the relationships without causing harm. Which action BEST reflects ethical practice when terminating the work with each client?",
+    "options": {
+      "A": "End services quietly to avoid upsetting the clients about the worker's upcoming departure without any notice.",
+      "B": "Introduce the new worker in the final session as the person who will take over.",
+      "C": "Refer each client to a new worker without discussing the reasons for the change.",
+      "D": "Tell clients about the change, review progress, and make a smooth handoff to a new worker."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Tell clients about the change, review progress, and make a smooth handoff to a new worker.): Ethical termination gives clients notice, helps them reflect on progress, and prepares them for the transition. Ending quietly would abandon clients without preparation, and a last-minute introduction may not give them enough time. A planned, supportive ending preserves the gains and the relationship."
+  },
+  {
+    "id": 362,
+    "domain": "values_and_ethics",
+    "question": "A school social worker is asked to evaluate a 14-year-old for special education services. The parent is not available to sign, and the state law requires parental consent. The worker is unsure the student can consent alone. What should the worker do first?",
+    "options": {
+      "A": "Proceed with the evaluation and obtain the parent's consent afterwards.",
+      "B": "Let the student consent since the student is old enough to understand.",
+      "C": "Get a supervisor's approval as a substitute for the parent's consent.",
+      "D": "Wait and try to reach the parent before the evaluation is started."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Wait and try to reach the parent before the evaluation is started.): When the law requires parental consent, the worker must make reasonable efforts to obtain it before acting. Proceeding without consent or substituting a supervisor's approval would violate the legal requirement. The worker follows the consent rule and documents the efforts to reach the parent."
+  },
+  {
+    "id": 364,
+    "domain": "values_and_ethics",
+    "question": "A social worker is assigned a pregnant client who is deciding about adoption, and the worker's religious beliefs oppose the agency practice. The worker cannot stay neutral and has been avoiding the topic in sessions. What is the ethical course?",
+    "options": {
+      "A": "Arrange a transfer or consult supervision so the client receives unbiased service.",
+      "B": "Continue working and keep the worker's own views out of the conversation.",
+      "C": "Tell the client about the worker's beliefs so they can adjust their choice to match.",
+      "D": "Continue providing service and gently encourage the client toward the worker's preferred outcome."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Arrange a transfer or consult supervision so the client receives unbiased service.): When a worker's personal values block objective service, ethical practice requires addressing the conflict, which may mean transferring the case or seeking help. Silently working while avoiding the topic already harms the client's access to choice. Imposing the worker's beliefs would violate self-determination."
+  },
+  {
+    "id": 365,
+    "domain": "values_and_ethics",
+    "question": "A client discloses that the client's partner has been leaving a toddler alone at home. The client is also in therapy and is afraid being reported will break trust. The toddler is too young to be left unsupervised for long periods. What should the worker do?",
+    "options": {
+      "A": "Treat the disclosure as confidential to preserve the strong therapeutic relationship with the client.",
+      "B": "Ask the partner to arrange proper child care before the worker decides to report.",
+      "C": "Discuss safe childcare options with the client before deciding on the next step.",
+      "D": "Make the required report and talk with the client about the duty to report."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Make the required report and talk with the client about the duty to report.): Leaving a toddler alone is a reportable situation, and the duty to protect the child overrides the client's wish for confidentiality. The worker should be honest about the report and supportive of the client through the process. Preserving trust does not mean withholding a required report."
+  },
+  {
+    "id": 371,
+    "domain": "values_and_ethics",
+    "question": "A social worker accepts a client's invitation to attend the client's family event after services end. The worker is deciding whether this creates a problem. What does the code of ethics refer to when a social worker has another role with a client?",
+    "options": {
+      "A": "A boundary crossing, where a worker breaks a professional rule even by accident.",
+      "B": "A conflict of interest, where a worker's judgment changes because of their personal money gain.",
+      "C": "A boundary violation, where the worker exploits a client for personal or financial benefit.",
+      "D": "A dual relationship, where the worker takes on a second role with the same client."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (A dual relationship, where the worker takes on a second role with the same client.): A dual relationship occurs when the social worker enters a professional relationship and also a personal, business, or social role with the same person. Such relationships are not always prohibited but need careful assessment for exploitation or harm. Boundary crossings are different from boundary violations, and conflict of interest is a narrower concept."
+  },
+  {
+    "id": 375,
+    "domain": "values_and_ethics",
+    "question": "A client describes repeated unfair treatment at work and asks the social worker whether the treatment is because of the client's race. The worker has not had this experience and wants to validate the client while staying accurate. How should the worker respond?",
+    "options": {
+      "A": "Tell the client that much more evidence is needed before that can be concluded safely.",
+      "B": "Reassure the client that the treatment probably has nothing to do with race and is fine.",
+      "C": "Ask what the client has observed and explore the pattern without dismissing the concern.",
+      "D": "Explain that workplace policies generally protect employees from this type of treatment."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Ask what the client has observed and explore the pattern without dismissing the concern.): The worker should take seriously a client's account of discrimination and gain more detail rather than decide what it means. Centering the client's experience is central to anti-racist and culturally humble practice. Asking for more evidence or reassuring the client against the claim would dismiss the client's report."
+  },
+  {
+    "id": 376,
+    "domain": "values_and_ethics",
+    "question": "A social worker is about to begin services with a client whose primary language is not English and who has limited formal education. After explaining the service, the worker is unsure whether the client truly grasped the risks and choices involved. Which action BEST supports valid informed consent?",
+    "options": {
+      "A": "Have the client sign the form and assume the written words are clear enough.",
+      "B": "Arrange a qualified interpreter and check the client's understanding directly.",
+      "C": "Ask a bilingual staff member to translate the form quickly at some later time.",
+      "D": "Read the consent aloud once and accept a nod as evidence of the client's agreement."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Arrange a qualified interpreter and check the client's understanding directly.): Informed consent requires the client to understand the services, risks, benefits, and alternatives in their own language. A qualified interpreter lets the client hear the information clearly and ask questions. Getting a signature or a hurried translation can hide a lack of real understanding. Checking comprehension directly confirms the consent is genuine."
+  },
+  {
+    "id": 383,
+    "domain": "values_and_ethics",
+    "question": "A social worker is meeting a 17 year old who asks whether their sessions can stay secret from a guardian. The worker must explain when confidentiality has limits before starting the work. Which disclosure is the worker ethically and legally expected to make?",
+    "options": {
+      "A": "Tell the client about the limits such as risk of harm to self or others.",
+      "B": "Promise full confidentiality because the client asked for privacy at the very start.",
+      "C": "Share the full session details with the guardian to keep them fully informed of everything.",
+      "D": "Tell the client that sessions stay private as long as the guardian does not directly ask."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Tell the client about the limits such as risk of harm to self or others.): Even for a minor, a social worker explains the boundaries of confidentiality before the work begins. This creates a shared understanding and builds trust. Promising full secrecy would be false, since safety concerns can require disclosure. The worker must be transparent about what can and cannot stay private."
+  },
+  {
+    "id": 405,
+    "domain": "values_and_ethics",
+    "question": "A social worker is volunteering at a community event when a neighbor asks about a private issue the worker is addressing with a family. The neighbor knew the family from the same street and presses for details. Which action BEST protects confidentiality?",
+    "options": {
+      "A": "Confirm the family's situation to the neighbor because the neighbor already knows.",
+      "B": "Decline to share and explain that the worker must protect privacy.",
+      "C": "Share a few private details so the neighbor can offer support.",
+      "D": "Change the subject without explanation so the conversation ends quickly and quietly."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Decline to share and explain that the worker must protect privacy.): Confidentiality applies even when the person asking is familiar with the client. The worker must not confirm or deny details without the client's permission. Sharing a little or asking the neighbor to offer support still puts private information at risk. A clear, respectful refusal protects the client."
+  },
+  {
+    "id": 409,
+    "domain": "values_and_ethics",
+    "question": "A social worker is giving a talk to a community group, and a member asks about a family the worker knows through the service. The member wants to know if that family is being helped. Which action BEST honors the worker's ethical duty to protect client information?",
+    "options": {
+      "A": "Confirm that the family is getting help just because the member asked.",
+      "B": "Refuse to answer and state that the worker cannot discuss a client.",
+      "C": "Describe the family's progress in detail without using their full name.",
+      "D": "Tell the member to ask the family directly since they already know each other."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Refuse to answer and state that the worker cannot discuss a client.): Confidentiality protects a client's identity and service details from being shared. Confirming a family is being helped is itself a disclosure. Even a vague description can identify someone in a small community. The worker must decline and explain the ethical reason."
+  },
+  {
+    "id": 413,
+    "domain": "values_and_ethics",
+    "question": "A social worker runs a parenting class, and a parent says they will no longer attend because they fear being reported. The parent is not describing any abuse and seems worried about a past mistake. Which response BEST supports the parent's engagement while staying honest?",
+    "options": {
+      "A": "Promise the worker will keep whatever the parent shares private.",
+      "B": "Explain the reporting duty clearly and reassure the parent as is honest.",
+      "C": "Ask the parent to stay in the meeting and avoid the topic of possible reports.",
+      "D": "Tell the parent that past mistakes alone are unlikely ever to trigger a report."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Explain the reporting duty clearly and reassure the parent as is honest.): The worker should be clear about the legal duty to report and not overstate privacy. Promising to never report would be false. Explaining the duty honestly can reduce the parent's fear while building trust. This keeps the parent engaged without making a promise the worker cannot keep."
+  },
+  {
+    "id": 417,
+    "domain": "values_and_ethics",
+    "question": "A social worker is planning to run a group for clients with autism, and a member finds bright lights and loud noise hard to manage. The worker wants to make the room work for everyone. Which change BEST makes the group accessible?",
+    "options": {
+      "A": "Tell the member to use a coping skill to tolerate the room environment.",
+      "B": "Hold the group in the same room and ask for patience from the group members.",
+      "C": "Adjust the lighting and sound and let members take breaks when needed.",
+      "D": "Move the member to a separate quiet room during the group discussion each week."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Adjust the lighting and sound and let members take breaks when needed.): Accessibility for neurodivergent clients means changing the environment to reduce stress. Asking the client to cope or adapt places the burden on them. Offering breaks and adjusting the space helps all members take part. This supports the client's right to access the service on equal terms."
+  },
+  {
+    "id": 419,
+    "domain": "values_and_ethics",
+    "question": "A social worker is asked to sign off on a coworker's plan that the worker believes is not in a client's best interest, and that coworker is the worker's supervisor. The worker is uncomfortable. Which action BEST addresses this conflict?",
+    "options": {
+      "A": "Express the concern and seek a higher authority if the risk continues.",
+      "B": "Sign the plan because the supervisor must know what is best overall.",
+      "C": "Sign the plan and quietly note the worker's own disagreement about it.",
+      "D": "Delay signing the plan until the supervisor happens to bring up the topic again."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Express the concern and seek a higher authority if the risk continues.): Loyalty to a supervisor does not override the duty to protect the client. The worker should raise the concern through the proper channels. Signing a plan the worker disagrees with places the client at risk. Following the chain of accountability supports the client's safety."
+  },
+  {
+    "id": 423,
+    "domain": "values_and_ethics",
+    "question": "A social worker is working with a family whose neighborhood has been harmed by a long running source of environmental pollution, and the family's health has suffered. The worker wants to respond fully. Which action BEST reflects environmental justice work?",
+    "options": {
+      "A": "Treat only the health symptoms and leave the environmental cause aside.",
+      "B": "Let the family make a plan to move out of the affected area eventually.",
+      "C": "Address the environmental issue alongside the family's needs.",
+      "D": "Refer the family to an outside agency that handles pollution cases."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Address the environmental issue alongside the family's needs.): Environmental justice recognizes that health and social outcomes are shaped by a person's environment. The worker should see the cause and the symptoms together. Handling only the symptoms or turning the family away does not fix the harm. Working on the environmental issue supports the family's overall wellbeing."
+  },
+  {
+    "id": 424,
+    "domain": "values_and_ethics",
+    "question": "A social worker is completing an assessment with a client who has limited English and wants the session in their own language, but no interpreter agency is open right now. Which action BEST supports the client's access to the service?",
+    "options": {
+      "A": "Arrange a qualified interpreter for the next available time.",
+      "B": "Proceed today using gestures and short words to get the basics.",
+      "C": "Have the client bring a relative who can translate at the session.",
+      "D": "Use a phone translation application to complete today's assessment as planned."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Arrange a qualified interpreter for the next available time.): A social worker must not rely on an untrained translator when a client's comprehension matters. Gestures and a relative can distort what the client is trying to say. Scheduling a qualified interpreter protects the quality of the service. This respects the client's language and their right to be understood."
+  },
+  {
+    "id": 425,
+    "domain": "values_and_ethics",
+    "question": "A social worker realizes that a new client is the same person who filed a complaint against the worker's agency last year, but the client does not know this. The worker wants to serve the client well. Which action BEST serves both the client and the agency?",
+    "options": {
+      "A": "Disclose the prior conflict and arrange for another worker if needed.",
+      "B": "Keep the history quiet and serve the client as though nothing happened.",
+      "C": "Ask the client how they feel about the agency before proceeding with work.",
+      "D": "Note the prior complaint in the file and proceed with services as usual."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Disclose the prior conflict and arrange for another worker if needed.): A past complaint against the agency can make an objective relationship hard and can affect the client's trust. Hiding it or asking the client about it does not fix the conflict. Being transparent and offering a different worker protects the client and the agency. This addresses the matter openly."
+  },
+  {
+    "id": 428,
+    "domain": "values_and_ethics",
+    "question": "A social worker is leading a community healing circle after a shared loss, and a member says the group must be a place where no one is judged. The worker wants to create a fair space. Which action BEST supports a restorative and ethical process?",
+    "options": {
+      "A": "Tell the group that every feeling is valid and must be shared.",
+      "B": "Ask a few leaders to guide what the group talks about.",
+      "C": "Limit the group to people the worker already knows.",
+      "D": "Set shared values and let everyone have a genuine voice."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Set shared values and let everyone have a genuine voice.): Restorative and ethical practice builds on shared ground rules and respectful participation. Forcing everyone to share undercuts a person's choice. Letting a few lead can silence the rest of the group. Shared values and voluntary voice support a safer, fairer space."
+  },
+  {
+    "id": 467,
+    "domain": "assessment_and_planning",
+    "question": "A client with severe kidney failure keeps telling the medical team that he is fine and frequently misses his scheduled treatment appointments while under care. Which defense mechanism best explains how he is responding to the seriousness of his own health condition?",
+    "options": {
+      "A": "Projection.",
+      "B": "Repression.",
+      "C": "Denial.",
+      "D": "Rationalization."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Denial, because he is refusing to accept the reality of his dangerous illness.): Denial is a refusal to acknowledge an uncomfortable reality, which lets the person avoid facing a threatening truth. Skipping treatment while insisting he is fine reflects this. Projection would place his own thoughts on others, and repression involves forgetting rather than dismissing reality."
+  },
+  {
+    "id": 472,
+    "domain": "assessment_and_planning",
+    "question": "A client who just lost her apartment needs a safe place to stay and food for the next few weeks. The social worker is choosing the right referral for her immediate situation. Which community resource best matches her current needs?",
+    "options": {
+      "A": "A long-term care facility for older adults who need daily nursing support and supervision around the clock.",
+      "B": "A local emergency shelter that offers meals and short-term housing referrals.",
+      "C": "A private job placement agency that helps with career planning, resumes, and finding open positions.",
+      "D": "A support group focused on managing chronic health conditions that does not provide a place to sleep."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (A local emergency shelter that offers meals and short-term housing referrals.): A shelter can meet the immediate needs for housing and food while the worker connects her to longer-term options. The other services are for different needs and would not address her housing or food crisis. Matching the referral to the immediate problem is the goal of this step."
+  },
+  {
+    "id": 486,
+    "domain": "assessment_and_planning",
+    "question": "A middle-aged woman tells the social worker she wants to leave a lasting contribution in life and now spends her time mentoring younger staff at work. Which Eriksonian stage best reflects her current focus and goals?",
+    "options": {
+      "A": "Generativity.",
+      "B": "Intimacy.",
+      "C": "Identity.",
+      "D": "Integrity."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Generativity.): Generativity in middle adulthood centers on contributing to others and caring for the next generation. Mentoring younger staff and wanting to leave a lasting contribution reflect this stage. Intimacy concerns close relationships and identity concerns forming a self-concept, which are earlier tasks."
+  },
+  {
+    "id": 487,
+    "domain": "assessment_and_planning",
+    "question": "A client becomes dizzy and suddenly feels disconnected from her own body while retelling a very triggering memory during a counseling session. Which response best helps the client stay grounded and safe in the present moment of this counseling session?",
+    "options": {
+      "A": "Ask her to continue sharing the memory in as much vivid detail as she can.",
+      "B": "Tell her the dizziness is a sign that she is not ready for counseling.",
+      "C": "Help her orient to the present using her five senses and slower breathing.",
+      "D": "Encourage her to end the session early and rest quietly at home alone."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Help her orient to the present using her five senses and slower breathing.): Grounding techniques bring a person back to the present when they feel disconnected or dissociative. Using the senses and slow breathing helps the client feel safe and in control. Continuing into vivid detail would intensify the distress and dismissing her reaction would undermine trust."
+  },
+  {
+    "id": 488,
+    "domain": "assessment_and_planning",
+    "question": "A parent reports that her child is failing and withdrawn at home, though the child seems calm during the office visit. Which collateral source best helps the social worker verify whether these concerns are present in the child's school?",
+    "options": {
+      "A": "A neighbor, who can comment on what the family looks like from outside the home.",
+      "B": "The child's teacher, who can describe classroom behavior and grades over time.",
+      "C": "The parent's employer, who can confirm the parent's work attendance and time off.",
+      "D": "A pediatric appointment only, since health records hold the key detail about the child."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (The child's teacher, who can describe classroom behavior and grades over time.): The teacher sees the child's academic performance and behavior consistently, making that report a strong source of information. A neighbor or employer has little direct knowledge of a child's functioning at school, and a health visit may not capture these concerns. Collateral information should come from someone who actually observes the area of concern."
+  },
+  {
+    "id": 490,
+    "domain": "assessment_and_planning",
+    "question": "A client with schizophrenia tells the social worker he stopped taking his medication because it makes him feel drowsy and stiff in his body. Which response best addresses his side effect concern while supporting his continued engagement with the treatment plan?",
+    "options": {
+      "A": "Agree that stopping the medication is a reasonable way to avoid the discomfort he is feeling now.",
+      "B": "Tell him the side effects are imaginary and urge him to restart the medicine right away today.",
+      "C": "Suggest he try a lower dose on his own before seeing the prescriber.",
+      "D": "Explore the side effects with him and encourage a medication review with the prescriber."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Explore the side effects with him and encourage a medication review with the prescriber.): Side effects are a common reason people stop medication, and they deserve a respectful, practical response. The social worker can support the client by exploring the problem and helping him discuss options with the prescriber. Agreeing that he should stop or dismissing the side effects does not support safe, ongoing treatment."
+  },
+  {
+    "id": 493,
+    "domain": "assessment_and_planning",
+    "question": "A parent tells the social worker that she lost her temper and struck her son, leaving a visible bruise on his arm. Which action best reflects the social worker's legal obligation to respond to this disclosure of possible child abuse?",
+    "options": {
+      "A": "Keep the disclosure confidential because the parent came to the worker in trust.",
+      "B": "Recommend that the parent apologize and resolve the matter privately with her son.",
+      "C": "Report the possible abuse to the appropriate child protective authorities.",
+      "D": "Refer the family to a parenting class before deciding whether to report."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Report the possible abuse to the appropriate child protective authorities.): When a caregiver reports causing an injury to a child, the social worker has a legal duty to report possible child abuse. This obligation overrides confidentiality and does not depend on the parent's trust. Asking the parent to apologize or keeping it private would fail to protect the child."
+  },
+  {
+    "id": 501,
+    "domain": "intervention_and_practice",
+    "question": "Three adult children disagree about whether to continue life support for their father, who is unconscious and cannot speak. The hospital asks the social worker to help settle the dispute between the siblings. What is the social worker's BEST first step?",
+    "options": {
+      "A": "Poll the three children and follow what the majority of them decide to do.",
+      "B": "Let the physicians decide without bringing the family back into the discussion.",
+      "C": "Meet the siblings together and search for shared ground.",
+      "D": "Ask the hospital ethics committee to make the decision for the family."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Meet the siblings together and search for shared ground.): When a family cannot agree, the worker helps members voice their fears and look for the shared value underneath the dispute. This builds a decision the family can carry together. Majority rule or a physician only answer cuts the family out and can deepen the division."
+  },
+  {
+    "id": 513,
+    "domain": "intervention_and_practice",
+    "question": "A social worker has already made sure a client in crisis is safe. Now the worker listens while the client tells what happened, and together they name the event and what it means to her. In the six step crisis model, which stage is the worker carrying out?",
+    "options": {
+      "A": "Defining the problem and the client's understanding of it.",
+      "B": "Carrying out the plan and arranging the follow up contact.",
+      "C": "Closing the crisis work and ending the meeting.",
+      "D": "Reviewing the long term treatment plan for the case."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Defining the problem and the client's understanding of it.): The crisis model moves from safety to naming what happened and what the event means to the person, because that shared picture shapes the coping plan. The worker listens and reflects before any action is chosen. Implementing a plan or closing out the work both come later in the sequence."
+  },
+  {
+    "id": 525,
+    "domain": "intervention_and_practice",
+    "question": "A woman lost her mother eight months ago and still cries at a song from her wedding, yet she works full time and sees her friends often. The social worker wonders whether this pattern points to a disorder or to ordinary mourning. Which response BEST reflects a sound read of her grief?",
+    "options": {
+      "A": "She now clearly meets the criteria for a diagnosable disorder on its own.",
+      "B": "Her grief is stuck and only medication will ease it for her.",
+      "C": "Grief can continue and still allow a person to live and function.",
+      "D": "Waiting until the one year mark before considering any kind of clinical response."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Grief can continue and still allow a person to live and function.): Regular waves of sorrow at a memory are part of ordinary grief, and the ability to work and connect shows the person is still moving through life. A diagnosis or a claim of being stuck needs clear evidence of lasting impairment. The worker reads tears inside a strong daily life as a memory, not as a failure."
+  },
+  {
+    "id": 526,
+    "domain": "intervention_and_practice",
+    "question": "A case worker coordinates housing, a substance use program, and a job coach for one client whose own goal directs the whole team. The team meets the client where she is and brings services to her. What model BEST describes this arrangement?",
+    "options": {
+      "A": "Wrap around case management that keeps the client at the center.",
+      "B": "One worker making every choice for the client on their own over time.",
+      "C": "Handing the client a list of phone numbers to call alone without any help.",
+      "D": "Case management that focuses mainly on housing while her other needs wait their turn."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Wrap around case management that keeps the client at the center.): Wrap around case management pulls several providers together around a person's own goal, so care is coordinated and built around the client rather than split across offices. The client sits at the center of the team. Making choices for her or giving a phone list leaves her outside the plan."
+  },
+  {
+    "id": 529,
+    "domain": "intervention_and_practice",
+    "question": "In a support group one member speaks for long stretches, and the others are growing quiet and checking the door. The social worker says, Thank you for sharing that, and I want to be sure we also hear from others. How is the worker handling the group?",
+    "options": {
+      "A": "Gently redirecting and balancing the airtime among members.",
+      "B": "Shaming the member into silence to keep order.",
+      "C": "Letting the group sort out the balance on its own.",
+      "D": "Ending the group session early to keep the rising tension from building further."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Gently redirecting and balancing the airtime among members.): A leader protects the group's purpose by inviting others in while still honoring the member who spoke. Naming the shift kindly keeps the member engaged and the group useful. Shaming or leaving it to sort out both weaken the trust just being built."
+  },
+  {
+    "id": 533,
+    "domain": "intervention_and_practice",
+    "question": "A social worker learns that a state rule keeps homeless youth out of shelters unless they are with a parent. The worker gathers data and the stories of affected young people, then brings them to the state agency with a proposed change. What is this action?",
+    "options": {
+      "A": "Individual counseling offered to each youth in the shelter.",
+      "B": "A private decision to keep the rule away from clients.",
+      "C": "Filing a formal grievance on behalf of one specific youth already in the shelter.",
+      "D": "Macro advocacy and social action aimed at policy change."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Macro advocacy and social action aimed at policy change.): When a rule harms a group, the worker moves from the individual case to policy advocacy, using evidence and stories to push for a change in the rule itself. This is the macro level of the profession's advocacy role. Counseling one youth or hiding the rule still leave the harmful policy standing."
+  },
+  {
+    "id": 537,
+    "domain": "intervention_and_practice",
+    "question": "A client facing a move, an aging parent, and a lawsuit says, I cannot take it all at once. The social worker helps him decide which single thing to handle first and sets the rest aside for now. What technique is the worker using?",
+    "options": {
+      "A": "Flooding the client to build a tolerance for stress.",
+      "B": "Partializing the big load into one manageable step.",
+      "C": "Ending the work until the client feels calmer.",
+      "D": "Systematic desensitization aimed at lowering his overall stress response over several weeks."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Partializing the big load into one manageable step.): Partializing takes a pile that feels impossible and breaks it into pieces, starting with the one the client can act on right now. This restores a sense of control. Flooding or pausing the work leaves the client where the overwhelm began."
+  },
+  {
+    "id": 542,
+    "domain": "intervention_and_practice",
+    "question": "A supervisor notices that a worker has missed the continuing education hours required to keep a professional license current, and the worker's renewal is now at risk. The supervisor is responsible for making sure practice stays competent. What should the supervisor do about the gap?",
+    "options": {
+      "A": "Leave it aside because it is the worker's private matter.",
+      "B": "Raise it directly and arrange retraining or closer supervision.",
+      "C": "Move the worker quietly so the issue does not surface.",
+      "D": "Report the worker to the licensing board before discussing the gap with them directly."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Raise it directly and arrange retraining or closer supervision.): A supervisor holds a duty to protect clients and the profession, so a competence gap must be named and a plan made to close it. Discussion aims to help the worker, not punish them. Ignoring it or hiding it with a transfer both put clients at risk."
+  },
+  {
+    "id": 543,
+    "domain": "intervention_and_practice",
+    "question": "A new worker feels irritated with the same client every week and dreads the session, even though the client is polite and not hard to serve. The social work supervisor is the right person to help. How should the supervisor handle this pattern?",
+    "options": {
+      "A": "Tell the worker to hide the feeling and just push through it in every session, since it will pass.",
+      "B": "Move the client to another worker without ever discussing it openly with anyone.",
+      "C": "Ask what the client stirs up and explore the countertransference in supervision.",
+      "D": "Ask a colleague to sit in on every session with this particular client."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Ask what the client stirs up and explore the countertransference in supervision.): Countertransference is the worker's own reaction to a client, and naming it in supervision keeps it from steering the work unexamined. The supervisor helps the worker find the source rather than judge it. Hiding the feeling or a silent transfer let the unexamined reaction carry on."
+  },
+  {
+    "id": 549,
+    "domain": "intervention_and_practice",
+    "question": "A psychiatrist wants to raise the dose of a medication that the client has clearly refused, and the social worker disagrees with that plan. What is the BEST way for the social worker to raise the concern with the team?",
+    "options": {
+      "A": "Stay quiet in the meeting to keep the team at peace and avoid any conflict with the psychiatrist.",
+      "B": "Cancel the medication order behind the psychiatrist's back without a single word.",
+      "C": "State the concern respectfully and bring the client's own words to the meeting.",
+      "D": "Document the disagreement in the chart without raising it during the actual meeting."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (State the concern respectfully and bring the client's own words to the meeting.): The social worker's job on a team is to carry the client's voice, so the right move is to raise the disagreement with evidence and respect while the decision is still open. This protects the client without damaging the team. Silence or going behind the psychiatrist take the client out of the conversation."
+  },
+  {
+    "id": 572,
+    "domain": "values_and_ethics",
+    "question": "During a clinic visit a social worker notices several workers arrive together from a repair crew, one foreman answers every question, and a younger worker mouths the word help while the group looks on. What should the worker do?",
+    "options": {
+      "A": "Ask the foreman to step out so the worker can speak with the group.",
+      "B": "Try to separate the person and offer a private, safe conversation.",
+      "C": "Call the police immediately to arrest the people in the group.",
+      "D": "Give the group a hotline brochure and let them decide whether to read it."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Try to separate the person and offer a private, safe conversation.): Signs that someone else controls a person's movements and speech can indicate trafficking. The worker should find a way to speak with the person privately, if it is safe, to offer support and a path to help. Calling the police immediately could place the person in more danger, and a brochure alone is unlikely to reach them."
+  },
+  {
+    "id": 574,
+    "domain": "values_and_ethics",
+    "question": "A school social worker is asked to help after a student used a slur against a classmate. The principal plans to suspend the student and considers the matter closed, but a few staff are trained in restorative practices. What is the worker's best recommendation?",
+    "options": {
+      "A": "Suggest a restorative conversation that repairs harm and teaches.",
+      "B": "Support the suspension so consequences are automatic and clear for all.",
+      "C": "Keep the two students apart so the issue quietly fades without a talk.",
+      "D": "Ask the student to write a public apology and consider the matter resolved."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Suggest a restorative conversation that repairs harm and teaches.): Restorative approaches hold a person accountable while also addressing the harm done and building understanding. A suspension alone removes the student without repairing the relationship. Separating the students or rushing an apology avoids the conversation that would help both young people learn."
+  },
+  {
+    "id": 578,
+    "domain": "values_and_ethics",
+    "question": "A client says during a session that nobody will get away with this and will not name the person they mean. The client has no history of violence. The worker is unsure how serious the risk is. What should the worker do first?",
+    "options": {
+      "A": "Warn everyone the client knows to be safe from harm right away today.",
+      "B": "Assess the risk more fully before deciding on any disclosure.",
+      "C": "Report the comment to the police as a specific threat this afternoon.",
+      "D": "Ask the client to sign a written promise not to harm anyone."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Assess the risk more fully before deciding on any disclosure.): A vague statement about harm does not establish who is at risk or how serious it is. The worker should gather more detail about intent, means, and timing before deciding whether a duty to warn applies. Warning broadly or reporting a non-specific remark could create harm without protecting anyone, and asking for a promise avoids the assessment."
+  },
+  {
+    "id": 589,
+    "domain": "values_and_ethics",
+    "question": "A client who is a recent immigrant refuses to apply for food help because the client fears it could harm their adult child's pending visa case. The client is unsure what is allowed, and the family has young children at home. What should the worker do?",
+    "options": {
+      "A": "Tell the client that food help would not affect the outcome of the case.",
+      "B": "Explain what is known and refer the client to legal advice on the rules.",
+      "C": "Apply anyway so the family does not go hungry while the case is open.",
+      "D": "Advise the client to wait until the visa case is fully decided."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Explain what is known and refer the client to legal advice on the rules.): Immigration benefit rules are complex, and a worker should not give a firm answer without being sure. The worker should share what is accurate and connect the family to an immigration attorney. Applying without checking could create a real risk, and a firm promise could be misleading."
+  },
+  {
+    "id": 591,
+    "domain": "values_and_ethics",
+    "question": "A social worker has been sleeping poorly for a few weeks and notices that they are forgetting details and making small errors in notes, but the appointment schedule is still full. The worker also supervises a small team. What should the worker do?",
+    "options": {
+      "A": "Talk to a supervisor about reducing the load to stay fit for practice.",
+      "B": "Continue the full schedule and double-check all of the notes at night.",
+      "C": "Tell clients that the worker is too tired and may make mistakes.",
+      "D": "Take a short unpaid break only after the next busy week fully ends."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Talk to a supervisor about reducing the load to stay fit for practice.): A worker who is too depleted to notice their own errors has a responsibility to address the situation before it harms clients. Seeking a temporary change in workload and support is the responsible step. Quietly continuing with a full caseload risks real mistakes, and telling clients about the fatigue does not fix the underlying problem."
+  },
+  {
+    "id": 594,
+    "domain": "values_and_ethics",
+    "question": "A teacher tells a school social worker that a young student has missed many days, arrives hungry and thin, and the family has stopped answering calls. The teacher asks whether this counts as neglect. What should the worker do?",
+    "options": {
+      "A": "Wait for more proof before considering a report to child services.",
+      "B": "Tell the teacher it is a housing issue and not a reportable matter.",
+      "C": "Assess the situation and report if there is reasonable suspicion.",
+      "D": "Advise the teacher to speak with the parents before any report is filed."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Assess the situation and report if there is reasonable suspicion.): The standard for a child welfare report is reasonable suspicion, not proof. The worker should gather what is known and make a report when the signs meet that threshold. Waiting for proof or an admission can leave the child at risk, and dismissing it as a housing issue ignores the worker's duty to look into it."
+  },
+  {
+    "id": 609,
+    "domain": "values_and_ethics",
+    "question": "A social worker is considering a personal relationship with a former client whose therapy ended four years ago, and the former client reached out first this month. The worker wonders whether this is allowed. What should the worker do?",
+    "options": {
+      "A": "Proceed because the work ended well and enough time has passed.",
+      "B": "Ask the former client to sign a release before dating.",
+      "C": "Wait one more year so enough time has clearly passed before deciding.",
+      "D": "Consult about the ethics of the relationship before acting."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Consult about the ethics of the relationship before acting.): A personal relationship with a former client raises serious ethical concerns about the power imbalance and the worker's earlier role. Even years later, a worker should consult an ethics advisor before entering such a relationship. Proceeding on the belief that time has passed ignores the lingering power difference."
+  },
+  {
+    "id": 611,
+    "domain": "values_and_ethics",
+    "question": "At a community event a parent whose child attends the worker's school asks whether the worker is counseling a certain neighbor, saying it would help the parent respond. The neighbor is a family friend of the parent. What should the worker do?",
+    "options": {
+      "A": "Confirm the services but keep the details private.",
+      "B": "Say the worker cannot discuss it and still give the outcome.",
+      "C": "Decline to confirm or deny any client's services.",
+      "D": "Ask the parent what they already know to decide."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Decline to confirm or deny any client's services.): Confirming that someone is a client, or denying it, both reveal a piece of private information the worker has no right to share. The worker should decline in a neutral way and offer no detail about who is or is not a client. Giving an outcome or asking what the parent knows still lets the worker's answer leak the information."
+  },
+  {
+    "id": 625,
+    "domain": "values_and_ethics",
+    "question": "A social worker reviews the agency's new outreach posters and notices they show only one racial group, while the community served is very diverse. The materials are being printed this week, and the worker worries some clients will not feel welcome. Which action is BEST?",
+    "options": {
+      "A": "Let the print continue because the posters already show the main client group well enough.",
+      "B": "Raise the concern with the agency and delay the print until materials are broadened.",
+      "C": "Change one poster quietly so the issue is not raised with leadership at a later time.",
+      "D": "Add a short statement about diversity to the posters and continue printing."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Raise the concern with the agency and delay the print until materials are broadened.): Outreach that shows only one group can discourage people who do not see themselves represented. Raising the concern and pausing the print lets the agency correct the materials before they reach the community. Quietly changing one poster does not address the agency's pattern, and ignoring the issue maintains a barrier. Inclusive materials are part of culturally responsive, anti-oppressive service."
+  },
+  {
+    "id": 632,
+    "domain": "values_and_ethics",
+    "question": "A social worker has begun drinking most evenings to unwind after hard sessions and now needs more to feel relaxed. The worker still shows up on time, no client has noticed, but the habit is starting to worry the worker. Which action is BEST?",
+    "options": {
+      "A": "Reduce the amount gradually on their own without telling anyone about it.",
+      "B": "Continue because the drinking is not affecting the client work for now.",
+      "C": "Get help for the drinking and use supervision or a counselor.",
+      "D": "Talk with a trusted coworker informally instead of pursuing formal treatment."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Get help for the drinking and use supervision or a counselor.): A growing reliance on alcohol after sessions is a warning sign of burnout that can progress and affect judgment. Seeking help early protects the worker's health and the clients they serve. Reducing it alone or denying the effect avoids the real issue. Honest self-care and support are part of acting within the worker's own competence."
+  },
+  {
+    "id": 638,
+    "domain": "values_and_ethics",
+    "question": "A manager tells a social worker not to tell a client that the client's transportation benefit application was denied, because the manager plans to appeal it quietly. The appeal has not been filed, and the client asks for a status update. Which action is BEST?",
+    "options": {
+      "A": "Withhold the denial so the manager's quiet appeal has a better chance of success.",
+      "B": "Give the client a vague reply and avoid using the word denied for the time being.",
+      "C": "Tell the client the truth and explain that the agency is appealing.",
+      "D": "Wait to tell the client until the manager's quiet appeal has been filed."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Tell the client the truth and explain that the agency is appealing.): Clients have a right to accurate information about their own matters, and withholding it undermines trust. The worker can be honest and still show that an appeal is underway. Hiding the denial or being vague is deceptive and removes the client's ability to plan. Honesty and transparency are core to the professional relationship."
+  },
+  {
+    "id": 640,
+    "domain": "values_and_ethics",
+    "question": "A social worker learns that the agency schedules all family events on a day that conflicts with a religious holiday observed by many clients, and the agency attributes the low attendance to a lack of interest. These events are required for the children's program. Which action is BEST?",
+    "options": {
+      "A": "Accept the current date and note the lower attendance as a client interest issue.",
+      "B": "Tell clients they must choose between the event and their religious observance.",
+      "C": "Offer a separate makeup session for families who miss the required event.",
+      "D": "Raise the conflict with leadership and propose a more inclusive schedule."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Raise the conflict with leadership and propose a more inclusive schedule.): When agency practices exclude a group, the worker should address the barrier rather than blame low participation on clients. Proposing a more inclusive schedule removes an avoidable obstacle to access. Treating the low attendance as a lack of interest misreads the cause and keeps the barrier in place. This is core anti-oppressive agency practice."
+  },
+  {
+    "id": 646,
+    "domain": "values_and_ethics",
+    "question": "A social worker is helping a restorative justice circle and the group pressures a victim to forgive the person who caused the harm so the process can close. The victim is not ready and has asked for more time. Which action is BEST?",
+    "options": {
+      "A": "Encourage forgiveness right away so the circle can finish on time.",
+      "B": "Let the group decide since it represents the community as a whole.",
+      "C": "Protect the victim's pace and keep the process from being rushed.",
+      "D": "Ask the person who caused the harm to apologize again to the victim."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Protect the victim's pace and keep the process from being rushed.): Restorative practice must not pressure anyone to forgive or move faster than they are ready. The victim's voice and time frame are central to a genuine process. Pushing forgiveness for the sake of closure repeats the harm of silencing the person hurt. The worker should slow the process and center the victim's needs."
+  },
+  {
+    "id": 647,
+    "domain": "values_and_ethics",
+    "question": "A social worker has started cancelling sessions with clients who are new parents because the worker's own recent loss is still raw. The worker notices the pattern, feels guilty, and knows no one else can cover the cases. Which action is BEST?",
+    "options": {
+      "A": "Push through the sessions to avoid falling behind on the case load.",
+      "B": "Transfer the client caseload without discussing the reason with anyone.",
+      "C": "Stop taking client cases until the worker feels more like themselves.",
+      "D": "Seek personal therapy and supervision to address the strong reaction."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Seek personal therapy and supervision to address the strong reaction.): A strong reaction tied to a personal loss signals that the worker needs support and supervision to stay effective. Seeking help addresses the cause rather than just managing the symptom, so clients continue to get good care. Pushing through or transferring quietly leaves the worker unaddressed and the pattern intact. Self-care here protects the worker and the clients."
+  },
+  {
+    "id": 654,
+    "domain": "values_and_ethics",
+    "question": "A social worker continues to use a parenting program that new studies show does not help the families it serves. The worker has used it for years, feels confident, and has not reviewed the research since training. Which action is BEST?",
+    "options": {
+      "A": "Keep the program because the worker's experience outweighs the studies.",
+      "B": "Add an extra session to the program to make it work better.",
+      "C": "Review the evidence and replace the program with an effective model.",
+      "D": "Continue the program while asking families for informal feedback each month."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Review the evidence and replace the program with an effective model.): Staying current means updating interventions when the evidence changes, even when a worker is comfortable with the old one. Relying on habit over evidence can continue to serve families poorly. Adding sessions does not fix a model that does not work. Choosing evidence-informed care is part of competent, ethical practice."
+  },
+  {
+    "id": 657,
+    "domain": "values_and_ethics",
+    "question": "A client who survives a trauma says they want to heal with prayer and the support of their faith community, and asks a social worker not to push a particular therapy. The client has a strong community the worker can work with. Which action is BEST?",
+    "options": {
+      "A": "Insist on the therapy because it is the best evidence-based choice available here.",
+      "B": "Offer the therapy only if the client first stops the spiritual practice.",
+      "C": "Suggest the client gradually add therapy sessions alongside the prayer practice.",
+      "D": "Respect the client's approach and agree on a plan that fits their values."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Respect the client's approach and agree on a plan that fits their values.): Respecting the client's chosen healing methods, including spiritual ones, is part of cultural humility and client self-determination. The worker can discuss options without requiring the client to give up something that helps them. Pushing a single approach or making the spiritual practice a condition ignores the client's own values. A respectful plan is more likely to be followed and to help."
+  },
+  {
+    "id": 675,
+    "domain": "values_and_ethics",
+    "question": "A social worker notices that a standardized risk tool used by the agency shows higher risk scores for clients of color than for clients of other groups with the same behavior. The worker is unsure if the tool is biased. Which action is BEST?",
+    "options": {
+      "A": "Keep using the tool because it is the accepted professional standard.",
+      "B": "Use the higher scores to give those clients more needed services.",
+      "C": "Examine the tool and discuss its fairness before relying on it.",
+      "D": "Adjust the client's score manually to offset the pattern the worker noticed."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Examine the tool and discuss its fairness before relying on it.): Standardized tools can carry bias that leads to unfair or inaccurate results. The worker should review the tool and raise concerns rather than accept it uncritically. Ignoring the pattern or applying the scores without questioning them can deepen inequity. Examining fairness protects clients from decisions shaped by an unvalidated measure."
+  },
+  {
+    "id": 683,
+    "domain": "assessment_and_planning",
+    "question": "In family therapy, a father repeatedly asks his 14 year old daughter to carry messages about marital problems and to take his side in arguments. The daughter reports stomach pain before every session. Which family pattern is the worker most likely identifying?",
+    "options": {
+      "A": "Parentification, where the child must perform adult caregiving duties for the parents.",
+      "B": "Disengagement, where the family keeps emotional distance from each other.",
+      "C": "Enmeshment, where the family shares one identity with no separate emotional boundaries.",
+      "D": "Triangulation, where a child is pulled into conflict between the parents."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Triangulation, where a child is pulled into conflict between the parents.): Triangulation happens when an adult involves a third party in a two person conflict, using the child as messenger and ally. The daughter is being used to carry the parents' dispute, which helps explain her physical distress. Parentification involves household or emotional caretaking, and disengagement describes emotional distance rather than overinvolvement."
+  },
+  {
+    "id": 687,
+    "domain": "assessment_and_planning",
+    "question": "A manager frequently accuses his coworkers of being hostile and untrustworthy, while his own notes reveal angry and controlling behavior toward them. He is unaware of this pattern and feels certain others are out to get him. Which defense mechanism best describes how he handles his own feelings?",
+    "options": {
+      "A": "Projection, attributing his own unacceptable impulses to other people.",
+      "B": "Sublimation, channeling anger into socially valued productive work.",
+      "C": "Rationalization, inventing logical excuses for his own behavior toward others.",
+      "D": "Denial, refusing to acknowledge that any conflict exists between him and his coworkers."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Projection, attributing his own unacceptable impulses to other people.): Projection places qualities a person cannot accept in himself onto others, so he experiences his hostility as coming from coworkers. His unawareness of the pattern is central to how the defense protects him. Sublimation converts the impulse into productive activity, and rationalization supplies a reason rather than blaming others."
+  },
+  {
+    "id": 690,
+    "domain": "assessment_and_planning",
+    "question": "An elderly man with limited mobility relies on his adult son for finances and transport. During a home visit the worker notices unpaid bills, missed medications, and the son regularly drawing money from the father's pension. Which concern should the worker investigate first?",
+    "options": {
+      "A": "Normal aging decline, so the worker should offer monitoring support.",
+      "B": "Caregiver exhaustion, so the son only needs more support from the community.",
+      "C": "Financial exploitation, with a need to assess for elder mistreatment.",
+      "D": "A medication side effect, so review the current prescription list."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Financial exploitation, with a need to assess for elder mistreatment.): Unpaid bills, missed drugs, and control of the father's pension together suggest someone may be using his money and failing to meet his needs. These are warning signs of exploitation that warrant a fuller elder abuse screening. Normal aging and caregiver stress do not account for the financial control, and a medication review ignores the pattern of lost resources."
+  },
+  {
+    "id": 695,
+    "domain": "assessment_and_planning",
+    "question": "A client describes a difficult divorce in a long, rambling account that covers finances, custody, and his ex partner's new relationship. The worker summarizes the key emotions and the central issue and checks whether the summary is right. Which interviewing skill is the worker using?",
+    "options": {
+      "A": "Closed questioning, asking for precise yes or no responses.",
+      "B": "Advice giving, telling the client exactly what action to take.",
+      "C": "Reflective listening, paraphrasing the meaning to confirm understanding.",
+      "D": "Confrontation, pointing out the contradictions between what he says and how he behaves."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Reflective listening, paraphrasing the meaning to confirm understanding.): Reflective listening restates the essence of what the client said so he can correct or confirm the worker's understanding. This shows attention and helps organize a scattered account. Closed questions narrow the conversation instead of mirroring it, and advice giving moves the worker out of the listening role."
+  },
+  {
+    "id": 716,
+    "domain": "assessment_and_planning",
+    "question": "A client newly started on an antipsychotic reports muscle stiffness, a stiff jaw, and restlessness that keep him up at night. He asks the worker whether these are serious. Which concern should the worker raise with the prescriber as a priority?",
+    "options": {
+      "A": "Extrapyramidal symptoms that may need a medication adjustment.",
+      "B": "Normal early effects that fade without any change in the dose.",
+      "C": "A harmless reaction that needs no further attention.",
+      "D": "An allergic reaction to the medication that requires immediate discontinuation."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Extrapyramidal symptoms that may need a medication adjustment.): Stiffness, a tight jaw, and restlessness are signs of possible extrapyramidal symptoms, which can worsen and need treatment. They should be reported promptly to the prescriber so the dose or agent can be changed. Dismissing them as harmless or normal risks discomfort and serious movement problems."
+  },
+  {
+    "id": 722,
+    "domain": "assessment_and_planning",
+    "question": "A client who reported suicidal thoughts two weeks ago now appears calmer and says she feels okay. She still has the same stressors that triggered her earlier despair. Which action best protects her from returning risk? Her living situation and job problems remain unresolved.",
+    "options": {
+      "A": "End all support since the immediate crisis appears to have passed.",
+      "B": "Develop a written safety plan with warning signs and coping steps.",
+      "C": "Avoid discussing suicide so the topic does not upset her again later.",
+      "D": "Schedule a follow up appointment in one month with no interim contact planned."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Develop a written safety plan with warning signs and coping steps.): A written plan lists her personal warning signs, supports, and strategies so she knows what to do if the distress returns. Feeling better is not proof the risk is gone, so the plan carries the safety through the calmer period. Stopping support or avoiding the topic removes the very resources that could protect her later."
+  },
+  {
+    "id": 727,
+    "domain": "assessment_and_planning",
+    "question": "A client has decided to address his drinking after a recent arrest. He has researched detox options, spoken with a counselor, and set a start date for next week. Which stage of change best describes his present status? His family supports the decision.",
+    "options": {
+      "A": "Precontemplation, since he has not yet begun the actual change of behavior.",
+      "B": "Preparation, where he is committed and plans to act soon.",
+      "C": "Action, because he has already fully stopped drinking.",
+      "D": "Contemplation, since he is weighing a change but has not started."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Preparation, where he is committed and plans to act soon.): He has decided to change and is taking concrete steps toward a near future start, which is the preparation stage. Precontemplation would show no intention to change, and contemplation would show him still deciding. Action has not been reached because he has not yet begun the new behavior."
+  },
+  {
+    "id": 728,
+    "domain": "assessment_and_planning",
+    "question": "A client is deeply upset about losing a job she loved and held for many years. The worker says that anyone would feel frustrated over losing work they cared about, then pauses. Which communication skill is the worker using? She looks down and begins to cry.",
+    "options": {
+      "A": "Interpretation, explaining an unconscious cause of the emotion she feels.",
+      "B": "Reframing, changing the meaning of the event itself.",
+      "C": "Self-disclosure, sharing a similar personal experience of job loss to build rapport.",
+      "D": "Validation, acknowledging her reaction as a normal response."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Validation, acknowledging her reaction as a normal response.): The statement normalizes her reaction and confirms that losing valued work would be upsetting, which is validation. It lets the client feel heard without jumping to problem solving. Interpretation offers a hidden explanation, and reframing changes the meaning, whereas this response affirms her reaction as reasonable."
+  },
+  {
+    "id": 729,
+    "domain": "assessment_and_planning",
+    "question": "In counseling, a client reveals a history of past abuse but asks the worker never to write it down in the record. The client fears others will find it. The worker must balance privacy with sound record keeping. Which action is consistent with the worker's professional responsibilities?",
+    "options": {
+      "A": "Agree not to record the entire disclosure.",
+      "B": "Document the relevant clinical information while omitting unnecessary detail.",
+      "C": "Stop taking notes for every session while the worker continues to serve this client.",
+      "D": "Record the disclosure in full detail exactly as the client described it."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Document the relevant clinical information while omitting unnecessary detail.): The record should capture the clinically relevant facts needed for care, but personal details that are not needed can be left out to protect the client. Meeting the client's request to record nothing could compromise continuity of care and worker safety. Stopping documentation for a whole client is not an appropriate compromise."
+  },
+  {
+    "id": 730,
+    "domain": "assessment_and_planning",
+    "question": "A client interprets her child's seizures as an ancestral curse rather than a medical condition. She is reluctant to see a doctor. The child has had several episodes at school recently. Which worker response best respects her cultural view while supporting the child?",
+    "options": {
+      "A": "Explore her belief and pursue medical care concurrently in the plan.",
+      "B": "Reject her view because it can only interfere with scheduling care.",
+      "C": "Accept her explanation and stop seeking any medical evaluation for the child.",
+      "D": "Tell her that her belief is not supported by medical evidence."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Explore her belief and pursue medical care concurrently in the plan.): Honoring her framework builds trust and keeps communication open, while arranging medical care protects the child's health at the same time. Both the cultural meaning and the seizure treatment can be addressed together. Rejecting or dismissing her view is likely to make her withdraw, and accepting it alone would leave the condition untreated."
+  },
+  {
+    "id": 732,
+    "domain": "assessment_and_planning",
+    "question": "A client is newly referred after a recent assault, reports insomnia, and avoids her neighborhood. When details of the event arise in session she feels overwhelmed and short of breath. Which guiding principle should shape the worker's modality choice? She asks whether she has to talk about it.",
+    "options": {
+      "A": "Move directly into detailed trauma recall to resolve the fear as quickly as possible.",
+      "B": "Avoid any discussion of the traumatic event to keep the sessions comfortable and safe.",
+      "C": "Establish safety and stabilization before any trauma focused work begins.",
+      "D": "Begin exposure therapy immediately so she can process the assault while memories are fresh."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Establish safety and stabilization before any trauma focused work begins.): Early trauma work should build safety and coping first, so the client is not overwhelmed while detailing the event. Stabilization gives her tools and reduces the risk of worsening symptoms. Releasing the details too soon can retraumatize, and avoiding the subject altogether withholds the help she needs."
+  },
+  {
+    "id": 733,
+    "domain": "assessment_and_planning",
+    "question": "A client taking lithium for a mood disorder reports hand tremor, increased thirst, and frequent urination. He feels uneasy and asks whether these effects are expected. Which worker action best addresses these concerns? The effects have grown stronger over the past two weeks.",
+    "options": {
+      "A": "Ask the client to report these signs to the prescriber for monitoring.",
+      "B": "Tell him the tremor is permanent and needs no follow up.",
+      "C": "Suggest he stop taking the medication right away without first contacting his doctor.",
+      "D": "Increase his fluid intake and reassess his symptoms at his next scheduled visit."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Ask the client to report these signs to the prescriber for monitoring.): Tremor, thirst, and urination are common lithium effects that can signal a need for level monitoring and dose adjustment, so they belong in the prescriber's hands. Discharging the matter as permanent or telling him to stop on his own could lead to undertreated mood symptoms or withdrawal."
+  },
+  {
+    "id": 738,
+    "domain": "assessment_and_planning",
+    "question": "A 12-year-old client tells the worker they would never steal because their parents would be disappointed and the neighbors would think badly of them. According to Kohlberg's stages of moral development, which level of moral reasoning is this client most clearly demonstrating?",
+    "options": {
+      "A": "Preconventional level, guided mainly by punishment and personal reward for the child.",
+      "B": "Conventional level, guided by social approval and keeping relationships.",
+      "C": "Postconventional level, guided by universal ethical principles and a personal conscience.",
+      "D": "Psychosexual stage, guided by unresolved physical conflicts from early childhood."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Conventional level, guided by social approval and keeping relationships.): At the conventional level, moral choices are shaped by wanting to meet the expectations of others and maintain good relationships. The client is reasoning from the concerns of parents and the wider community. Preconventional reasoning is based on reward and punishment, while postconventional reasoning rests on universal principles."
+  },
+  {
+    "id": 746,
+    "domain": "assessment_and_planning",
+    "question": "A client with an alcohol use disorder says they now need to drink more of the same type of drink to feel the original effect that they once got easily. Which term describes this change in how the body responds to alcohol over time?",
+    "options": {
+      "A": "Tolerance is the need for more to achieve the same effect.",
+      "B": "Withdrawal is the body's response when the substance is stopped.",
+      "C": "Craving is a strong desire that often follows periods of use.",
+      "D": "Dependence is the body's reliance on a substance to function normally."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Tolerance is the need for more to achieve the same effect.): Tolerance is the physiological adaptation that requires a larger amount of the substance to reach the same effect. It is a diagnostic indicator of a substance use disorder. Withdrawal and craving are separate features that can also appear in an addiction but refer to different processes."
+  },
+  {
+    "id": 748,
+    "domain": "assessment_and_planning",
+    "question": "A client who is secretly angry with a partner repeatedly insists that the partner is the one who is angry and hostile toward them. Which defense mechanism is the client most likely using to manage the feeling and avoid the discomfort?",
+    "options": {
+      "A": "Sublimation, by channeling the feeling into a productive activity.",
+      "B": "Projection, by attributing an unacceptable feeling to someone else.",
+      "C": "Rationalization, by inventing a logical reason to excuse the feeling.",
+      "D": "Repression, by pushing the feeling out of awareness largely."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Projection, by attributing an unacceptable feeling to someone else.): Projection involves placing one's own unacceptable thoughts or feelings onto another person. The client avoids owning their anger by experiencing it as coming from the partner. Sublimation, rationalization, and repression describe different ways the ego defends against anxiety."
+  },
+  {
+    "id": 752,
+    "domain": "assessment_and_planning",
+    "question": "A clinician is reviewing a client's housing, employment, family relationships, and community connections as part of a comprehensive biopsychosocial-spiritual assessment of the client's overall functioning and support network. These details most directly belong to which single domain of that framework?",
+    "options": {
+      "A": "The biological domain, focused on physical illness, health, and medication use.",
+      "B": "The spiritual domain, focused on personal values, faith, and meaning in life.",
+      "C": "The social domain, focused on environment and relationships.",
+      "D": "The psychological domain, focused on thoughts, emotional patterns, and coping style."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (The social domain, focused on environment and relationships.): The social domain covers the client's relationships, family, work, housing, and community resources. These factors shape functioning and determine access to support. Biological and spiritual domains address health and meaning rather than the social surroundings."
+  },
+  {
+    "id": 755,
+    "domain": "assessment_and_planning",
+    "question": "An older child is expected to cook meals, care for younger siblings, and manage the household finances because a parent is often absent due to work or illness. Which family systems concept best describes this role reversal within the family?",
+    "options": {
+      "A": "Triangulation, by involving the child in the parents' adult conflict.",
+      "B": "Differentiation, by encouraging the child to be self-sufficient and independent.",
+      "C": "Enmeshment, by blurring the boundaries between the child and the parent.",
+      "D": "Parentification, by having a child take on adult caregiving roles."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Parentification, by having a child take on adult caregiving roles.): Parentification occurs when a child is expected to provide care or adult responsibilities that the parent should handle. It can be instrumental, like chores, or emotional, like supporting a parent's feelings. This role reversal can strain the child and interfere with normal development."
+  },
+  {
+    "id": 761,
+    "domain": "assessment_and_planning",
+    "question": "In the middle of a session, a client says they feel like a burden to everyone. The social worker responds, \"It sounds like you are carrying the belief that you drain the people you care about.\" Which communication skill is the social worker using?",
+    "options": {
+      "A": "Advice giving, by telling the client exactly what action they should take next.",
+      "B": "Confrontation, by pointing out an inconsistency in what the client is saying.",
+      "C": "Paraphrasing, by repeating back the client's own words in a shortened form.",
+      "D": "Reflection, by restating the meaning of what the client shared."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Reflection, by restating the meaning of what the client shared.): Reflection mirrors the client's feeling and meaning, showing empathy and helping the client feel understood. It is a core active listening skill that deepens the relationship. Advice giving offers solutions, while confrontation names a discrepancy."
+  },
+  {
+    "id": 772,
+    "domain": "assessment_and_planning",
+    "question": "A client says during the session that their mood is depressed and yet remains flat, unexpressive, and unchanged for the entire hour. Which difference in terminology best explains what the worker observed when assessing the client's presentation during the mental status exam?",
+    "options": {
+      "A": "Affect is the inward emotional state a person feels, while mood is what others can observe.",
+      "B": "Mood is the reported inner feeling, while affect is the observably expressed emotion.",
+      "C": "Mood and affect are essentially the same and both are recorded together in the clinical chart.",
+      "D": "Affect is documented only when it is unusual, while mood is recorded in every session."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Mood is the reported inner feeling, while affect is the observably expressed emotion.): Mood is a sustained internal feeling the client describes, while affect is the outward expression seen during the session. A client may report depressed mood and show flat, restricted, or labile affect. Both are noted separately in the mental status exam."
+  },
+  {
+    "id": 775,
+    "domain": "assessment_and_planning",
+    "question": "A social worker asks a client to state the current date, the day of the week, where they are, and who they are at the start of the meeting. Which component of the mental status exam is the worker assessing?",
+    "options": {
+      "A": "Memory, assessing the ability to recall past and daily information accurately.",
+      "B": "Orientation, assessing awareness of person, place, and time.",
+      "C": "Insight, assessing awareness of the presence of a personal problem or state.",
+      "D": "Judgment, assessing the client's ability to make sound and safe decisions."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Orientation, assessing awareness of person, place, and time.): Orientation is the basic awareness of person, place, and time and is routinely tested in a mental status exam. Disorientation in these areas can signal confusion or a medical condition. Memory and insight are separate parts of the same assessment."
+  },
+  {
+    "id": 777,
+    "domain": "assessment_and_planning",
+    "question": "A client's history is unclear because they are unable to recall many details, and a worker wants to gather collateral information before completing the plan. Which reason best supports obtaining collateral data from sources like family members or medical providers?",
+    "options": {
+      "A": "Collateral data replaces the need to ever speak directly with the client.",
+      "B": "Collateral data is gathered only for the paperwork used to admit the client.",
+      "C": "Collateral data helps confirm history and gives a fuller picture.",
+      "D": "Collateral data is gathered mainly to satisfy legal or funding requirements."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Collateral data helps confirm history and gives a fuller picture.): Collateral information from authorized sources validates the client's report and fills in gaps. It improves accuracy and is especially useful for diagnosis and safety planning. It does not replace the client's own account and requires proper consent."
+  },
+  {
+    "id": 778,
+    "domain": "assessment_and_planning",
+    "question": "A client with a low income and no insurance needs ongoing medication and case management for a chronic mental health condition that requires steady follow-up on a regular basis. Which community resource is most appropriate to help the client access these ongoing services?",
+    "options": {
+      "A": "A community mental health center, offering sliding-fee and case management support.",
+      "B": "An emergency shelter, offering a short-term place to sleep and to meet immediate basic needs.",
+      "C": "A crisis line, offering immediate telephone support at the exact moment of crisis or urgent need.",
+      "D": "A legal aid clinic, offering help with civil legal matters such as housing and family disputes."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (A community mental health center, offering sliding-fee and case management support.): Community mental health centers provide ongoing medication, counseling, and case management for people regardless of insurance or income. They are the usual entry point into the public mental health system. Shelter, crisis lines, and legal aid address other temporary or discrete needs."
+  },
+  {
+    "id": 782,
+    "domain": "assessment_and_planning",
+    "question": "A social worker is reviewing a treatment plan for a client and reads a goal about reducing anxiety for the client during the first week of services. Which goal statement is most specific and therefore useful as a SMART goal component?",
+    "options": {
+      "A": "Feel less anxious in the next few weeks ahead.",
+      "B": "Try to generally improve mental health sometime very soon.",
+      "C": "Use a breathing exercise for ten minutes each morning.",
+      "D": "Feel calmer and more confident about the future in general."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Use a breathing exercise for ten minutes each morning.): Specific, measurable goals state who will do what and how, so progress can be tracked. The action and the frequency are clearly defined in this option. Vague statements such as feeling better soon cannot be measured or monitored."
+  },
+  {
+    "id": 791,
+    "domain": "assessment_and_planning",
+    "question": "A 72-year-old client reflects on their life during a therapy session with a strong sense of accomplishment and acceptance of the choices they made over the years. According to Erikson, which psychosocial stage is this client most likely experiencing in late adulthood?",
+    "options": {
+      "A": "Integrity versus despair, resolving the meaning of one's whole life.",
+      "B": "Generativity versus stagnation, contributing to the next generation.",
+      "C": "Intimacy versus isolation, forming a deep committed relationship.",
+      "D": "Identity versus role confusion, finding a stable sense of self."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Integrity versus despair, resolving the meaning of one's whole life.): Integrity versus despair is the final psychosocial stage in late adulthood, when a person reviews their life and finds meaning or regret. A sense of accomplishment and acceptance points to resolution. Generativity, intimacy, and identity belong to earlier stages."
+  },
+  {
+    "id": 797,
+    "domain": "assessment_and_planning",
+    "question": "In one family, members know each other's private thoughts and have little sense of individual privacy, and one member's feelings instantly affect everyone else in the home. Which concept describes their overly close and blurred boundaries within the family system?",
+    "options": {
+      "A": "Disengagement, shown by rigid distance between family members.",
+      "B": "Differentiation, shown by a balanced sense of self within the family.",
+      "C": "Enmeshment, shown by blurred and overly diffuse family boundaries.",
+      "D": "Triangulation, by pulling a third family member into a two-person conflict."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Enmeshment, shown by blurred and overly diffuse family boundaries.): Enmeshment is a family pattern with very close, blurred boundaries in which members are overly involved in one another's emotional lives. It limits individual autonomy. Disengagement describes rigidly separate boundaries, while differentiation reflects a healthy balance of connection and separateness."
+  },
+  {
+    "id": 812,
+    "domain": "intervention_and_practice",
+    "question": "A client calls a social worker the same day she is evicted, has nowhere to stay tonight, no food, and no way to reach family. She sounds panicked and says she cannot go on. What should the social worker do first?",
+    "options": {
+      "A": "Begin with a full review of the eviction so she understands the legal cause fully.",
+      "B": "Help her list the long term options for finding stable permanent housing and jobs.",
+      "C": "Focus this call on her immediate safety and getting her through the next day.",
+      "D": "Suggest she call a shelter hotline and end the call fairly quickly."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Focus this call on her immediate safety and getting her through the next day.): In a crisis the social worker first secures safety and stabilizes the most urgent need. A full legal review comes later once the client is safe and calm. Building a long term housing plan is an important next step, but it is not the first concern during an active crisis."
+  },
+  {
+    "id": 818,
+    "domain": "intervention_and_practice",
+    "question": "In a support group for people leaving substance use treatment, whenever a member mentions a recent relapse the room goes quiet and members look down. The social worker says, it seems the room grows still each time a relapse comes up. Which skill is the worker using?",
+    "options": {
+      "A": "Summarizing, which reviews the main content the group covered earlier today.",
+      "B": "Reflecting feeling, which describes one member's private emotional state in the room.",
+      "C": "Linking, which connects one member's statement to another member's earlier comment.",
+      "D": "Process observation, which names the group's shared pattern in the moment."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Process observation, which names the group's shared pattern in the moment.): The worker comments on the group as a whole rather than one person, which is a here and now process statement. Summarizing reviews content already shared, and reflecting feeling focuses on a single member. Naming the shared avoidance opens the group to examine it together."
+  },
+  {
+    "id": 821,
+    "domain": "intervention_and_practice",
+    "question": "A social worker meets a single mother who was recently homeless and views herself as a failure. The worker notices she kept her children enrolled, rebuilt a budget, and reconnected with a neighbor. Which response BEST reflects a strengths-based approach?",
+    "options": {
+      "A": "Ask what she would like to change about her current situation in the days ahead.",
+      "B": "Tell her the agency can help when she is ready to work on the chosen goals.",
+      "C": "Refer her to a support group for other single parents in the surrounding community.",
+      "D": "Point out that her survival decisions show competence and resilience."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Point out that her survival decisions show competence and resilience.): This response names the strengths the client already used while surviving. It reframes her self-view from failure to capable without dismissing her real struggle. Asking what to change or waiting for her to be ready keeps the focus on what is missing. Referral alone does not build on the strengths the worker observed."
+  },
+  {
+    "id": 822,
+    "domain": "intervention_and_practice",
+    "question": "A community health center serves recent immigrants who often defer to staff during appointments. The social worker wants residents to lead a new wellness program rather than simply attend the sessions together. Which action BEST supports empowerment among this group?",
+    "options": {
+      "A": "Recruit bilingual staff to translate for residents at each meeting.",
+      "B": "Share the program plan with residents and ask for their feedback.",
+      "C": "Help residents plan and present the program to community leaders.",
+      "D": "Assign a case manager to coordinate the wellness program on residents' behalf."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Help residents plan and present the program to community leaders.): Empowerment grows when residents hold real control over decisions and represent themselves. Having them plan and present puts them in the lead rather than in a supporting role. Translation and feedback are useful but still keep professionals driving the plan. Residents need their own voice and authority to build confidence."
+  },
+  {
+    "id": 823,
+    "domain": "intervention_and_practice",
+    "question": "A client who has never been to counseling asks the social worker what will happen in their sessions and what she is expected to do. The client seems anxious but willing to begin. Which action BEST establishes the helping relationship?",
+    "options": {
+      "A": "Explain the purpose of sessions and how she can use them.",
+      "B": "Ask her to share her story first before any real explanation.",
+      "C": "Give her a list of rules to review carefully at home.",
+      "D": "Focus first on completing intake paperwork before discussing the sessions in any depth."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Explain the purpose of sessions and how she can use them.): Clarifying the purpose and the expected role reduces anxiety and sets a clear frame for the work. New clients often need to learn how the helping relationship functions before they trust it. Asking her to share before she understands the process can feel unsafe. A rules list is administrative and does not build the bond."
+  },
+  {
+    "id": 824,
+    "domain": "intervention_and_practice",
+    "question": "A homeless family requests a new apartment, but the agency has a long waitlist. The social worker sets a first meeting to define the problem with them. The family cannot qualify for the units currently available. Which action is the correct next step in the problem-solving process?",
+    "options": {
+      "A": "Generate several possible housing options and evaluate each one carefully together with the family.",
+      "B": "Identify what the family can realistically accomplish through the agency.",
+      "C": "Place the family on a higher priority list for emergency housing at the local agency office.",
+      "D": "Connect the family to every rental program in the area available to them now."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Identify what the family can realistically accomplish through the agency.): After the problem is defined, the next step is to identify feasible resources and a realistic goal. This keeps the plan grounded in what the agency and family can actually do. Generating options comes later, once the goal and constraints are clear. Listing every program or moving the list ignores the assessment still needed."
+  },
+  {
+    "id": 832,
+    "domain": "intervention_and_practice",
+    "question": "A client asks a social worker for a ride home and later invites the worker to her birthday dinner. The client has no other transport and the request comes amid a fragile period. Which response BEST maintains clear professional boundaries?",
+    "options": {
+      "A": "Accept the ride as a kindness but politely skip the dinner invitation.",
+      "B": "Decline both requests and offer a transport referral and a session.",
+      "C": "Explain the boundary rule and reschedule the session to that same day in the afternoons.",
+      "D": "Give the ride this one time but explain it cannot become routine."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Decline both requests and offer a transport referral and a session.): Providing a ride would create a dual relationship and dependency, and the dinner crosses a personal boundary. Declining both while offering appropriate alternatives keeps the helping frame clear. Accepting the ride sets a risky precedent even if the dinner is refused. A rule statement alone does not offer a usable path."
+  },
+  {
+    "id": 835,
+    "domain": "intervention_and_practice",
+    "question": "A woman attends her first counseling session after her sister encouraged her, but she says she has no real problems and mainly came to get her sister off her back. She missed two prior appointments. Which statement BEST engages her early?",
+    "options": {
+      "A": "It can help to use this time to talk about what is on your mind.",
+      "B": "Let us look at how often people attend once they begin the program each time.",
+      "C": "Your sister seems to care about you a great deal and wants you well.",
+      "D": "Ask her to describe what her sister told her before she agreed to come."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (It can help to use this time to talk about what is on your mind.): This opens a low pressure space and respects her choice about what she shares. It does not argue with her view that she has no problems. Statistics about attendance are not engaging. Focusing on her sister keeps the attention away from her."
+  },
+  {
+    "id": 841,
+    "domain": "intervention_and_practice",
+    "question": "A client manages care for a parent who has dementia and reports snapping at staff, poor sleep, and dread each morning. Her own doctor has not seen her in months. Which intervention BEST targets stress coping first at this point?",
+    "options": {
+      "A": "Encourage her to schedule a checkup and a short respite break.",
+      "B": "Review her daily schedule to reduce one caregiving task per week.",
+      "C": "Teach her a brief breathing and grounding routine for daily use.",
+      "D": "Refer her to a support group for caregivers that meets once a month."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Teach her a brief breathing and grounding routine for daily use.): The question targets stress coping, so a skill that lowers arousal in the moment is the direct fit. Breathing and grounding give her something she can use when the dread rises. A checkup and respite are valuable but are not stress-coping skills. Reducing tasks helps but does not teach regulation."
+  },
+  {
+    "id": 847,
+    "domain": "intervention_and_practice",
+    "question": "A client agrees to a goal of improving his mood, but every time the worker asks for specific details he says he just wants to feel better. He cannot name any change that would show progress. Which action BEST turns this into a usable treatment goal?",
+    "options": {
+      "A": "Write down 'feel better' and review it at each weekly meeting.",
+      "B": "Suggest he track his mood on a number scale each day.",
+      "C": "Ask him what would look different when the goal is met.",
+      "D": "Ask him to rate his overall satisfaction with life on a ten point scale."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Ask him what would look different when the goal is met.): A usable goal must be concrete and observable so progress can be measured. Defining what feeling better looks like makes the goal testable. Writing down a vague goal does not change the plan. Tracking mood is useful but does not define the target."
+  },
+  {
+    "id": 863,
+    "domain": "intervention_and_practice",
+    "question": "An agency that serves people in crisis wants to reduce restraint use with aggressive clients. Staff currently see restraint as the only safe option. Escalation often follows a pattern of early warning signs. Which change BEST reflects a trauma informed approach to adopt?",
+    "options": {
+      "A": "Add more staff on duty during the high risk shifts.",
+      "B": "Train staff to de-escalate once early warning signs appear.",
+      "C": "Create a rule that any restraint needs supervisor approval first.",
+      "D": "Rotate staff assignments so no one handles the same client repeatedly."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Train staff to de-escalate once early warning signs appear.): Trauma-informed care emphasizes prevention by reading triggers and intervening before a crisis peaks. Teaching staff to recognize early warning signs keeps incidents from escalating. Adding staff is a response, not a prevention skill. Requiring approval controls restraint but does not prevent the escalation."
+  },
+  {
+    "id": 864,
+    "domain": "intervention_and_practice",
+    "question": "A family brings a client with bipolar disorder to the clinic because he has not slept in days and is speaking rapidly about a risky plan that makes little sense. He has a history of mania but does not take his medicine. Which action is the social worker's FIRST priority?",
+    "options": {
+      "A": "Assess his safety and need for urgent psychiatric care.",
+      "B": "Talk with him calmly about the reasons behind his plan.",
+      "C": "Ask the family to wait outside so he can speak freely.",
+      "D": "Ask the family to describe his baseline behavior before deciding on next steps."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Assess his safety and need for urgent psychiatric care.): The mania, sleep deprivation, and risky plan signal possible danger to himself, so safety assessment comes first. A more structured or urgent level of care may be needed. Reasoning about his plan does not address the risk. Removing the family does not change his clinical state."
+  },
+  {
+    "id": 867,
+    "domain": "intervention_and_practice",
+    "question": "A client asks the worker which approach she should use for her symptoms. The worker recalls a recent study that did not match her client's age. The client is eager and has good support at home. Which action BEST reflects evidence based practice here?",
+    "options": {
+      "A": "Use the study's method since it is the latest published work.",
+      "B": "Reject the study because it does not fit the client's age.",
+      "C": "Consult a colleague before deciding whether the study applies to this client.",
+      "D": "Integrate the findings with clinical judgment and the client's values."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Integrate the findings with clinical judgment and the client's values.): Evidence based practice combines the best available evidence with clinical expertise and client circumstances. Using a mismatched study without judgment is not evidence based. Discarding the study completely throws away useful information. The client's values and the worker's judgment complete the decision."
+  },
+  {
+    "id": 869,
+    "domain": "intervention_and_practice",
+    "question": "A client whose mother died two years ago still misses her every day but manages work and keeps the household running. She asks whether she should let go of the sadness now. She sought brief grief counseling last year. Which response is BEST?",
+    "options": {
+      "A": "Explore whether she has an unresolved grief disorder that would need specific treatment to diagnose.",
+      "B": "Suggest she set aside a daily time to mourn so she can contain the sadness herself.",
+      "C": "Normalize that continuing to miss someone is compatible with moving forward.",
+      "D": "Invite her to bring a photograph of her mother to share when she next comes in."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Normalize that continuing to miss someone is compatible with moving forward.): Maintaining a bond with someone who died while still functioning is a common and healthy part of grief. This answers her question about whether the sadness means something is wrong. Exploring a grief disorder is reasonable only if functioning is impaired. Setting time aside or bringing a photo are tools that do not address her question."
+  },
+  {
+    "id": 870,
+    "domain": "intervention_and_practice",
+    "question": "A case manager is asked to record a client's progress before the family meeting and notes a positive outcome, but the client privately shared a setback. The client said he is not ready for the family to know. What is the MOST appropriate documentation practice?",
+    "options": {
+      "A": "Record only the positive outcomes because the client asked for privacy.",
+      "B": "Record the setback and share it in the meeting for transparency.",
+      "C": "Ask the client to disclose the setback himself at the family meeting.",
+      "D": "Record the setback accurately and note the client's disclosure preference."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Record the setback accurately and note the client's disclosure preference.): The record should be accurate and objective while respecting the client's right to control what is shared. Noting his preference protects his privacy without hiding the information. Recording only positives misrepresents his status. Sharing the setback in the meeting would break his confidentiality."
+  },
+  {
+    "id": 876,
+    "domain": "intervention_and_practice",
+    "question": "A supervisor wants to shift from correcting errors to helping a supervisee think through cases and develop her own clinical judgment. She is no longer new and handles routine cases well. Which supervisory model BEST matches this goal for her?",
+    "options": {
+      "A": "Prescriptive supervision that sets clear rules for each case.",
+      "B": "Administrative supervision focused on records and staff productivity.",
+      "C": "Case consultation supervision that reviews only the most complex files.",
+      "D": "A developmental model that moves from direction to consultation."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (A developmental model that moves from direction to consultation.): Developmental supervision matches the level of guidance to the supervisee's growing competence. As she develops, the supervisor shifts to consultation and reflection. Prescriptive supervision keeps the worker dependent on direction. Administrative supervision does not address clinical judgment."
+  },
+  {
+    "id": 882,
+    "domain": "intervention_and_practice",
+    "question": "A social worker begins working with a single mother who feels overwhelmed and powerless to change the difficult circumstances affecting her family's health and stability. Which action most directly reflects the empowerment tradition within social work practice and its core values?",
+    "options": {
+      "A": "Tell the mother which problems are the most important for her to address first.",
+      "B": "Provide the mother with a detailed plan that the worker has already prepared for her.",
+      "C": "Explain that the worker will handle all arrangements on the mother's behalf for now.",
+      "D": "Help the mother identify her personal strengths and connect her with local resources."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Help the mother identify her personal strengths and connect her with local resources.): Empowerment practice builds a client's capacity to act on her own behalf. Identifying strengths and connecting to resources supports self-determination and agency. The other options place the worker in control, which undermines the client's sense of power."
+  },
+  {
+    "id": 886,
+    "domain": "intervention_and_practice",
+    "question": "According to the standard problem solving model used in social work practice, after a worker and a client have identified a problem, generated several possible solutions, and selected the option they intend to pursue, which step should come next in the process?",
+    "options": {
+      "A": "Review the original problem and revise the goal before taking any action.",
+      "B": "Ask the client to list additional solutions to expand the available options.",
+      "C": "Implement the chosen solution and then evaluate how well it worked.",
+      "D": "End the session because the problem solving work has been completed."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Implement the chosen solution and then evaluate how well it worked.): After selecting a solution, the problem solving model moves to implementation and evaluation of the outcome. Implementing and evaluating lets the worker and client assess how well it worked and revise as needed. The other options either repeat earlier steps or end the process prematurely."
+  },
+  {
+    "id": 898,
+    "domain": "intervention_and_practice",
+    "question": "A client who drinks heavily every evening states, 'I do not have a drinking problem, but my partner keeps complaining about me.' Which motivational interviewing response best supports exploration of the ambivalence that the client is currently showing toward change?",
+    "options": {
+      "A": "Your partner is wrong to complain about this, and you should not feel pressured.",
+      "B": "So part of you sees no problem, and another part notices friction at home.",
+      "C": "You have a drinking problem and you would benefit from stopping right away.",
+      "D": "Tell me more about what your partner says that bothers you at home."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (So part of you sees no problem, and another part notices friction at home.): Motivational interviewing uses reflective statements to acknowledge and explore ambivalence. Naming both sides of the conflict helps the client examine the discrepancy without pressure. The other options either take a side, direct change, or shift away from the ambivalence."
+  },
+  {
+    "id": 905,
+    "domain": "intervention_and_practice",
+    "question": "A new therapy group begins with members being polite, testing the group leader, and sharing very little personal information. Which stage of group development is the group most likely in during this early phase of the group's work together as a whole?",
+    "options": {
+      "A": "Storming stage, when members express conflict and tension with the leader.",
+      "B": "Norming stage, when members begin to establish shared norms and cohesion.",
+      "C": "Adjourning stage, when members reflect on their experience and prepare to separate.",
+      "D": "Forming stage, when members are cautious and orient to the group."
+    },
+    "correct": "D",
+    "explanation": "The correct answer is D (Forming stage, when members are cautious and orient to the group.): In the forming stage, members are polite, uncertain, and rely on the leader for direction. They share little personal information while testing boundaries. The other options describe later stages marked by conflict or established cohesion."
+  },
+  {
+    "id": 915,
+    "domain": "intervention_and_practice",
+    "question": "A researcher tests a brand new intervention using a community sample but cannot randomly assign participants to groups. Which study design is the researcher most likely using to compare outcomes between the two existing comparison groups in this ongoing study?",
+    "options": {
+      "A": "A true experimental design, since the researcher manipulates the intervention.",
+      "B": "A quasi experimental design, since assignment is not random.",
+      "C": "A correlational design, since the researcher observes relationships only.",
+      "D": "A single subject design, since only one participant's outcomes are tracked over time."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (A quasi experimental design, since assignment is not random.): A quasi experimental design compares groups without random assignment, which is common when randomization is not possible. It still involves manipulation of the intervention but lacks the control of a true experiment. Options A and C describe designs that require random assignment or only observe relationships without any manipulation, and a single subject design tracks one participant over time rather than comparing two existing groups."
+  },
+  {
+    "id": 917,
+    "domain": "intervention_and_practice",
+    "question": "A client who has behaved in ways the social worker finds difficult and challenging says, 'You must think I am a bad person.' Which worker response best conveys unconditional acceptance in the helping relationship with this client right now in session?",
+    "options": {
+      "A": "You have made some real mistakes, and you should feel accountable for your choices.",
+      "B": "I do not judge you, and I want to understand what you are going through.",
+      "C": "Your behavior is the reason you feel judged by the people around you each day.",
+      "D": "Reassure her that everyone makes mistakes and worries about being judged sometimes."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (I do not judge you, and I want to understand what you are going through.): Acceptance in a helping relationship means the worker does not judge the client as a person while still understanding her behavior. This response conveys warmth and a nonjudgmental stance. The other options blame or interpret the client's behavior in ways that weaken acceptance."
+  },
+  {
+    "id": 944,
+    "domain": "values_and_ethics",
+    "question": "An adult client with a terminal illness informs the social worker that she intends to stop all medical treatment and enter hospice care. Her family strongly disagrees with the choice and urges the social worker to talk her out of it. What action should the social worker take first?",
+    "options": {
+      "A": "Assess the client's decisional capacity and support her right to self-determination.",
+      "B": "Encourage the client to follow her family's wishes to prevent conflict in the home right now.",
+      "C": "Ask the physician to decide whether the client should continue active treatment for the illness.",
+      "D": "Delay the discussion until the family can meet with the treatment team all together to talk."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Assess the client's decisional capacity and support her right to self-determination.): Social workers respect the right of a capable client to direct her own care. A capacity assessment helps confirm that the client can make an informed choice about treatment. Supporting her decision honors her autonomy rather than deferring to her family."
+  },
+  {
+    "id": 956,
+    "domain": "values_and_ethics",
+    "question": "A social worker who serves veterans at a community clinic has trouble sleeping at night after hearing many stories of combat trauma and feels distressed, tired, and withdrawn during the workday. The worker begins to avoid certain clients without knowing why. What is the most accurate name for this experience?",
+    "options": {
+      "A": "Secondary traumatic stress that comes from hearing about others' trauma.",
+      "B": "Legal liability that follows a failure to hold professional boundaries.",
+      "C": "A practice error that stems from poor documentation of the treatment.",
+      "D": "A client safety failure that triggers a mandatory report to authorities."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Secondary traumatic stress that comes from hearing about others' trauma.): Secondary traumatic stress is emotional distress that develops from hearing about another person's traumatic experiences. It is different from burnout and from a legal or ethical error in practice. Recognizing it is part of protecting professional and personal health."
+  },
+  {
+    "id": 957,
+    "domain": "values_and_ethics",
+    "question": "A social work student asks a supervisor why the profession treats self-care as an ethical responsibility for social workers rather than only a personal choice that a worker can ignore. The supervisor wants to explain the reason clearly. What is the best reason?",
+    "options": {
+      "A": "It is mainly a benefit that large organizations provide to their staff as a routine policy.",
+      "B": "It helps practitioners stay competent and fit to serve clients well.",
+      "C": "It protects the agency from spending money to hire new employees when people leave the work.",
+      "D": "It is mainly required so supervisors have something to document during compliance audits."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (It helps practitioners stay competent and fit to serve clients well.): Social workers are expected to practice self-care to preserve competence and avoid impaired practice. Poor self-care can harm clients and lead to burnout or errors. Ethical standards support self-care as part of a sustainable career and safe service delivery."
+  },
+  {
+    "id": 963,
+    "domain": "values_and_ethics",
+    "question": "A social worker is asked to provide supervision to staff at an agency where a former client's employer happens to be a close relative. The social worker wonders whether accepting the role would create a conflict of interest. What is the most ethical way to proceed?",
+    "options": {
+      "A": "Decline or disclose the conflict and seek guidance before accepting the role.",
+      "B": "Accept the role and keep the family connection private from the whole agency to avoid attention.",
+      "C": "Accept the supervision if the former client is not treated at that agency there.",
+      "D": "Accept the role and inform only the former client of the arrangement."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Decline or disclose the conflict and seek guidance before accepting the role.): Social workers should avoid professional arrangements that create a conflict of interest. A close relative of a former client in a supervisory role can cloud professional judgment. Disclosure and consultation allow the practitioner to make a sound ethical choice."
+  },
+  {
+    "id": 965,
+    "domain": "values_and_ethics",
+    "question": "A client who uses a wheelchair arrives for an appointment and finds that the counselor's office is on the second floor of a building with no working elevator. The agency has used that location for every client for years. What is the best response?",
+    "options": {
+      "A": "Offer the session by phone until the building's elevator can be repaired.",
+      "B": "Arrange an accessible room and ask the agency to fix the access barrier.",
+      "C": "Refer the client to another office that is known to be wheelchair accessible.",
+      "D": "Ask the client to reschedule for a day when staff can assist with the stairs."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Arrange an accessible room and ask the agency to fix the access barrier.): Social workers have an ethical responsibility to make services accessible and remove barriers for people with disabilities. A temporary phone session may help, but the accessibility problem remains. The practitioner should work toward a permanent, accessible solution."
+  },
+  {
+    "id": 979,
+    "domain": "values_and_ethics",
+    "question": "A social worker worries that the standard mental health assessment does not capture how a client's culture expresses distress or understands symptoms. The client has already described the problem in a different way, using words tied to her own culture. Which action shows cultural competence in this situation?",
+    "options": {
+      "A": "Adapt the assessment and ask about the client's own understanding of the problem.",
+      "B": "Use the standard tool so results stay comparable across the whole client group being served.",
+      "C": "Skip the assessment and rely only on the first meeting with the client today alone.",
+      "D": "Use an interpreter to administer the standard tool exactly as written."
+    },
+    "correct": "A",
+    "explanation": "The correct answer is A (Adapt the assessment and ask about the client's own understanding of the problem.): Cultural competence requires considering how culture shapes expression of distress and response to treatment. Adapting an assessment and asking the client about their own understanding gives a more accurate picture. Using an unmodified tool that ignores culture can produce a poor or wrong diagnosis."
+  },
+  {
+    "id": 980,
+    "domain": "values_and_ethics",
+    "question": "Near the end of a grief support session a client becomes tearful and reaches out to hug the social worker. The social worker wants to respond in a way that preserves trust and keeps the professional boundary clear. What is the best response?",
+    "options": {
+      "A": "Hug the client back to show empathy and connection in this very difficult moment.",
+      "B": "Respond calmly and gently clarify the professional boundary of the relationship.",
+      "C": "Step away quickly and end the session to avoid the whole difficult situation now.",
+      "D": "Tell the client not to touch the worker again during any future counseling session."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (Respond calmly and gently clarify the professional boundary of the relationship.): When a client starts physical contact, the social worker should set a boundary while honoring the feeling behind it. A warm but clear response keeps trust without confusing the relationship. Ending abruptly or returning the hug can create confusion or harm."
+  },
+  {
+    "id": 981,
+    "domain": "values_and_ethics",
+    "question": "A social worker learns that a colleague is practicing while impaired by alcohol and that clients may be at risk of harm. The colleague is well liked and under financial strain, so the worker feels conflicted. What should the social worker do?",
+    "options": {
+      "A": "Keep the concern private to protect the colleague's career and reputation.",
+      "B": "Document the concern but take no further action for the time being.",
+      "C": "Speak with the colleague and report the concern to the relevant authority.",
+      "D": "Suggest the colleague take a short leave without informing the employer."
+    },
+    "correct": "C",
+    "explanation": "The correct answer is C (Speak with the colleague and report the concern to the relevant authority.): Social workers must protect clients from a colleague's impairment. They should talk with the colleague and, when needed, report the problem to an employer or licensing board. Protecting a colleague at the expense of clients is not acceptable."
+  },
+  {
+    "id": 982,
+    "domain": "values_and_ethics",
+    "question": "A social work student is trying to understand the difference between two related ethical duties that both aim to prevent serious harm. The student asks for a clear contrast. How does the ethical duty to protect typically differ from the narrower duty to warn?",
+    "options": {
+      "A": "It applies only when the intended victim is a member of the client's own immediate family.",
+      "B": "It may require steps when harm is threatened to the client as well as to others.",
+      "C": "It is triggered only when there is a specific written threat from the client.",
+      "D": "It applies only after a court has ordered an evaluation of risk."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (It may require steps when harm is threatened to the client as well as to others.): The duty to protect can involve reasonable steps to prevent serious harm to the client, such as addressing suicide risk, or to a named third party. The duty to warn generally focuses on informing an identifiable victim. Both arise from the same obligation to prevent serious harm."
+  },
+  {
+    "id": 985,
+    "domain": "values_and_ethics",
+    "question": "A social worker is explaining to a colleague how a restorative approach to addressing harm differs from a purely punitive response. Both approaches can follow a harmful act, but they hold different goals and produce different outcomes. Which statement best expresses the difference?",
+    "options": {
+      "A": "It is designed to punish the person who caused the harm directly.",
+      "B": "It seeks to repair harm and address the needs of those affected.",
+      "C": "It focuses only on the offender's risk of causing harm again soon.",
+      "D": "It centers punishment as the main way to prevent future harm."
+    },
+    "correct": "B",
+    "explanation": "The correct answer is B (It seeks to repair harm and address the needs of those affected.): Restorative practice emphasizes accountability, repair, and the voices of people harmed. Purely punitive responses center punishment and often ignore the needs of those affected. A restorative lens supports healing and the repair of relationships."
+  }
+]
